@@ -1,0 +1,30 @@
+:root {
+  --background-color: #F6F6F6;
+  --card-color: #FFF;
+  --tags-color: #B6B6B6;
+  /* Definindo uma variável de cor */
+}
+
+div .stApp.streamlit-wide {
+  background-color: var(--background-color);
+}
+
+/* Columns*/
+div[data-testid="stHorizontalBlock"] div[data-testid="column"] {
+  padding: 4%;
+  border-radius: 4px;
+  background-color: var(--card-color);
+}
+
+/* Multiselect tags */
+*[data-baseweb="tag"] {
+  background-color: var(--tags-color);
+}
+
+/* Multiselect border  */
+.st-e1,
+.st-e2,
+.st-e3,
+.st-e4 {
+  border-color: var(--tags-color);
+}
