@@ -5,12 +5,19 @@
   /* Definindo uma variável de cor */
 }
 
-div .stApp.streamlit-wide {
+div .stApp {
   background-color: var(--background-color);
 }
 
+*[data-testid="stHeader"] {
+  display: none;
+}
+
+
+
 /* Columns*/
-div[data-testid="stHorizontalBlock"] div[data-testid="column"] {
+div[data-testid="stHorizontalBlock"] div[data-testid="column"],
+div[data-testid="stForm"] {
   padding: 4%;
   border-radius: 4px;
   background-color: var(--card-color);
