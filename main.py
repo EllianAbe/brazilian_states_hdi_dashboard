@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-from tabs import state_tab, comparision_tab
+from tabs import metrics_by_state_tab, states_by_metric_tab
 
 
 @st.cache_data
@@ -14,8 +14,8 @@ def main():
 
     df = get_data()
 
-    state_tab.main(state, df)
-    comparision_tab.main(comparision, df)
+    metrics_by_state_tab.main(state, df)
+    states_by_metric_tab.main(comparision, df)
 
 # Page setting
 st.set_page_config(layout="wide", page_title="States HDI")
