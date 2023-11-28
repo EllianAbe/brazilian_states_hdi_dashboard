@@ -10,7 +10,7 @@ def get_data():
     return df
 
 def main():
-    state, comparision = st.tabs(['state', 'comparision'])
+    state, comparision = st.tabs(['index by state', 'states by index'])
 
     df = get_data()
 
