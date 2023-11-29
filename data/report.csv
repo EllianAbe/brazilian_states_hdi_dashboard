@@ -1,1405 +1,1405 @@
-_id,co_uf,no_uf,ano,variavel,idh_categoria,idh_subcategoria,valor
-1,11,Rondônia,1991,IDH,Educação,Total,0.181
-2,11,Rondônia,1991,IDH,Longevidade,Total,0.635
-3,11,Rondônia,1991,IDH,Renda,Total,0.585
-4,11,Rondônia,1991,IDH,Total,Total,0.407
-5,11,Rondônia,2000,IDH,Educação,Total,0.345
-6,11,Rondônia,2000,IDH,Longevidade,Total,0.688
-7,11,Rondônia,2000,IDH,Renda,Total,0.654
-8,11,Rondônia,2000,IDH,Total,Total,0.537
-9,11,Rondônia,2010,IDH,Educação,Total,0.577
-10,11,Rondônia,2010,IDH,Longevidade,Total,0.8
-11,11,Rondônia,2010,IDH,Renda,Total,0.712
-12,11,Rondônia,2010,IDH,Total,Total,0.69
-13,11,Rondônia,2012,IDH,Educação,Total,0.637
-14,11,Rondônia,2012,IDH,Longevidade,Total,0.758
-15,11,Rondônia,2012,IDH,Renda,Total,0.692
-16,11,Rondônia,2012,IDH,Total,Total,0.694
-17,11,Rondônia,2013,IDH,Educação,Total,0.612
-18,11,Rondônia,2013,IDH,Longevidade,Total,0.762
-19,11,Rondônia,2013,IDH,Renda,Total,0.694
-20,11,Rondônia,2013,IDH,Total,Total,0.687
-21,11,Rondônia,2014,IDH,Educação,Total,0.627
-22,11,Rondônia,2014,IDH,Longevidade,Total,0.765
-23,11,Rondônia,2014,IDH,Renda,Total,0.691
-24,11,Rondônia,2014,IDH,Total,Total,0.692
-25,11,Rondônia,2015,IDH,Educação,Total,0.664
-26,11,Rondônia,2015,IDH,Longevidade,Total,0.769
-27,11,Rondônia,2015,IDH,Renda,Total,0.689
-28,11,Rondônia,2015,IDH,Total,Total,0.706
-29,11,Rondônia,2016,IDH,Educação,Total,0.691
-30,11,Rondônia,2016,IDH,Longevidade,Total,0.772
-31,11,Rondônia,2016,IDH,Renda,Total,0.686
-32,11,Rondônia,2016,IDH,Total,Total,0.715
-33,11,Rondônia,2017,IDH,Educação,Total,0.699
-34,11,Rondônia,2017,IDH,Longevidade,Total,0.775
-35,11,Rondônia,2017,IDH,Renda,Total,0.693
-36,11,Rondônia,2017,IDH,Total,Total,0.721
-37,11,Rondônia,2018,IDH,Educação,Total,0.705
-38,11,Rondônia,2018,IDH,Longevidade,Total,0.778
-39,11,Rondônia,2018,IDH,Renda,Total,0.71
-40,11,Rondônia,2018,IDH,Total,Total,0.73
-41,11,Rondônia,2019,IDH,Educação,Total,0.707
-42,11,Rondônia,2019,IDH,Longevidade,Total,0.781
-43,11,Rondônia,2019,IDH,Renda,Total,0.705
-44,11,Rondônia,2019,IDH,Total,Total,0.73
-45,11,Rondônia,2020,IDH,Educação,Total,0.743
-46,11,Rondônia,2020,IDH,Longevidade,Total,0.77
-47,11,Rondônia,2020,IDH,Renda,Total,0.704
-48,11,Rondônia,2020,IDH,Total,Total,0.739
-49,11,Rondônia,2021,IDH,Educação,Total,0.694
-50,11,Rondônia,2021,IDH,Longevidade,Total,0.731
-51,11,Rondônia,2021,IDH,Renda,Total,0.677
-52,11,Rondônia,2021,IDH,Total,Total,0.7
-53,12,Acre,1991,IDH,Educação,Total,0.176
-54,12,Acre,1991,IDH,Longevidade,Total,0.645
-55,12,Acre,1991,IDH,Renda,Total,0.574
-56,12,Acre,1991,IDH,Total,Total,0.402
-57,12,Acre,2000,IDH,Educação,Total,0.325
-58,12,Acre,2000,IDH,Longevidade,Total,0.694
-59,12,Acre,2000,IDH,Renda,Total,0.612
-60,12,Acre,2000,IDH,Total,Total,0.517
-61,12,Acre,2010,IDH,Educação,Total,0.559
-62,12,Acre,2010,IDH,Longevidade,Total,0.777
-63,12,Acre,2010,IDH,Renda,Total,0.671
-64,12,Acre,2010,IDH,Total,Total,0.663
-65,12,Acre,2012,IDH,Educação,Total,0.649
-66,12,Acre,2012,IDH,Longevidade,Total,0.791
-67,12,Acre,2012,IDH,Renda,Total,0.67
-68,12,Acre,2012,IDH,Total,Total,0.701
-69,12,Acre,2013,IDH,Educação,Total,0.658
-70,12,Acre,2013,IDH,Longevidade,Total,0.797
-71,12,Acre,2013,IDH,Renda,Total,0.67
-72,12,Acre,2013,IDH,Total,Total,0.706
-73,12,Acre,2014,IDH,Educação,Total,0.679
-74,12,Acre,2014,IDH,Longevidade,Total,0.804
-75,12,Acre,2014,IDH,Renda,Total,0.669
-76,12,Acre,2014,IDH,Total,Total,0.715
-77,12,Acre,2015,IDH,Educação,Total,0.679
-78,12,Acre,2015,IDH,Longevidade,Total,0.809
-79,12,Acre,2015,IDH,Renda,Total,0.674
-80,12,Acre,2015,IDH,Total,Total,0.718
-81,12,Acre,2016,IDH,Educação,Total,0.704
-82,12,Acre,2016,IDH,Longevidade,Total,0.815
-83,12,Acre,2016,IDH,Renda,Total,0.66
-84,12,Acre,2016,IDH,Total,Total,0.723
-85,12,Acre,2017,IDH,Educação,Total,0.671
-86,12,Acre,2017,IDH,Longevidade,Total,0.82
-87,12,Acre,2017,IDH,Renda,Total,0.655
-88,12,Acre,2017,IDH,Total,Total,0.712
-89,12,Acre,2018,IDH,Educação,Total,0.706
-90,12,Acre,2018,IDH,Longevidade,Total,0.825
-91,12,Acre,2018,IDH,Renda,Total,0.676
-92,12,Acre,2018,IDH,Total,Total,0.733
-93,12,Acre,2019,IDH,Educação,Total,0.728
-94,12,Acre,2019,IDH,Longevidade,Total,0.83
-95,12,Acre,2019,IDH,Renda,Total,0.668
-96,12,Acre,2019,IDH,Total,Total,0.739
-97,12,Acre,2020,IDH,Educação,Total,0.753
-98,12,Acre,2020,IDH,Longevidade,Total,0.825
-99,12,Acre,2020,IDH,Renda,Total,0.668
-100,12,Acre,2020,IDH,Total,Total,0.746
-101,12,Acre,2021,IDH,Educação,Total,0.692
-102,12,Acre,2021,IDH,Longevidade,Total,0.788
-103,12,Acre,2021,IDH,Renda,Total,0.655
-104,12,Acre,2021,IDH,Total,Total,0.71
-105,13,Amazonas,1991,IDH,Educação,Total,0.204
-106,13,Amazonas,1991,IDH,Longevidade,Total,0.645
-107,13,Amazonas,1991,IDH,Renda,Total,0.605
-108,13,Amazonas,1991,IDH,Total,Total,0.43
-109,13,Amazonas,2000,IDH,Educação,Total,0.324
-110,13,Amazonas,2000,IDH,Longevidade,Total,0.692
-111,13,Amazonas,2000,IDH,Renda,Total,0.608
-112,13,Amazonas,2000,IDH,Total,Total,0.515
-113,13,Amazonas,2010,IDH,Educação,Total,0.561
-114,13,Amazonas,2010,IDH,Longevidade,Total,0.805
-115,13,Amazonas,2010,IDH,Renda,Total,0.677
-116,13,Amazonas,2010,IDH,Total,Total,0.674
-117,13,Amazonas,2012,IDH,Educação,Total,0.632
-118,13,Amazonas,2012,IDH,Longevidade,Total,0.764
-119,13,Amazonas,2012,IDH,Renda,Total,0.683
-120,13,Amazonas,2012,IDH,Total,Total,0.691
-121,13,Amazonas,2013,IDH,Educação,Total,0.659
-122,13,Amazonas,2013,IDH,Longevidade,Total,0.769
-123,13,Amazonas,2013,IDH,Renda,Total,0.683
-124,13,Amazonas,2013,IDH,Total,Total,0.702
-125,13,Amazonas,2014,IDH,Educação,Total,0.667
-126,13,Amazonas,2014,IDH,Longevidade,Total,0.773
-127,13,Amazonas,2014,IDH,Renda,Total,0.683
-128,13,Amazonas,2014,IDH,Total,Total,0.706
-129,13,Amazonas,2015,IDH,Educação,Total,0.686
-130,13,Amazonas,2015,IDH,Longevidade,Total,0.777
-131,13,Amazonas,2015,IDH,Renda,Total,0.673
-132,13,Amazonas,2015,IDH,Total,Total,0.711
-133,13,Amazonas,2016,IDH,Educação,Total,0.705
-134,13,Amazonas,2016,IDH,Longevidade,Total,0.781
-135,13,Amazonas,2016,IDH,Renda,Total,0.654
-136,13,Amazonas,2016,IDH,Total,Total,0.711
-137,13,Amazonas,2017,IDH,Educação,Total,0.732
-138,13,Amazonas,2017,IDH,Longevidade,Total,0.785
-139,13,Amazonas,2017,IDH,Renda,Total,0.672
-140,13,Amazonas,2017,IDH,Total,Total,0.728
-141,13,Amazonas,2018,IDH,Educação,Total,0.717
-142,13,Amazonas,2018,IDH,Longevidade,Total,0.789
-143,13,Amazonas,2018,IDH,Renda,Total,0.655
-144,13,Amazonas,2018,IDH,Total,Total,0.718
-145,13,Amazonas,2019,IDH,Educação,Total,0.735
-146,13,Amazonas,2019,IDH,Longevidade,Total,0.792
-147,13,Amazonas,2019,IDH,Renda,Total,0.658
-148,13,Amazonas,2019,IDH,Total,Total,0.726
-149,13,Amazonas,2020,IDH,Educação,Total,0.748
-150,13,Amazonas,2020,IDH,Longevidade,Total,0.783
-151,13,Amazonas,2020,IDH,Renda,Total,0.657
-152,13,Amazonas,2020,IDH,Total,Total,0.727
-153,13,Amazonas,2021,IDH,Educação,Total,0.72
-154,13,Amazonas,2021,IDH,Longevidade,Total,0.744
-155,13,Amazonas,2021,IDH,Renda,Total,0.641
-156,13,Amazonas,2021,IDH,Total,Total,0.7
-157,14,Roraima,1991,IDH,Educação,Total,0.24
-158,14,Roraima,1991,IDH,Longevidade,Total,0.628
-159,14,Roraima,1991,IDH,Renda,Total,0.643
-160,14,Roraima,1991,IDH,Total,Total,0.459
-161,14,Roraima,2000,IDH,Educação,Total,0.457
-162,14,Roraima,2000,IDH,Longevidade,Total,0.717
-163,14,Roraima,2000,IDH,Renda,Total,0.652
-164,14,Roraima,2000,IDH,Total,Total,0.598
-165,14,Roraima,2010,IDH,Educação,Total,0.628
-166,14,Roraima,2010,IDH,Longevidade,Total,0.809
-167,14,Roraima,2010,IDH,Renda,Total,0.695
-168,14,Roraima,2010,IDH,Total,Total,0.707
-169,14,Roraima,2012,IDH,Educação,Total,0.746
-170,14,Roraima,2012,IDH,Longevidade,Total,0.752
-171,14,Roraima,2012,IDH,Renda,Total,0.717
-172,14,Roraima,2012,IDH,Total,Total,0.738
-173,14,Roraima,2013,IDH,Educação,Total,0.735
-174,14,Roraima,2013,IDH,Longevidade,Total,0.757
-175,14,Roraima,2013,IDH,Renda,Total,0.723
-176,14,Roraima,2013,IDH,Total,Total,0.738
-177,14,Roraima,2014,IDH,Educação,Total,0.757
-178,14,Roraima,2014,IDH,Longevidade,Total,0.763
-179,14,Roraima,2014,IDH,Renda,Total,0.712
-180,14,Roraima,2014,IDH,Total,Total,0.744
-181,14,Roraima,2015,IDH,Educação,Total,0.758
-182,14,Roraima,2015,IDH,Longevidade,Total,0.768
-183,14,Roraima,2015,IDH,Renda,Total,0.719
-184,14,Roraima,2015,IDH,Total,Total,0.748
-185,14,Roraima,2016,IDH,Educação,Total,0.771
-186,14,Roraima,2016,IDH,Longevidade,Total,0.774
-187,14,Roraima,2016,IDH,Renda,Total,0.714
-188,14,Roraima,2016,IDH,Total,Total,0.752
-189,14,Roraima,2017,IDH,Educação,Total,0.764
-190,14,Roraima,2017,IDH,Longevidade,Total,0.779
-191,14,Roraima,2017,IDH,Renda,Total,0.697
-192,14,Roraima,2017,IDH,Total,Total,0.746
-193,14,Roraima,2018,IDH,Educação,Total,0.774
-194,14,Roraima,2018,IDH,Longevidade,Total,0.784
-195,14,Roraima,2018,IDH,Renda,Total,0.723
-196,14,Roraima,2018,IDH,Total,Total,0.76
-197,14,Roraima,2019,IDH,Educação,Total,0.767
-198,14,Roraima,2019,IDH,Longevidade,Total,0.788
-199,14,Roraima,2019,IDH,Renda,Total,0.696
-200,14,Roraima,2019,IDH,Total,Total,0.749
-201,14,Roraima,2020,IDH,Educação,Total,0.759
-202,14,Roraima,2020,IDH,Longevidade,Total,0.783
-203,14,Roraima,2020,IDH,Renda,Total,0.68
-204,14,Roraima,2020,IDH,Total,Total,0.739
-205,14,Roraima,2021,IDH,Educação,Total,0.673
-206,14,Roraima,2021,IDH,Longevidade,Total,0.745
-207,14,Roraima,2021,IDH,Renda,Total,0.68
-208,14,Roraima,2021,IDH,Total,Total,0.699
-209,15,Pará,1991,IDH,Educação,Total,0.194
-210,15,Pará,1991,IDH,Longevidade,Total,0.64
-211,15,Pará,1991,IDH,Renda,Total,0.567
-212,15,Pará,1991,IDH,Total,Total,0.413
-213,15,Pará,2000,IDH,Educação,Total,0.319
-214,15,Pará,2000,IDH,Longevidade,Total,0.725
-215,15,Pará,2000,IDH,Renda,Total,0.601
-216,15,Pará,2000,IDH,Total,Total,0.518
-217,15,Pará,2010,IDH,Educação,Total,0.528
-218,15,Pará,2010,IDH,Longevidade,Total,0.789
-219,15,Pará,2010,IDH,Renda,Total,0.646
-220,15,Pará,2010,IDH,Total,Total,0.646
-221,15,Pará,2012,IDH,Educação,Total,0.583
-222,15,Pará,2012,IDH,Longevidade,Total,0.771
-223,15,Pará,2012,IDH,Renda,Total,0.658
-224,15,Pará,2012,IDH,Total,Total,0.666
-225,15,Pará,2013,IDH,Educação,Total,0.592
-226,15,Pará,2013,IDH,Longevidade,Total,0.774
-227,15,Pará,2013,IDH,Renda,Total,0.66
-228,15,Pará,2013,IDH,Total,Total,0.671
-229,15,Pará,2014,IDH,Educação,Total,0.623
-230,15,Pará,2014,IDH,Longevidade,Total,0.777
-231,15,Pará,2014,IDH,Renda,Total,0.66
-232,15,Pará,2014,IDH,Total,Total,0.684
-233,15,Pará,2015,IDH,Educação,Total,0.638
-234,15,Pará,2015,IDH,Longevidade,Total,0.781
-235,15,Pará,2015,IDH,Renda,Total,0.656
-236,15,Pará,2015,IDH,Total,Total,0.689
-237,15,Pará,2016,IDH,Educação,Total,0.641
-238,15,Pará,2016,IDH,Longevidade,Total,0.784
-239,15,Pará,2016,IDH,Renda,Total,0.646
-240,15,Pará,2016,IDH,Total,Total,0.687
-241,15,Pará,2017,IDH,Educação,Total,0.657
-242,15,Pará,2017,IDH,Longevidade,Total,0.787
-243,15,Pará,2017,IDH,Renda,Total,0.647
-244,15,Pará,2017,IDH,Total,Total,0.694
-245,15,Pará,2018,IDH,Educação,Total,0.671
-246,15,Pará,2018,IDH,Longevidade,Total,0.79
-247,15,Pará,2018,IDH,Renda,Total,0.667
-248,15,Pará,2018,IDH,Total,Total,0.707
-249,15,Pará,2019,IDH,Educação,Total,0.677
-250,15,Pará,2019,IDH,Longevidade,Total,0.793
-251,15,Pará,2019,IDH,Renda,Total,0.651
-252,15,Pará,2019,IDH,Total,Total,0.704
-253,15,Pará,2020,IDH,Educação,Total,0.713
-254,15,Pará,2020,IDH,Longevidade,Total,0.784
-255,15,Pará,2020,IDH,Renda,Total,0.664
-256,15,Pará,2020,IDH,Total,Total,0.719
-257,15,Pará,2021,IDH,Educação,Total,0.686
-258,15,Pará,2021,IDH,Longevidade,Total,0.744
-259,15,Pará,2021,IDH,Renda,Total,0.645
-260,15,Pará,2021,IDH,Total,Total,0.69
-261,16,Amapá,1991,IDH,Educação,Total,0.254
-262,16,Amapá,1991,IDH,Longevidade,Total,0.668
-263,16,Amapá,1991,IDH,Renda,Total,0.62
-264,16,Amapá,1991,IDH,Total,Total,0.472
-265,16,Amapá,2000,IDH,Educação,Total,0.424
-266,16,Amapá,2000,IDH,Longevidade,Total,0.711
-267,16,Amapá,2000,IDH,Renda,Total,0.638
-268,16,Amapá,2000,IDH,Total,Total,0.577
-269,16,Amapá,2010,IDH,Educação,Total,0.629
-270,16,Amapá,2010,IDH,Longevidade,Total,0.813
-271,16,Amapá,2010,IDH,Renda,Total,0.694
-272,16,Amapá,2010,IDH,Total,Total,0.708
-273,16,Amapá,2012,IDH,Educação,Total,0.659
-274,16,Amapá,2012,IDH,Longevidade,Total,0.796
-275,16,Amapá,2012,IDH,Renda,Total,0.673
-276,16,Amapá,2012,IDH,Total,Total,0.707
-277,16,Amapá,2013,IDH,Educação,Total,0.714
-278,16,Amapá,2013,IDH,Longevidade,Total,0.801
-279,16,Amapá,2013,IDH,Renda,Total,0.691
-280,16,Amapá,2013,IDH,Total,Total,0.734
-281,16,Amapá,2014,IDH,Educação,Total,0.688
-282,16,Amapá,2014,IDH,Longevidade,Total,0.806
-283,16,Amapá,2014,IDH,Renda,Total,0.687
-284,16,Amapá,2014,IDH,Total,Total,0.725
-285,16,Amapá,2015,IDH,Educação,Total,0.69
-286,16,Amapá,2015,IDH,Longevidade,Total,0.811
-287,16,Amapá,2015,IDH,Renda,Total,0.69
-288,16,Amapá,2015,IDH,Total,Total,0.728
-289,16,Amapá,2016,IDH,Educação,Total,0.709
-290,16,Amapá,2016,IDH,Longevidade,Total,0.815
-291,16,Amapá,2016,IDH,Renda,Total,0.682
-292,16,Amapá,2016,IDH,Total,Total,0.733
-293,16,Amapá,2017,IDH,Educação,Total,0.7
-294,16,Amapá,2017,IDH,Longevidade,Total,0.82
-295,16,Amapá,2017,IDH,Renda,Total,0.683
-296,16,Amapá,2017,IDH,Total,Total,0.732
-297,16,Amapá,2018,IDH,Educação,Total,0.742
-298,16,Amapá,2018,IDH,Longevidade,Total,0.824
-299,16,Amapá,2018,IDH,Renda,Total,0.666
-300,16,Amapá,2018,IDH,Total,Total,0.741
-301,16,Amapá,2019,IDH,Educação,Total,0.728
-302,16,Amapá,2019,IDH,Longevidade,Total,0.828
-303,16,Amapá,2019,IDH,Renda,Total,0.665
-304,16,Amapá,2019,IDH,Total,Total,0.737
-305,16,Amapá,2020,IDH,Educação,Total,0.701
-306,16,Amapá,2020,IDH,Longevidade,Total,0.815
-307,16,Amapá,2020,IDH,Renda,Total,0.663
-308,16,Amapá,2020,IDH,Total,Total,0.724
-309,16,Amapá,2021,IDH,Educação,Total,0.647
-310,16,Amapá,2021,IDH,Longevidade,Total,0.778
-311,16,Amapá,2021,IDH,Renda,Total,0.648
-312,16,Amapá,2021,IDH,Total,Total,0.688
-313,17,Tocantins,1991,IDH,Educação,Total,0.155
-314,17,Tocantins,1991,IDH,Longevidade,Total,0.589
-315,17,Tocantins,1991,IDH,Renda,Total,0.549
-316,17,Tocantins,1991,IDH,Total,Total,0.369
-317,17,Tocantins,2000,IDH,Educação,Total,0.348
-318,17,Tocantins,2000,IDH,Longevidade,Total,0.688
-319,17,Tocantins,2000,IDH,Renda,Total,0.605
-320,17,Tocantins,2000,IDH,Total,Total,0.525
-321,17,Tocantins,2010,IDH,Educação,Total,0.624
-322,17,Tocantins,2010,IDH,Longevidade,Total,0.793
-323,17,Tocantins,2010,IDH,Renda,Total,0.69
-324,17,Tocantins,2010,IDH,Total,Total,0.699
-325,17,Tocantins,2012,IDH,Educação,Total,0.676
-326,17,Tocantins,2012,IDH,Longevidade,Total,0.785
-327,17,Tocantins,2012,IDH,Renda,Total,0.674
-328,17,Tocantins,2012,IDH,Total,Total,0.71
-329,17,Tocantins,2013,IDH,Educação,Total,0.691
-330,17,Tocantins,2013,IDH,Longevidade,Total,0.79
-331,17,Tocantins,2013,IDH,Renda,Total,0.68
-332,17,Tocantins,2013,IDH,Total,Total,0.719
-333,17,Tocantins,2014,IDH,Educação,Total,0.729
-334,17,Tocantins,2014,IDH,Longevidade,Total,0.795
-335,17,Tocantins,2014,IDH,Renda,Total,0.692
-336,17,Tocantins,2014,IDH,Total,Total,0.737
-337,17,Tocantins,2015,IDH,Educação,Total,0.707
-338,17,Tocantins,2015,IDH,Longevidade,Total,0.8
-339,17,Tocantins,2015,IDH,Renda,Total,0.688
-340,17,Tocantins,2015,IDH,Total,Total,0.73
-341,17,Tocantins,2016,IDH,Educação,Total,0.723
-342,17,Tocantins,2016,IDH,Longevidade,Total,0.805
-343,17,Tocantins,2016,IDH,Renda,Total,0.679
-344,17,Tocantins,2016,IDH,Total,Total,0.734
-345,17,Tocantins,2017,IDH,Educação,Total,0.729
-346,17,Tocantins,2017,IDH,Longevidade,Total,0.809
-347,17,Tocantins,2017,IDH,Renda,Total,0.687
-348,17,Tocantins,2017,IDH,Total,Total,0.74
-349,17,Tocantins,2018,IDH,Educação,Total,0.741
-350,17,Tocantins,2018,IDH,Longevidade,Total,0.814
-351,17,Tocantins,2018,IDH,Renda,Total,0.698
-352,17,Tocantins,2018,IDH,Total,Total,0.749
-353,17,Tocantins,2019,IDH,Educação,Total,0.747
-354,17,Tocantins,2019,IDH,Longevidade,Total,0.818
-355,17,Tocantins,2019,IDH,Renda,Total,0.693
-356,17,Tocantins,2019,IDH,Total,Total,0.751
-357,17,Tocantins,2020,IDH,Educação,Total,0.763
-358,17,Tocantins,2020,IDH,Longevidade,Total,0.817
-359,17,Tocantins,2020,IDH,Renda,Total,0.691
-360,17,Tocantins,2020,IDH,Total,Total,0.755
-361,17,Tocantins,2021,IDH,Educação,Total,0.732
-362,17,Tocantins,2021,IDH,Longevidade,Total,0.779
-363,17,Tocantins,2021,IDH,Renda,Total,0.684
-364,17,Tocantins,2021,IDH,Total,Total,0.731
-365,21,Maranhão,1991,IDH,Educação,Total,0.173
-366,21,Maranhão,1991,IDH,Longevidade,Total,0.551
-367,21,Maranhão,1991,IDH,Renda,Total,0.478
-368,21,Maranhão,1991,IDH,Total,Total,0.357
-369,21,Maranhão,2000,IDH,Educação,Total,0.312
-370,21,Maranhão,2000,IDH,Longevidade,Total,0.649
-371,21,Maranhão,2000,IDH,Renda,Total,0.531
-372,21,Maranhão,2000,IDH,Total,Total,0.476
-373,21,Maranhão,2010,IDH,Educação,Total,0.562
-374,21,Maranhão,2010,IDH,Longevidade,Total,0.757
-375,21,Maranhão,2010,IDH,Renda,Total,0.612
-376,21,Maranhão,2010,IDH,Total,Total,0.639
-377,21,Maranhão,2012,IDH,Educação,Total,0.611
-378,21,Maranhão,2012,IDH,Longevidade,Total,0.739
-379,21,Maranhão,2012,IDH,Renda,Total,0.602
-380,21,Maranhão,2012,IDH,Total,Total,0.648
-381,21,Maranhão,2013,IDH,Educação,Total,0.639
-382,21,Maranhão,2013,IDH,Longevidade,Total,0.744
-383,21,Maranhão,2013,IDH,Renda,Total,0.607
-384,21,Maranhão,2013,IDH,Total,Total,0.661
-385,21,Maranhão,2014,IDH,Educação,Total,0.639
-386,21,Maranhão,2014,IDH,Longevidade,Total,0.749
-387,21,Maranhão,2014,IDH,Renda,Total,0.61
-388,21,Maranhão,2014,IDH,Total,Total,0.663
-389,21,Maranhão,2015,IDH,Educação,Total,0.649
-390,21,Maranhão,2015,IDH,Longevidade,Total,0.754
-391,21,Maranhão,2015,IDH,Renda,Total,0.613
-392,21,Maranhão,2015,IDH,Total,Total,0.669
-393,21,Maranhão,2016,IDH,Educação,Total,0.673
-394,21,Maranhão,2016,IDH,Longevidade,Total,0.759
-395,21,Maranhão,2016,IDH,Renda,Total,0.615
-396,21,Maranhão,2016,IDH,Total,Total,0.68
-397,21,Maranhão,2017,IDH,Educação,Total,0.684
-398,21,Maranhão,2017,IDH,Longevidade,Total,0.764
-399,21,Maranhão,2017,IDH,Renda,Total,0.616
-400,21,Maranhão,2017,IDH,Total,Total,0.685
-401,21,Maranhão,2018,IDH,Educação,Total,0.685
-402,21,Maranhão,2018,IDH,Longevidade,Total,0.769
-403,21,Maranhão,2018,IDH,Renda,Total,0.613
-404,21,Maranhão,2018,IDH,Total,Total,0.686
-405,21,Maranhão,2019,IDH,Educação,Total,0.704
-406,21,Maranhão,2019,IDH,Longevidade,Total,0.773
-407,21,Maranhão,2019,IDH,Renda,Total,0.614
-408,21,Maranhão,2019,IDH,Total,Total,0.694
-409,21,Maranhão,2020,IDH,Educação,Total,0.726
-410,21,Maranhão,2020,IDH,Longevidade,Total,0.758
-411,21,Maranhão,2020,IDH,Renda,Total,0.621
-412,21,Maranhão,2020,IDH,Total,Total,0.699
-413,21,Maranhão,2021,IDH,Educação,Total,0.716
-414,21,Maranhão,2021,IDH,Longevidade,Total,0.715
-415,21,Maranhão,2021,IDH,Renda,Total,0.603
-416,21,Maranhão,2021,IDH,Total,Total,0.676
-417,22,Piauí,1991,IDH,Educação,Total,0.164
-418,22,Piauí,1991,IDH,Longevidade,Total,0.595
-419,22,Piauí,1991,IDH,Renda,Total,0.488
-420,22,Piauí,1991,IDH,Total,Total,0.362
-421,22,Piauí,2000,IDH,Educação,Total,0.301
-422,22,Piauí,2000,IDH,Longevidade,Total,0.676
-423,22,Piauí,2000,IDH,Renda,Total,0.556
-424,22,Piauí,2000,IDH,Total,Total,0.484
-425,22,Piauí,2010,IDH,Educação,Total,0.547
-426,22,Piauí,2010,IDH,Longevidade,Total,0.777
-427,22,Piauí,2010,IDH,Renda,Total,0.635
-428,22,Piauí,2010,IDH,Total,Total,0.646
-429,22,Piauí,2012,IDH,Educação,Total,0.6
-430,22,Piauí,2012,IDH,Longevidade,Total,0.753
-431,22,Piauí,2012,IDH,Renda,Total,0.635
-432,22,Piauí,2012,IDH,Total,Total,0.66
-433,22,Piauí,2013,IDH,Educação,Total,0.623
-434,22,Piauí,2013,IDH,Longevidade,Total,0.756
-435,22,Piauí,2013,IDH,Renda,Total,0.666
-436,22,Piauí,2013,IDH,Total,Total,0.679
-437,22,Piauí,2014,IDH,Educação,Total,0.639
-438,22,Piauí,2014,IDH,Longevidade,Total,0.76
-439,22,Piauí,2014,IDH,Renda,Total,0.665
-440,22,Piauí,2014,IDH,Total,Total,0.686
-441,22,Piauí,2015,IDH,Educação,Total,0.643
-442,22,Piauí,2015,IDH,Longevidade,Total,0.763
-443,22,Piauí,2015,IDH,Renda,Total,0.668
-444,22,Piauí,2015,IDH,Total,Total,0.689
-445,22,Piauí,2016,IDH,Educação,Total,0.642
-446,22,Piauí,2016,IDH,Longevidade,Total,0.766
-447,22,Piauí,2016,IDH,Renda,Total,0.655
-448,22,Piauí,2016,IDH,Total,Total,0.685
-449,22,Piauí,2017,IDH,Educação,Total,0.665
-450,22,Piauí,2017,IDH,Longevidade,Total,0.769
-451,22,Piauí,2017,IDH,Renda,Total,0.653
-452,22,Piauí,2017,IDH,Total,Total,0.694
-453,22,Piauí,2018,IDH,Educação,Total,0.671
-454,22,Piauí,2018,IDH,Longevidade,Total,0.772
-455,22,Piauí,2018,IDH,Renda,Total,0.658
-456,22,Piauí,2018,IDH,Total,Total,0.699
-457,22,Piauí,2019,IDH,Educação,Total,0.692
-458,22,Piauí,2019,IDH,Longevidade,Total,0.775
-459,22,Piauí,2019,IDH,Renda,Total,0.657
-460,22,Piauí,2019,IDH,Total,Total,0.706
-461,22,Piauí,2020,IDH,Educação,Total,0.7
-462,22,Piauí,2020,IDH,Longevidade,Total,0.768
-463,22,Piauí,2020,IDH,Renda,Total,0.659
-464,22,Piauí,2020,IDH,Total,Total,0.708
-465,22,Piauí,2021,IDH,Educação,Total,0.698
-466,22,Piauí,2021,IDH,Longevidade,Total,0.726
-467,22,Piauí,2021,IDH,Renda,Total,0.649
-468,22,Piauí,2021,IDH,Total,Total,0.69
-469,23,Ceará,1991,IDH,Educação,Total,0.204
-470,23,Ceará,1991,IDH,Longevidade,Total,0.613
-471,23,Ceará,1991,IDH,Renda,Total,0.532
-472,23,Ceará,1991,IDH,Total,Total,0.405
-473,23,Ceará,2000,IDH,Educação,Total,0.377
-474,23,Ceará,2000,IDH,Longevidade,Total,0.713
-475,23,Ceará,2000,IDH,Renda,Total,0.588
-476,23,Ceará,2000,IDH,Total,Total,0.541
-477,23,Ceará,2010,IDH,Educação,Total,0.615
-478,23,Ceará,2010,IDH,Longevidade,Total,0.793
-479,23,Ceará,2010,IDH,Renda,Total,0.651
-480,23,Ceará,2010,IDH,Total,Total,0.682
-481,23,Ceará,2012,IDH,Educação,Total,0.667
-482,23,Ceará,2012,IDH,Longevidade,Total,0.796
-483,23,Ceará,2012,IDH,Renda,Total,0.648
-484,23,Ceará,2012,IDH,Total,Total,0.701
-485,23,Ceará,2013,IDH,Educação,Total,0.667
-486,23,Ceará,2013,IDH,Longevidade,Total,0.801
-487,23,Ceará,2013,IDH,Renda,Total,0.656
-488,23,Ceará,2013,IDH,Total,Total,0.705
-489,23,Ceará,2014,IDH,Educação,Total,0.679
-490,23,Ceará,2014,IDH,Longevidade,Total,0.804
-491,23,Ceará,2014,IDH,Renda,Total,0.656
-492,23,Ceará,2014,IDH,Total,Total,0.71
-493,23,Ceará,2015,IDH,Educação,Total,0.689
-494,23,Ceará,2015,IDH,Longevidade,Total,0.808
-495,23,Ceará,2015,IDH,Renda,Total,0.657
-496,23,Ceará,2015,IDH,Total,Total,0.715
-497,23,Ceará,2016,IDH,Educação,Total,0.708
-498,23,Ceará,2016,IDH,Longevidade,Total,0.812
-499,23,Ceará,2016,IDH,Renda,Total,0.656
-500,23,Ceará,2016,IDH,Total,Total,0.722
-501,23,Ceará,2017,IDH,Educação,Total,0.715
-502,23,Ceará,2017,IDH,Longevidade,Total,0.816
-503,23,Ceará,2017,IDH,Renda,Total,0.666
-504,23,Ceará,2017,IDH,Total,Total,0.73
-505,23,Ceará,2018,IDH,Educação,Total,0.74
-506,23,Ceará,2018,IDH,Longevidade,Total,0.819
-507,23,Ceará,2018,IDH,Renda,Total,0.666
-508,23,Ceará,2018,IDH,Total,Total,0.739
-509,23,Ceará,2019,IDH,Educação,Total,0.74
-510,23,Ceará,2019,IDH,Longevidade,Total,0.823
-511,23,Ceará,2019,IDH,Renda,Total,0.677
-512,23,Ceará,2019,IDH,Total,Total,0.744
-513,23,Ceará,2020,IDH,Educação,Total,0.766
-514,23,Ceará,2020,IDH,Longevidade,Total,0.822
-515,23,Ceará,2020,IDH,Renda,Total,0.684
-516,23,Ceará,2020,IDH,Total,Total,0.755
-517,23,Ceará,2021,IDH,Educação,Total,0.766
-518,23,Ceará,2021,IDH,Longevidade,Total,0.784
-519,23,Ceará,2021,IDH,Renda,Total,0.658
-520,23,Ceará,2021,IDH,Total,Total,0.734
-521,24,Rio Grande do Norte,1991,IDH,Educação,Total,0.242
-522,24,Rio Grande do Norte,1991,IDH,Longevidade,Total,0.591
-523,24,Rio Grande do Norte,1991,IDH,Renda,Total,0.547
-524,24,Rio Grande do Norte,1991,IDH,Total,Total,0.428
-525,24,Rio Grande do Norte,2000,IDH,Educação,Total,0.396
-526,24,Rio Grande do Norte,2000,IDH,Longevidade,Total,0.7
-527,24,Rio Grande do Norte,2000,IDH,Renda,Total,0.608
-528,24,Rio Grande do Norte,2000,IDH,Total,Total,0.552
-529,24,Rio Grande do Norte,2010,IDH,Educação,Total,0.597
-530,24,Rio Grande do Norte,2010,IDH,Longevidade,Total,0.792
-531,24,Rio Grande do Norte,2010,IDH,Renda,Total,0.678
-532,24,Rio Grande do Norte,2010,IDH,Total,Total,0.684
-533,24,Rio Grande do Norte,2012,IDH,Educação,Total,0.617
-534,24,Rio Grande do Norte,2012,IDH,Longevidade,Total,0.827
-535,24,Rio Grande do Norte,2012,IDH,Renda,Total,0.658
-536,24,Rio Grande do Norte,2012,IDH,Total,Total,0.695
-537,24,Rio Grande do Norte,2013,IDH,Educação,Total,0.642
-538,24,Rio Grande do Norte,2013,IDH,Longevidade,Total,0.831
-539,24,Rio Grande do Norte,2013,IDH,Renda,Total,0.67
-540,24,Rio Grande do Norte,2013,IDH,Total,Total,0.71
-541,24,Rio Grande do Norte,2014,IDH,Educação,Total,0.668
-542,24,Rio Grande do Norte,2014,IDH,Longevidade,Total,0.836
-543,24,Rio Grande do Norte,2014,IDH,Renda,Total,0.676
-544,24,Rio Grande do Norte,2014,IDH,Total,Total,0.723
-545,24,Rio Grande do Norte,2015,IDH,Educação,Total,0.683
-546,24,Rio Grande do Norte,2015,IDH,Longevidade,Total,0.84
-547,24,Rio Grande do Norte,2015,IDH,Renda,Total,0.687
-548,24,Rio Grande do Norte,2015,IDH,Total,Total,0.733
-549,24,Rio Grande do Norte,2016,IDH,Educação,Total,0.676
-550,24,Rio Grande do Norte,2016,IDH,Longevidade,Total,0.844
-551,24,Rio Grande do Norte,2016,IDH,Renda,Total,0.687
-552,24,Rio Grande do Norte,2016,IDH,Total,Total,0.732
-553,24,Rio Grande do Norte,2017,IDH,Educação,Total,0.677
-554,24,Rio Grande do Norte,2017,IDH,Longevidade,Total,0.848
-555,24,Rio Grande do Norte,2017,IDH,Renda,Total,0.672
-556,24,Rio Grande do Norte,2017,IDH,Total,Total,0.728
-557,24,Rio Grande do Norte,2018,IDH,Educação,Total,0.69
-558,24,Rio Grande do Norte,2018,IDH,Longevidade,Total,0.851
-559,24,Rio Grande do Norte,2018,IDH,Renda,Total,0.686
-560,24,Rio Grande do Norte,2018,IDH,Total,Total,0.739
-561,24,Rio Grande do Norte,2019,IDH,Educação,Total,0.689
-562,24,Rio Grande do Norte,2019,IDH,Longevidade,Total,0.855
-563,24,Rio Grande do Norte,2019,IDH,Renda,Total,0.693
-564,24,Rio Grande do Norte,2019,IDH,Total,Total,0.742
-565,24,Rio Grande do Norte,2020,IDH,Educação,Total,0.71
-566,24,Rio Grande do Norte,2020,IDH,Longevidade,Total,0.855
-567,24,Rio Grande do Norte,2020,IDH,Renda,Total,0.695
-568,24,Rio Grande do Norte,2020,IDH,Total,Total,0.75
-569,24,Rio Grande do Norte,2021,IDH,Educação,Total,0.68
-570,24,Rio Grande do Norte,2021,IDH,Longevidade,Total,0.819
-571,24,Rio Grande do Norte,2021,IDH,Renda,Total,0.692
-572,24,Rio Grande do Norte,2021,IDH,Total,Total,0.728
-573,25,Paraíba,1991,IDH,Educação,Total,0.191
-574,25,Paraíba,1991,IDH,Longevidade,Total,0.565
-575,25,Paraíba,1991,IDH,Renda,Total,0.515
-576,25,Paraíba,1991,IDH,Total,Total,0.382
-577,25,Paraíba,2000,IDH,Educação,Total,0.331
-578,25,Paraíba,2000,IDH,Longevidade,Total,0.672
-579,25,Paraíba,2000,IDH,Renda,Total,0.582
-580,25,Paraíba,2000,IDH,Total,Total,0.506
-581,25,Paraíba,2010,IDH,Educação,Total,0.555
-582,25,Paraíba,2010,IDH,Longevidade,Total,0.783
-583,25,Paraíba,2010,IDH,Renda,Total,0.656
-584,25,Paraíba,2010,IDH,Total,Total,0.658
-585,25,Paraíba,2012,IDH,Educação,Total,0.601
-586,25,Paraíba,2012,IDH,Longevidade,Total,0.78
-587,25,Paraíba,2012,IDH,Renda,Total,0.649
-588,25,Paraíba,2012,IDH,Total,Total,0.673
-589,25,Paraíba,2013,IDH,Educação,Total,0.584
-590,25,Paraíba,2013,IDH,Longevidade,Total,0.786
-591,25,Paraíba,2013,IDH,Renda,Total,0.655
-592,25,Paraíba,2013,IDH,Total,Total,0.67
-593,25,Paraíba,2014,IDH,Educação,Total,0.619
-594,25,Paraíba,2014,IDH,Longevidade,Total,0.791
-595,25,Paraíba,2014,IDH,Renda,Total,0.671
-596,25,Paraíba,2014,IDH,Total,Total,0.69
-597,25,Paraíba,2015,IDH,Educação,Total,0.644
-598,25,Paraíba,2015,IDH,Longevidade,Total,0.797
-599,25,Paraíba,2015,IDH,Renda,Total,0.678
-600,25,Paraíba,2015,IDH,Total,Total,0.703
-601,25,Paraíba,2016,IDH,Educação,Total,0.657
-602,25,Paraíba,2016,IDH,Longevidade,Total,0.802
-603,25,Paraíba,2016,IDH,Renda,Total,0.663
-604,25,Paraíba,2016,IDH,Total,Total,0.704
-605,25,Paraíba,2017,IDH,Educação,Total,0.671
-606,25,Paraíba,2017,IDH,Longevidade,Total,0.807
-607,25,Paraíba,2017,IDH,Renda,Total,0.682
-608,25,Paraíba,2017,IDH,Total,Total,0.717
-609,25,Paraíba,2018,IDH,Educação,Total,0.658
-610,25,Paraíba,2018,IDH,Longevidade,Total,0.812
-611,25,Paraíba,2018,IDH,Renda,Total,0.672
-612,25,Paraíba,2018,IDH,Total,Total,0.711
-613,25,Paraíba,2019,IDH,Educação,Total,0.66
-614,25,Paraíba,2019,IDH,Longevidade,Total,0.816
-615,25,Paraíba,2019,IDH,Renda,Total,0.672
-616,25,Paraíba,2019,IDH,Total,Total,0.713
-617,25,Paraíba,2020,IDH,Educação,Total,0.673
-618,25,Paraíba,2020,IDH,Longevidade,Total,0.816
-619,25,Paraíba,2020,IDH,Renda,Total,0.664
-620,25,Paraíba,2020,IDH,Total,Total,0.714
-621,25,Paraíba,2021,IDH,Educação,Total,0.669
-622,25,Paraíba,2021,IDH,Longevidade,Total,0.779
-623,25,Paraíba,2021,IDH,Renda,Total,0.653
-624,25,Paraíba,2021,IDH,Total,Total,0.698
-625,26,Pernambuco,1991,IDH,Educação,Total,0.242
-626,26,Pernambuco,1991,IDH,Longevidade,Total,0.617
-627,26,Pernambuco,1991,IDH,Renda,Total,0.569
-628,26,Pernambuco,1991,IDH,Total,Total,0.44
-629,26,Pernambuco,2000,IDH,Educação,Total,0.372
-630,26,Pernambuco,2000,IDH,Longevidade,Total,0.705
-631,26,Pernambuco,2000,IDH,Renda,Total,0.615
-632,26,Pernambuco,2000,IDH,Total,Total,0.544
-633,26,Pernambuco,2010,IDH,Educação,Total,0.574
-634,26,Pernambuco,2010,IDH,Longevidade,Total,0.789
-635,26,Pernambuco,2010,IDH,Renda,Total,0.673
-636,26,Pernambuco,2010,IDH,Total,Total,0.673
-637,26,Pernambuco,2012,IDH,Educação,Total,0.616
-638,26,Pernambuco,2012,IDH,Longevidade,Total,0.784
-639,26,Pernambuco,2012,IDH,Renda,Total,0.673
-640,26,Pernambuco,2012,IDH,Total,Total,0.688
-641,26,Pernambuco,2013,IDH,Educação,Total,0.641
-642,26,Pernambuco,2013,IDH,Longevidade,Total,0.792
-643,26,Pernambuco,2013,IDH,Renda,Total,0.685
-644,26,Pernambuco,2013,IDH,Total,Total,0.703
-645,26,Pernambuco,2014,IDH,Educação,Total,0.656
-646,26,Pernambuco,2014,IDH,Longevidade,Total,0.799
-647,26,Pernambuco,2014,IDH,Renda,Total,0.698
-648,26,Pernambuco,2014,IDH,Total,Total,0.715
-649,26,Pernambuco,2015,IDH,Educação,Total,0.678
-650,26,Pernambuco,2015,IDH,Longevidade,Total,0.806
-651,26,Pernambuco,2015,IDH,Renda,Total,0.688
-652,26,Pernambuco,2015,IDH,Total,Total,0.722
-653,26,Pernambuco,2016,IDH,Educação,Total,0.69
-654,26,Pernambuco,2016,IDH,Longevidade,Total,0.813
-655,26,Pernambuco,2016,IDH,Renda,Total,0.677
-656,26,Pernambuco,2016,IDH,Total,Total,0.724
-657,26,Pernambuco,2017,IDH,Educação,Total,0.684
-658,26,Pernambuco,2017,IDH,Longevidade,Total,0.819
-659,26,Pernambuco,2017,IDH,Renda,Total,0.671
-660,26,Pernambuco,2017,IDH,Total,Total,0.722
-661,26,Pernambuco,2018,IDH,Educação,Total,0.719
-662,26,Pernambuco,2018,IDH,Longevidade,Total,0.826
-663,26,Pernambuco,2018,IDH,Renda,Total,0.669
-664,26,Pernambuco,2018,IDH,Total,Total,0.735
-665,26,Pernambuco,2019,IDH,Educação,Total,0.718
-666,26,Pernambuco,2019,IDH,Longevidade,Total,0.831
-667,26,Pernambuco,2019,IDH,Renda,Total,0.68
-668,26,Pernambuco,2019,IDH,Total,Total,0.74
-669,26,Pernambuco,2020,IDH,Educação,Total,0.729
-670,26,Pernambuco,2020,IDH,Longevidade,Total,0.831
-671,26,Pernambuco,2020,IDH,Renda,Total,0.667
-672,26,Pernambuco,2020,IDH,Total,Total,0.739
-673,26,Pernambuco,2021,IDH,Educação,Total,0.721
-674,26,Pernambuco,2021,IDH,Longevidade,Total,0.797
-675,26,Pernambuco,2021,IDH,Renda,Total,0.647
-676,26,Pernambuco,2021,IDH,Total,Total,0.719
-677,27,Alagoas,1991,IDH,Educação,Total,0.174
-678,27,Alagoas,1991,IDH,Longevidade,Total,0.552
-679,27,Alagoas,1991,IDH,Renda,Total,0.527
-680,27,Alagoas,1991,IDH,Total,Total,0.37
-681,27,Alagoas,2000,IDH,Educação,Total,0.282
-682,27,Alagoas,2000,IDH,Longevidade,Total,0.647
-683,27,Alagoas,2000,IDH,Renda,Total,0.574
-684,27,Alagoas,2000,IDH,Total,Total,0.471
-685,27,Alagoas,2010,IDH,Educação,Total,0.52
-686,27,Alagoas,2010,IDH,Longevidade,Total,0.755
-687,27,Alagoas,2010,IDH,Renda,Total,0.641
-688,27,Alagoas,2010,IDH,Total,Total,0.631
-689,27,Alagoas,2012,IDH,Educação,Total,0.587
-690,27,Alagoas,2012,IDH,Longevidade,Total,0.749
-691,27,Alagoas,2012,IDH,Renda,Total,0.627
-692,27,Alagoas,2012,IDH,Total,Total,0.651
-693,27,Alagoas,2013,IDH,Educação,Total,0.573
-694,27,Alagoas,2013,IDH,Longevidade,Total,0.756
-695,27,Alagoas,2013,IDH,Renda,Total,0.629
-696,27,Alagoas,2013,IDH,Total,Total,0.648
-697,27,Alagoas,2014,IDH,Educação,Total,0.599
-698,27,Alagoas,2014,IDH,Longevidade,Total,0.763
-699,27,Alagoas,2014,IDH,Renda,Total,0.645
-700,27,Alagoas,2014,IDH,Total,Total,0.666
-701,27,Alagoas,2015,IDH,Educação,Total,0.605
-702,27,Alagoas,2015,IDH,Longevidade,Total,0.769
-703,27,Alagoas,2015,IDH,Renda,Total,0.636
-704,27,Alagoas,2015,IDH,Total,Total,0.666
-705,27,Alagoas,2016,IDH,Educação,Total,0.635
-706,27,Alagoas,2016,IDH,Longevidade,Total,0.776
-707,27,Alagoas,2016,IDH,Renda,Total,0.637
-708,27,Alagoas,2016,IDH,Total,Total,0.68
-709,27,Alagoas,2017,IDH,Educação,Total,0.634
-710,27,Alagoas,2017,IDH,Longevidade,Total,0.782
-711,27,Alagoas,2017,IDH,Renda,Total,0.631
-712,27,Alagoas,2017,IDH,Total,Total,0.679
-713,27,Alagoas,2018,IDH,Educação,Total,0.651
-714,27,Alagoas,2018,IDH,Longevidade,Total,0.788
-715,27,Alagoas,2018,IDH,Renda,Total,0.637
-716,27,Alagoas,2018,IDH,Total,Total,0.689
-717,27,Alagoas,2019,IDH,Educação,Total,0.643
-718,27,Alagoas,2019,IDH,Longevidade,Total,0.793
-719,27,Alagoas,2019,IDH,Renda,Total,0.636
-720,27,Alagoas,2019,IDH,Total,Total,0.687
-721,27,Alagoas,2020,IDH,Educação,Total,0.66
-722,27,Alagoas,2020,IDH,Longevidade,Total,0.786
-723,27,Alagoas,2020,IDH,Renda,Total,0.645
-724,27,Alagoas,2020,IDH,Total,Total,0.694
-725,27,Alagoas,2021,IDH,Educação,Total,0.679
-726,27,Alagoas,2021,IDH,Longevidade,Total,0.748
-727,27,Alagoas,2021,IDH,Renda,Total,0.63
-728,27,Alagoas,2021,IDH,Total,Total,0.684
-729,28,Sergipe,1991,IDH,Educação,Total,0.211
-730,28,Sergipe,1991,IDH,Longevidade,Total,0.581
-731,28,Sergipe,1991,IDH,Renda,Total,0.552
-732,28,Sergipe,1991,IDH,Total,Total,0.408
-733,28,Sergipe,2000,IDH,Educação,Total,0.343
-734,28,Sergipe,2000,IDH,Longevidade,Total,0.678
-735,28,Sergipe,2000,IDH,Renda,Total,0.596
-736,28,Sergipe,2000,IDH,Total,Total,0.518
-737,28,Sergipe,2010,IDH,Educação,Total,0.56
-738,28,Sergipe,2010,IDH,Longevidade,Total,0.781
-739,28,Sergipe,2010,IDH,Renda,Total,0.672
-740,28,Sergipe,2010,IDH,Total,Total,0.665
-741,28,Sergipe,2012,IDH,Educação,Total,0.607
-742,28,Sergipe,2012,IDH,Longevidade,Total,0.775
-743,28,Sergipe,2012,IDH,Renda,Total,0.679
-744,28,Sergipe,2012,IDH,Total,Total,0.684
-745,28,Sergipe,2013,IDH,Educação,Total,0.598
-746,28,Sergipe,2013,IDH,Longevidade,Total,0.779
-747,28,Sergipe,2013,IDH,Renda,Total,0.685
-748,28,Sergipe,2013,IDH,Total,Total,0.683
-749,28,Sergipe,2014,IDH,Educação,Total,0.625
-750,28,Sergipe,2014,IDH,Longevidade,Total,0.784
-751,28,Sergipe,2014,IDH,Renda,Total,0.688
-752,28,Sergipe,2014,IDH,Total,Total,0.696
-753,28,Sergipe,2015,IDH,Educação,Total,0.633
-754,28,Sergipe,2015,IDH,Longevidade,Total,0.788
-755,28,Sergipe,2015,IDH,Renda,Total,0.68
-756,28,Sergipe,2015,IDH,Total,Total,0.697
-757,28,Sergipe,2016,IDH,Educação,Total,0.625
-758,28,Sergipe,2016,IDH,Longevidade,Total,0.793
-759,28,Sergipe,2016,IDH,Renda,Total,0.683
-760,28,Sergipe,2016,IDH,Total,Total,0.697
-761,28,Sergipe,2017,IDH,Educação,Total,0.639
-762,28,Sergipe,2017,IDH,Longevidade,Total,0.797
-763,28,Sergipe,2017,IDH,Renda,Total,0.67
-764,28,Sergipe,2017,IDH,Total,Total,0.699
-765,28,Sergipe,2018,IDH,Educação,Total,0.66
-766,28,Sergipe,2018,IDH,Longevidade,Total,0.801
-767,28,Sergipe,2018,IDH,Renda,Total,0.676
-768,28,Sergipe,2018,IDH,Total,Total,0.71
-769,28,Sergipe,2019,IDH,Educação,Total,0.639
-770,28,Sergipe,2019,IDH,Longevidade,Total,0.805
-771,28,Sergipe,2019,IDH,Renda,Total,0.682
-772,28,Sergipe,2019,IDH,Total,Total,0.705
-773,28,Sergipe,2020,IDH,Educação,Total,0.682
-774,28,Sergipe,2020,IDH,Longevidade,Total,0.803
-775,28,Sergipe,2020,IDH,Renda,Total,0.687
-776,28,Sergipe,2020,IDH,Total,Total,0.722
-777,28,Sergipe,2021,IDH,Educação,Total,0.684
-778,28,Sergipe,2021,IDH,Longevidade,Total,0.764
-779,28,Sergipe,2021,IDH,Renda,Total,0.662
-780,28,Sergipe,2021,IDH,Total,Total,0.702
-781,29,Bahia,1991,IDH,Educação,Total,0.182
-782,29,Bahia,1991,IDH,Longevidade,Total,0.582
-783,29,Bahia,1991,IDH,Renda,Total,0.543
-784,29,Bahia,1991,IDH,Total,Total,0.386
-785,29,Bahia,2000,IDH,Educação,Total,0.332
-786,29,Bahia,2000,IDH,Longevidade,Total,0.68
-787,29,Bahia,2000,IDH,Renda,Total,0.594
-788,29,Bahia,2000,IDH,Total,Total,0.512
-789,29,Bahia,2010,IDH,Educação,Total,0.555
-790,29,Bahia,2010,IDH,Longevidade,Total,0.783
-791,29,Bahia,2010,IDH,Renda,Total,0.663
-792,29,Bahia,2010,IDH,Total,Total,0.66
-793,29,Bahia,2012,IDH,Educação,Total,0.593
-794,29,Bahia,2012,IDH,Longevidade,Total,0.79
-795,29,Bahia,2012,IDH,Renda,Total,0.666
-796,29,Bahia,2012,IDH,Total,Total,0.678
-797,29,Bahia,2013,IDH,Educação,Total,0.594
-798,29,Bahia,2013,IDH,Longevidade,Total,0.794
-799,29,Bahia,2013,IDH,Renda,Total,0.667
-800,29,Bahia,2013,IDH,Total,Total,0.68
-801,29,Bahia,2014,IDH,Educação,Total,0.619
-802,29,Bahia,2014,IDH,Longevidade,Total,0.799
-803,29,Bahia,2014,IDH,Renda,Total,0.676
-804,29,Bahia,2014,IDH,Total,Total,0.694
-805,29,Bahia,2015,IDH,Educação,Total,0.64
-806,29,Bahia,2015,IDH,Longevidade,Total,0.803
-807,29,Bahia,2015,IDH,Renda,Total,0.671
-808,29,Bahia,2015,IDH,Total,Total,0.701
-809,29,Bahia,2016,IDH,Educação,Total,0.656
-810,29,Bahia,2016,IDH,Longevidade,Total,0.807
-811,29,Bahia,2016,IDH,Renda,Total,0.662
-812,29,Bahia,2016,IDH,Total,Total,0.705
-813,29,Bahia,2017,IDH,Educação,Total,0.655
-814,29,Bahia,2017,IDH,Longevidade,Total,0.811
-815,29,Bahia,2017,IDH,Renda,Total,0.675
-816,29,Bahia,2017,IDH,Total,Total,0.71
-817,29,Bahia,2018,IDH,Educação,Total,0.66
-818,29,Bahia,2018,IDH,Longevidade,Total,0.815
-819,29,Bahia,2018,IDH,Renda,Total,0.664
-820,29,Bahia,2018,IDH,Total,Total,0.71
-821,29,Bahia,2019,IDH,Educação,Total,0.672
-822,29,Bahia,2019,IDH,Longevidade,Total,0.818
-823,29,Bahia,2019,IDH,Renda,Total,0.673
-824,29,Bahia,2019,IDH,Total,Total,0.718
-825,29,Bahia,2020,IDH,Educação,Total,0.69
-826,29,Bahia,2020,IDH,Longevidade,Total,0.811
-827,29,Bahia,2020,IDH,Renda,Total,0.679
-828,29,Bahia,2020,IDH,Total,Total,0.724
-829,29,Bahia,2021,IDH,Educação,Total,0.659
-830,29,Bahia,2021,IDH,Longevidade,Total,0.772
-831,29,Bahia,2021,IDH,Renda,Total,0.648
-832,29,Bahia,2021,IDH,Total,Total,0.691
-833,31,Minas Gerais,1991,IDH,Educação,Total,0.257
-834,31,Minas Gerais,1991,IDH,Longevidade,Total,0.689
-835,31,Minas Gerais,1991,IDH,Renda,Total,0.618
-836,31,Minas Gerais,1991,IDH,Total,Total,0.478
-837,31,Minas Gerais,2000,IDH,Educação,Total,0.47
-838,31,Minas Gerais,2000,IDH,Longevidade,Total,0.759
-839,31,Minas Gerais,2000,IDH,Renda,Total,0.68
-840,31,Minas Gerais,2000,IDH,Total,Total,0.624
-841,31,Minas Gerais,2010,IDH,Educação,Total,0.638
-842,31,Minas Gerais,2010,IDH,Longevidade,Total,0.838
-843,31,Minas Gerais,2010,IDH,Renda,Total,0.73
-844,31,Minas Gerais,2010,IDH,Total,Total,0.731
-845,31,Minas Gerais,2012,IDH,Educação,Total,0.683
-846,31,Minas Gerais,2012,IDH,Longevidade,Total,0.852
-847,31,Minas Gerais,2012,IDH,Renda,Total,0.726
-848,31,Minas Gerais,2012,IDH,Total,Total,0.75
-849,31,Minas Gerais,2013,IDH,Educação,Total,0.692
-850,31,Minas Gerais,2013,IDH,Longevidade,Total,0.857
-851,31,Minas Gerais,2013,IDH,Renda,Total,0.733
-852,31,Minas Gerais,2013,IDH,Total,Total,0.758
-853,31,Minas Gerais,2014,IDH,Educação,Total,0.718
-854,31,Minas Gerais,2014,IDH,Longevidade,Total,0.862
-855,31,Minas Gerais,2014,IDH,Renda,Total,0.739
-856,31,Minas Gerais,2014,IDH,Total,Total,0.77
-857,31,Minas Gerais,2015,IDH,Educação,Total,0.727
-858,31,Minas Gerais,2015,IDH,Longevidade,Total,0.866
-859,31,Minas Gerais,2015,IDH,Renda,Total,0.736
-860,31,Minas Gerais,2015,IDH,Total,Total,0.774
-861,31,Minas Gerais,2016,IDH,Educação,Total,0.739
-862,31,Minas Gerais,2016,IDH,Longevidade,Total,0.871
-863,31,Minas Gerais,2016,IDH,Renda,Total,0.725
-864,31,Minas Gerais,2016,IDH,Total,Total,0.776
-865,31,Minas Gerais,2017,IDH,Educação,Total,0.752
-866,31,Minas Gerais,2017,IDH,Longevidade,Total,0.875
-867,31,Minas Gerais,2017,IDH,Renda,Total,0.731
-868,31,Minas Gerais,2017,IDH,Total,Total,0.784
-869,31,Minas Gerais,2018,IDH,Educação,Total,0.748
-870,31,Minas Gerais,2018,IDH,Longevidade,Total,0.879
-871,31,Minas Gerais,2018,IDH,Renda,Total,0.733
-872,31,Minas Gerais,2018,IDH,Total,Total,0.784
-873,31,Minas Gerais,2019,IDH,Educação,Total,0.77
-874,31,Minas Gerais,2019,IDH,Longevidade,Total,0.883
-875,31,Minas Gerais,2019,IDH,Renda,Total,0.734
-876,31,Minas Gerais,2019,IDH,Total,Total,0.793
-877,31,Minas Gerais,2020,IDH,Educação,Total,0.767
-878,31,Minas Gerais,2020,IDH,Longevidade,Total,0.878
-879,31,Minas Gerais,2020,IDH,Renda,Total,0.729
-880,31,Minas Gerais,2020,IDH,Total,Total,0.789
-881,31,Minas Gerais,2021,IDH,Educação,Total,0.762
-882,31,Minas Gerais,2021,IDH,Longevidade,Total,0.846
-883,31,Minas Gerais,2021,IDH,Renda,Total,0.718
-884,31,Minas Gerais,2021,IDH,Total,Total,0.774
-885,32,Espírito Santo,1991,IDH,Educação,Total,0.304
-886,32,Espírito Santo,1991,IDH,Longevidade,Total,0.686
-887,32,Espírito Santo,1991,IDH,Renda,Total,0.619
-888,32,Espírito Santo,1991,IDH,Total,Total,0.505
-889,32,Espírito Santo,2000,IDH,Educação,Total,0.491
-890,32,Espírito Santo,2000,IDH,Longevidade,Total,0.777
-891,32,Espírito Santo,2000,IDH,Renda,Total,0.687
-892,32,Espírito Santo,2000,IDH,Total,Total,0.64
-893,32,Espírito Santo,2010,IDH,Educação,Total,0.653
-894,32,Espírito Santo,2010,IDH,Longevidade,Total,0.835
-895,32,Espírito Santo,2010,IDH,Renda,Total,0.743
-896,32,Espírito Santo,2010,IDH,Total,Total,0.74
-897,32,Espírito Santo,2012,IDH,Educação,Total,0.692
-898,32,Espírito Santo,2012,IDH,Longevidade,Total,0.863
-899,32,Espírito Santo,2012,IDH,Renda,Total,0.73
-900,32,Espírito Santo,2012,IDH,Total,Total,0.758
-901,32,Espírito Santo,2013,IDH,Educação,Total,0.701
-902,32,Espírito Santo,2013,IDH,Longevidade,Total,0.87
-903,32,Espírito Santo,2013,IDH,Renda,Total,0.734
-904,32,Espírito Santo,2013,IDH,Total,Total,0.765
-905,32,Espírito Santo,2014,IDH,Educação,Total,0.709
-906,32,Espírito Santo,2014,IDH,Longevidade,Total,0.876
-907,32,Espírito Santo,2014,IDH,Renda,Total,0.742
-908,32,Espírito Santo,2014,IDH,Total,Total,0.772
-909,32,Espírito Santo,2015,IDH,Educação,Total,0.726
-910,32,Espírito Santo,2015,IDH,Longevidade,Total,0.882
-911,32,Espírito Santo,2015,IDH,Renda,Total,0.731
-912,32,Espírito Santo,2015,IDH,Total,Total,0.776
-913,32,Espírito Santo,2016,IDH,Educação,Total,0.732
-914,32,Espírito Santo,2016,IDH,Longevidade,Total,0.887
-915,32,Espírito Santo,2016,IDH,Renda,Total,0.727
-916,32,Espírito Santo,2016,IDH,Total,Total,0.779
-917,32,Espírito Santo,2017,IDH,Educação,Total,0.731
-918,32,Espírito Santo,2017,IDH,Longevidade,Total,0.892
-919,32,Espírito Santo,2017,IDH,Renda,Total,0.727
-920,32,Espírito Santo,2017,IDH,Total,Total,0.78
-921,32,Espírito Santo,2018,IDH,Educação,Total,0.743
-922,32,Espírito Santo,2018,IDH,Longevidade,Total,0.897
-923,32,Espírito Santo,2018,IDH,Renda,Total,0.735
-924,32,Espírito Santo,2018,IDH,Total,Total,0.788
-925,32,Espírito Santo,2019,IDH,Educação,Total,0.741
-926,32,Espírito Santo,2019,IDH,Longevidade,Total,0.902
-927,32,Espírito Santo,2019,IDH,Renda,Total,0.747
-928,32,Espírito Santo,2019,IDH,Total,Total,0.793
-929,32,Espírito Santo,2020,IDH,Educação,Total,0.758
-930,32,Espírito Santo,2020,IDH,Longevidade,Total,0.895
-931,32,Espírito Santo,2020,IDH,Renda,Total,0.733
-932,32,Espírito Santo,2020,IDH,Total,Total,0.792
-933,32,Espírito Santo,2021,IDH,Educação,Total,0.742
-934,32,Espírito Santo,2021,IDH,Longevidade,Total,0.864
-935,32,Espírito Santo,2021,IDH,Renda,Total,0.715
-936,32,Espírito Santo,2021,IDH,Total,Total,0.771
-937,33,Rio de Janeiro,1991,IDH,Educação,Total,0.392
-938,33,Rio de Janeiro,1991,IDH,Longevidade,Total,0.69
-939,33,Rio de Janeiro,1991,IDH,Renda,Total,0.696
-940,33,Rio de Janeiro,1991,IDH,Total,Total,0.573
-941,33,Rio de Janeiro,2000,IDH,Educação,Total,0.53
-942,33,Rio de Janeiro,2000,IDH,Longevidade,Total,0.74
-943,33,Rio de Janeiro,2000,IDH,Renda,Total,0.745
-944,33,Rio de Janeiro,2000,IDH,Total,Total,0.664
-945,33,Rio de Janeiro,2010,IDH,Educação,Total,0.675
-946,33,Rio de Janeiro,2010,IDH,Longevidade,Total,0.835
-947,33,Rio de Janeiro,2010,IDH,Renda,Total,0.782
-948,33,Rio de Janeiro,2010,IDH,Total,Total,0.761
-949,33,Rio de Janeiro,2012,IDH,Educação,Total,0.703
-950,33,Rio de Janeiro,2012,IDH,Longevidade,Total,0.832
-951,33,Rio de Janeiro,2012,IDH,Renda,Total,0.756
-952,33,Rio de Janeiro,2012,IDH,Total,Total,0.762
-953,33,Rio de Janeiro,2013,IDH,Educação,Total,0.715
-954,33,Rio de Janeiro,2013,IDH,Longevidade,Total,0.837
-955,33,Rio de Janeiro,2013,IDH,Renda,Total,0.757
-956,33,Rio de Janeiro,2013,IDH,Total,Total,0.768
-957,33,Rio de Janeiro,2014,IDH,Educação,Total,0.736
-958,33,Rio de Janeiro,2014,IDH,Longevidade,Total,0.843
-959,33,Rio de Janeiro,2014,IDH,Renda,Total,0.764
-960,33,Rio de Janeiro,2014,IDH,Total,Total,0.78
-961,33,Rio de Janeiro,2015,IDH,Educação,Total,0.752
-962,33,Rio de Janeiro,2015,IDH,Longevidade,Total,0.848
-963,33,Rio de Janeiro,2015,IDH,Renda,Total,0.758
-964,33,Rio de Janeiro,2015,IDH,Total,Total,0.785
-965,33,Rio de Janeiro,2016,IDH,Educação,Total,0.757
-966,33,Rio de Janeiro,2016,IDH,Longevidade,Total,0.853
-967,33,Rio de Janeiro,2016,IDH,Renda,Total,0.761
-968,33,Rio de Janeiro,2016,IDH,Total,Total,0.789
-969,33,Rio de Janeiro,2017,IDH,Educação,Total,0.762
-970,33,Rio de Janeiro,2017,IDH,Longevidade,Total,0.858
-971,33,Rio de Janeiro,2017,IDH,Renda,Total,0.757
-972,33,Rio de Janeiro,2017,IDH,Total,Total,0.791
-973,33,Rio de Janeiro,2018,IDH,Educação,Total,0.781
-974,33,Rio de Janeiro,2018,IDH,Longevidade,Total,0.863
-975,33,Rio de Janeiro,2018,IDH,Renda,Total,0.774
-976,33,Rio de Janeiro,2018,IDH,Total,Total,0.805
-977,33,Rio de Janeiro,2019,IDH,Educação,Total,0.78
-978,33,Rio de Janeiro,2019,IDH,Longevidade,Total,0.867
-979,33,Rio de Janeiro,2019,IDH,Renda,Total,0.783
-980,33,Rio de Janeiro,2019,IDH,Total,Total,0.809
-981,33,Rio de Janeiro,2020,IDH,Educação,Total,0.781
-982,33,Rio de Janeiro,2020,IDH,Longevidade,Total,0.804
-983,33,Rio de Janeiro,2020,IDH,Renda,Total,0.77
-984,33,Rio de Janeiro,2020,IDH,Total,Total,0.785
-985,33,Rio de Janeiro,2021,IDH,Educação,Total,0.758
-986,33,Rio de Janeiro,2021,IDH,Longevidade,Total,0.769
-987,33,Rio de Janeiro,2021,IDH,Renda,Total,0.759
-988,33,Rio de Janeiro,2021,IDH,Total,Total,0.762
-989,35,São Paulo,1991,IDH,Educação,Total,0.363
-990,35,São Paulo,1991,IDH,Longevidade,Total,0.73
-991,35,São Paulo,1991,IDH,Renda,Total,0.729
-992,35,São Paulo,1991,IDH,Total,Total,0.578
-993,35,São Paulo,2000,IDH,Educação,Total,0.581
-994,35,São Paulo,2000,IDH,Longevidade,Total,0.786
-995,35,São Paulo,2000,IDH,Renda,Total,0.756
-996,35,São Paulo,2000,IDH,Total,Total,0.702
-997,35,São Paulo,2010,IDH,Educação,Total,0.719
-998,35,São Paulo,2010,IDH,Longevidade,Total,0.845
-999,35,São Paulo,2010,IDH,Renda,Total,0.789
-1000,35,São Paulo,2010,IDH,Total,Total,0.783
-1001,35,São Paulo,2012,IDH,Educação,Total,0.792
-1002,35,São Paulo,2012,IDH,Longevidade,Total,0.863
-1003,35,São Paulo,2012,IDH,Renda,Total,0.782
-1004,35,São Paulo,2012,IDH,Total,Total,0.812
-1005,35,São Paulo,2013,IDH,Educação,Total,0.8
-1006,35,São Paulo,2013,IDH,Longevidade,Total,0.869
-1007,35,São Paulo,2013,IDH,Renda,Total,0.787
-1008,35,São Paulo,2013,IDH,Total,Total,0.818
-1009,35,São Paulo,2014,IDH,Educação,Total,0.813
-1010,35,São Paulo,2014,IDH,Longevidade,Total,0.875
-1011,35,São Paulo,2014,IDH,Renda,Total,0.79
-1012,35,São Paulo,2014,IDH,Total,Total,0.825
-1013,35,São Paulo,2015,IDH,Educação,Total,0.811
-1014,35,São Paulo,2015,IDH,Longevidade,Total,0.88
-1015,35,São Paulo,2015,IDH,Renda,Total,0.782
-1016,35,São Paulo,2015,IDH,Total,Total,0.823
-1017,35,São Paulo,2016,IDH,Educação,Total,0.837
-1018,35,São Paulo,2016,IDH,Longevidade,Total,0.885
-1019,35,São Paulo,2016,IDH,Renda,Total,0.787
-1020,35,São Paulo,2016,IDH,Total,Total,0.835
-1021,35,São Paulo,2017,IDH,Educação,Total,0.826
-1022,35,São Paulo,2017,IDH,Longevidade,Total,0.889
-1023,35,São Paulo,2017,IDH,Renda,Total,0.781
-1024,35,São Paulo,2017,IDH,Total,Total,0.831
-1025,35,São Paulo,2018,IDH,Educação,Total,0.829
-1026,35,São Paulo,2018,IDH,Longevidade,Total,0.894
-1027,35,São Paulo,2018,IDH,Renda,Total,0.791
-1028,35,São Paulo,2018,IDH,Total,Total,0.837
-1029,35,São Paulo,2019,IDH,Educação,Total,0.849
-1030,35,São Paulo,2019,IDH,Longevidade,Total,0.898
-1031,35,São Paulo,2019,IDH,Renda,Total,0.791
-1032,35,São Paulo,2019,IDH,Total,Total,0.845
-1033,35,São Paulo,2020,IDH,Educação,Total,0.847
-1034,35,São Paulo,2020,IDH,Longevidade,Total,0.844
-1035,35,São Paulo,2020,IDH,Renda,Total,0.781
-1036,35,São Paulo,2020,IDH,Total,Total,0.823
-1037,35,São Paulo,2021,IDH,Educação,Total,0.839
-1038,35,São Paulo,2021,IDH,Longevidade,Total,0.81
-1039,35,São Paulo,2021,IDH,Renda,Total,0.771
-1040,35,São Paulo,2021,IDH,Total,Total,0.806
-1041,41,Paraná,1991,IDH,Educação,Total,0.298
-1042,41,Paraná,1991,IDH,Longevidade,Total,0.679
-1043,41,Paraná,1991,IDH,Renda,Total,0.644
-1044,41,Paraná,1991,IDH,Total,Total,0.507
-1045,41,Paraná,2000,IDH,Educação,Total,0.522
-1046,41,Paraná,2000,IDH,Longevidade,Total,0.747
-1047,41,Paraná,2000,IDH,Renda,Total,0.704
-1048,41,Paraná,2000,IDH,Total,Total,0.65
-1049,41,Paraná,2010,IDH,Educação,Total,0.668
-1050,41,Paraná,2010,IDH,Longevidade,Total,0.83
-1051,41,Paraná,2010,IDH,Renda,Total,0.757
-1052,41,Paraná,2010,IDH,Total,Total,0.749
-1053,41,Paraná,2012,IDH,Educação,Total,0.718
-1054,41,Paraná,2012,IDH,Longevidade,Total,0.846
-1055,41,Paraná,2012,IDH,Renda,Total,0.757
-1056,41,Paraná,2012,IDH,Total,Total,0.772
-1057,41,Paraná,2013,IDH,Educação,Total,0.737
-1058,41,Paraná,2013,IDH,Longevidade,Total,0.852
-1059,41,Paraná,2013,IDH,Renda,Total,0.761
-1060,41,Paraná,2013,IDH,Total,Total,0.782
-1061,41,Paraná,2014,IDH,Educação,Total,0.747
-1062,41,Paraná,2014,IDH,Longevidade,Total,0.857
-1063,41,Paraná,2014,IDH,Renda,Total,0.765
-1064,41,Paraná,2014,IDH,Total,Total,0.788
-1065,41,Paraná,2015,IDH,Educação,Total,0.747
-1066,41,Paraná,2015,IDH,Longevidade,Total,0.862
-1067,41,Paraná,2015,IDH,Renda,Total,0.754
-1068,41,Paraná,2015,IDH,Total,Total,0.786
-1069,41,Paraná,2016,IDH,Educação,Total,0.773
-1070,41,Paraná,2016,IDH,Longevidade,Total,0.867
-1071,41,Paraná,2016,IDH,Renda,Total,0.756
-1072,41,Paraná,2016,IDH,Total,Total,0.797
-1073,41,Paraná,2017,IDH,Educação,Total,0.764
-1074,41,Paraná,2017,IDH,Longevidade,Total,0.872
-1075,41,Paraná,2017,IDH,Renda,Total,0.759
-1076,41,Paraná,2017,IDH,Total,Total,0.797
-1077,41,Paraná,2018,IDH,Educação,Total,0.777
-1078,41,Paraná,2018,IDH,Longevidade,Total,0.877
-1079,41,Paraná,2018,IDH,Renda,Total,0.766
-1080,41,Paraná,2018,IDH,Total,Total,0.805
-1081,41,Paraná,2019,IDH,Educação,Total,0.779
-1082,41,Paraná,2019,IDH,Longevidade,Total,0.882
-1083,41,Paraná,2019,IDH,Renda,Total,0.764
-1084,41,Paraná,2019,IDH,Total,Total,0.807
-1085,41,Paraná,2020,IDH,Educação,Total,0.791
-1086,41,Paraná,2020,IDH,Longevidade,Total,0.82
-1087,41,Paraná,2020,IDH,Renda,Total,0.751
-1088,41,Paraná,2020,IDH,Total,Total,0.787
-1089,41,Paraná,2021,IDH,Educação,Total,0.78
-1090,41,Paraná,2021,IDH,Longevidade,Total,0.785
-1091,41,Paraná,2021,IDH,Renda,Total,0.744
-1092,41,Paraná,2021,IDH,Total,Total,0.769
-1093,42,Santa Catarina,1991,IDH,Educação,Total,0.329
-1094,42,Santa Catarina,1991,IDH,Longevidade,Total,0.753
-1095,42,Santa Catarina,1991,IDH,Renda,Total,0.648
-1096,42,Santa Catarina,1991,IDH,Total,Total,0.543
-1097,42,Santa Catarina,2000,IDH,Educação,Total,0.526
-1098,42,Santa Catarina,2000,IDH,Longevidade,Total,0.812
-1099,42,Santa Catarina,2000,IDH,Renda,Total,0.717
-1100,42,Santa Catarina,2000,IDH,Total,Total,0.674
-1101,42,Santa Catarina,2010,IDH,Educação,Total,0.697
-1102,42,Santa Catarina,2010,IDH,Longevidade,Total,0.86
-1103,42,Santa Catarina,2010,IDH,Renda,Total,0.773
-1104,42,Santa Catarina,2010,IDH,Total,Total,0.774
-1105,42,Santa Catarina,2012,IDH,Educação,Total,0.74
-1106,42,Santa Catarina,2012,IDH,Longevidade,Total,0.878
-1107,42,Santa Catarina,2012,IDH,Renda,Total,0.764
-1108,42,Santa Catarina,2012,IDH,Total,Total,0.792
-1109,42,Santa Catarina,2013,IDH,Educação,Total,0.757
-1110,42,Santa Catarina,2013,IDH,Longevidade,Total,0.885
-1111,42,Santa Catarina,2013,IDH,Renda,Total,0.768
-1112,42,Santa Catarina,2013,IDH,Total,Total,0.801
-1113,42,Santa Catarina,2014,IDH,Educação,Total,0.768
-1114,42,Santa Catarina,2014,IDH,Longevidade,Total,0.89
-1115,42,Santa Catarina,2014,IDH,Renda,Total,0.769
-1116,42,Santa Catarina,2014,IDH,Total,Total,0.807
-1117,42,Santa Catarina,2015,IDH,Educação,Total,0.769
-1118,42,Santa Catarina,2015,IDH,Longevidade,Total,0.896
-1119,42,Santa Catarina,2015,IDH,Renda,Total,0.769
-1120,42,Santa Catarina,2015,IDH,Total,Total,0.809
-1121,42,Santa Catarina,2016,IDH,Educação,Total,0.785
-1122,42,Santa Catarina,2016,IDH,Longevidade,Total,0.902
-1123,42,Santa Catarina,2016,IDH,Renda,Total,0.763
-1124,42,Santa Catarina,2016,IDH,Total,Total,0.814
-1125,42,Santa Catarina,2017,IDH,Educação,Total,0.778
-1126,42,Santa Catarina,2017,IDH,Longevidade,Total,0.907
-1127,42,Santa Catarina,2017,IDH,Renda,Total,0.772
-1128,42,Santa Catarina,2017,IDH,Total,Total,0.817
-1129,42,Santa Catarina,2018,IDH,Educação,Total,0.78
-1130,42,Santa Catarina,2018,IDH,Longevidade,Total,0.912
-1131,42,Santa Catarina,2018,IDH,Renda,Total,0.772
-1132,42,Santa Catarina,2018,IDH,Total,Total,0.819
-1133,42,Santa Catarina,2019,IDH,Educação,Total,0.794
-1134,42,Santa Catarina,2019,IDH,Longevidade,Total,0.916
-1135,42,Santa Catarina,2019,IDH,Renda,Total,0.776
-1136,42,Santa Catarina,2019,IDH,Total,Total,0.826
-1137,42,Santa Catarina,2020,IDH,Educação,Total,0.79
-1138,42,Santa Catarina,2020,IDH,Longevidade,Total,0.858
-1139,42,Santa Catarina,2020,IDH,Renda,Total,0.763
-1140,42,Santa Catarina,2020,IDH,Total,Total,0.803
-1141,42,Santa Catarina,2021,IDH,Educação,Total,0.79
-1142,42,Santa Catarina,2021,IDH,Longevidade,Total,0.827
-1143,42,Santa Catarina,2021,IDH,Renda,Total,0.759
-1144,42,Santa Catarina,2021,IDH,Total,Total,0.792
-1145,43,Rio Grande do Sul,1991,IDH,Educação,Total,0.328
-1146,43,Rio Grande do Sul,1991,IDH,Longevidade,Total,0.729
-1147,43,Rio Grande do Sul,1991,IDH,Renda,Total,0.667
-1148,43,Rio Grande do Sul,1991,IDH,Total,Total,0.542
-1149,43,Rio Grande do Sul,2000,IDH,Educação,Total,0.505
-1150,43,Rio Grande do Sul,2000,IDH,Longevidade,Total,0.804
-1151,43,Rio Grande do Sul,2000,IDH,Renda,Total,0.72
-1152,43,Rio Grande do Sul,2000,IDH,Total,Total,0.664
-1153,43,Rio Grande do Sul,2010,IDH,Educação,Total,0.642
-1154,43,Rio Grande do Sul,2010,IDH,Longevidade,Total,0.84
-1155,43,Rio Grande do Sul,2010,IDH,Renda,Total,0.769
-1156,43,Rio Grande do Sul,2010,IDH,Total,Total,0.746
-1157,43,Rio Grande do Sul,2012,IDH,Educação,Total,0.674
-1158,43,Rio Grande do Sul,2012,IDH,Longevidade,Total,0.86
-1159,43,Rio Grande do Sul,2012,IDH,Renda,Total,0.767
-1160,43,Rio Grande do Sul,2012,IDH,Total,Total,0.763
-1161,43,Rio Grande do Sul,2013,IDH,Educação,Total,0.691
-1162,43,Rio Grande do Sul,2013,IDH,Longevidade,Total,0.865
-1163,43,Rio Grande do Sul,2013,IDH,Renda,Total,0.773
-1164,43,Rio Grande do Sul,2013,IDH,Total,Total,0.773
-1165,43,Rio Grande do Sul,2014,IDH,Educação,Total,0.699
-1166,43,Rio Grande do Sul,2014,IDH,Longevidade,Total,0.87
-1167,43,Rio Grande do Sul,2014,IDH,Renda,Total,0.777
-1168,43,Rio Grande do Sul,2014,IDH,Total,Total,0.779
-1169,43,Rio Grande do Sul,2015,IDH,Educação,Total,0.717
-1170,43,Rio Grande do Sul,2015,IDH,Longevidade,Total,0.875
-1171,43,Rio Grande do Sul,2015,IDH,Renda,Total,0.776
-1172,43,Rio Grande do Sul,2015,IDH,Total,Total,0.787
-1173,43,Rio Grande do Sul,2016,IDH,Educação,Total,0.722
-1174,43,Rio Grande do Sul,2016,IDH,Longevidade,Total,0.88
-1175,43,Rio Grande do Sul,2016,IDH,Renda,Total,0.772
-1176,43,Rio Grande do Sul,2016,IDH,Total,Total,0.789
-1177,43,Rio Grande do Sul,2017,IDH,Educação,Total,0.727
-1178,43,Rio Grande do Sul,2017,IDH,Longevidade,Total,0.884
-1179,43,Rio Grande do Sul,2017,IDH,Renda,Total,0.776
-1180,43,Rio Grande do Sul,2017,IDH,Total,Total,0.793
-1181,43,Rio Grande do Sul,2018,IDH,Educação,Total,0.736
-1182,43,Rio Grande do Sul,2018,IDH,Longevidade,Total,0.888
-1183,43,Rio Grande do Sul,2018,IDH,Renda,Total,0.775
-1184,43,Rio Grande do Sul,2018,IDH,Total,Total,0.797
-1185,43,Rio Grande do Sul,2019,IDH,Educação,Total,0.735
-1186,43,Rio Grande do Sul,2019,IDH,Longevidade,Total,0.893
-1187,43,Rio Grande do Sul,2019,IDH,Renda,Total,0.783
-1188,43,Rio Grande do Sul,2019,IDH,Total,Total,0.801
-1189,43,Rio Grande do Sul,2020,IDH,Educação,Total,0.739
-1190,43,Rio Grande do Sul,2020,IDH,Longevidade,Total,0.831
-1191,43,Rio Grande do Sul,2020,IDH,Renda,Total,0.774
-1192,43,Rio Grande do Sul,2020,IDH,Total,Total,0.78
-1193,43,Rio Grande do Sul,2021,IDH,Educação,Total,0.75
-1194,43,Rio Grande do Sul,2021,IDH,Longevidade,Total,0.797
-1195,43,Rio Grande do Sul,2021,IDH,Renda,Total,0.767
-1196,43,Rio Grande do Sul,2021,IDH,Total,Total,0.771
-1197,50,Mato Grosso do Sul,1991,IDH,Educação,Total,0.259
-1198,50,Mato Grosso do Sul,1991,IDH,Longevidade,Total,0.699
-1199,50,Mato Grosso do Sul,1991,IDH,Renda,Total,0.641
-1200,50,Mato Grosso do Sul,1991,IDH,Total,Total,0.488
-1201,50,Mato Grosso do Sul,2000,IDH,Educação,Total,0.445
-1202,50,Mato Grosso do Sul,2000,IDH,Longevidade,Total,0.752
-1203,50,Mato Grosso do Sul,2000,IDH,Renda,Total,0.687
-1204,50,Mato Grosso do Sul,2000,IDH,Total,Total,0.613
-1205,50,Mato Grosso do Sul,2010,IDH,Educação,Total,0.629
-1206,50,Mato Grosso do Sul,2010,IDH,Longevidade,Total,0.833
-1207,50,Mato Grosso do Sul,2010,IDH,Renda,Total,0.74
-1208,50,Mato Grosso do Sul,2010,IDH,Total,Total,0.729
-1209,50,Mato Grosso do Sul,2012,IDH,Educação,Total,0.657
-1210,50,Mato Grosso do Sul,2012,IDH,Longevidade,Total,0.823
-1211,50,Mato Grosso do Sul,2012,IDH,Renda,Total,0.729
-1212,50,Mato Grosso do Sul,2012,IDH,Total,Total,0.733
-1213,50,Mato Grosso do Sul,2013,IDH,Educação,Total,0.674
-1214,50,Mato Grosso do Sul,2013,IDH,Longevidade,Total,0.828
-1215,50,Mato Grosso do Sul,2013,IDH,Renda,Total,0.735
-1216,50,Mato Grosso do Sul,2013,IDH,Total,Total,0.743
-1217,50,Mato Grosso do Sul,2014,IDH,Educação,Total,0.671
-1218,50,Mato Grosso do Sul,2014,IDH,Longevidade,Total,0.832
-1219,50,Mato Grosso do Sul,2014,IDH,Renda,Total,0.742
-1220,50,Mato Grosso do Sul,2014,IDH,Total,Total,0.745
-1221,50,Mato Grosso do Sul,2015,IDH,Educação,Total,0.667
-1222,50,Mato Grosso do Sul,2015,IDH,Longevidade,Total,0.837
-1223,50,Mato Grosso do Sul,2015,IDH,Renda,Total,0.726
-1224,50,Mato Grosso do Sul,2015,IDH,Total,Total,0.74
-1225,50,Mato Grosso do Sul,2016,IDH,Educação,Total,0.698
-1226,50,Mato Grosso do Sul,2016,IDH,Longevidade,Total,0.842
-1227,50,Mato Grosso do Sul,2016,IDH,Renda,Total,0.741
-1228,50,Mato Grosso do Sul,2016,IDH,Total,Total,0.758
-1229,50,Mato Grosso do Sul,2017,IDH,Educação,Total,0.708
-1230,50,Mato Grosso do Sul,2017,IDH,Longevidade,Total,0.846
-1231,50,Mato Grosso do Sul,2017,IDH,Renda,Total,0.738
-1232,50,Mato Grosso do Sul,2017,IDH,Total,Total,0.762
-1233,50,Mato Grosso do Sul,2018,IDH,Educação,Total,0.715
-1234,50,Mato Grosso do Sul,2018,IDH,Longevidade,Total,0.85
-1235,50,Mato Grosso do Sul,2018,IDH,Renda,Total,0.75
-1236,50,Mato Grosso do Sul,2018,IDH,Total,Total,0.77
-1237,50,Mato Grosso do Sul,2019,IDH,Educação,Total,0.731
-1238,50,Mato Grosso do Sul,2019,IDH,Longevidade,Total,0.854
-1239,50,Mato Grosso do Sul,2019,IDH,Renda,Total,0.752
-1240,50,Mato Grosso do Sul,2019,IDH,Total,Total,0.777
-1241,50,Mato Grosso do Sul,2020,IDH,Educação,Total,0.747
-1242,50,Mato Grosso do Sul,2020,IDH,Longevidade,Total,0.789
-1243,50,Mato Grosso do Sul,2020,IDH,Renda,Total,0.744
-1244,50,Mato Grosso do Sul,2020,IDH,Total,Total,0.76
-1245,50,Mato Grosso do Sul,2021,IDH,Educação,Total,0.741
-1246,50,Mato Grosso do Sul,2021,IDH,Longevidade,Total,0.751
-1247,50,Mato Grosso do Sul,2021,IDH,Renda,Total,0.733
-1248,50,Mato Grosso do Sul,2021,IDH,Total,Total,0.742
-1249,51,Mato Grosso,1991,IDH,Educação,Total,0.221
-1250,51,Mato Grosso,1991,IDH,Longevidade,Total,0.654
-1251,51,Mato Grosso,1991,IDH,Renda,Total,0.627
-1252,51,Mato Grosso,1991,IDH,Total,Total,0.449
-1253,51,Mato Grosso,2000,IDH,Educação,Total,0.426
-1254,51,Mato Grosso,2000,IDH,Longevidade,Total,0.74
-1255,51,Mato Grosso,2000,IDH,Renda,Total,0.689
-1256,51,Mato Grosso,2000,IDH,Total,Total,0.601
-1257,51,Mato Grosso,2010,IDH,Educação,Total,0.635
-1258,51,Mato Grosso,2010,IDH,Longevidade,Total,0.821
-1259,51,Mato Grosso,2010,IDH,Renda,Total,0.732
-1260,51,Mato Grosso,2010,IDH,Total,Total,0.725
-1261,51,Mato Grosso,2012,IDH,Educação,Total,0.694
-1262,51,Mato Grosso,2012,IDH,Longevidade,Total,0.803
-1263,51,Mato Grosso,2012,IDH,Renda,Total,0.732
-1264,51,Mato Grosso,2012,IDH,Total,Total,0.742
-1265,51,Mato Grosso,2013,IDH,Educação,Total,0.732
-1266,51,Mato Grosso,2013,IDH,Longevidade,Total,0.807
-1267,51,Mato Grosso,2013,IDH,Renda,Total,0.738
-1268,51,Mato Grosso,2013,IDH,Total,Total,0.758
-1269,51,Mato Grosso,2014,IDH,Educação,Total,0.736
-1270,51,Mato Grosso,2014,IDH,Longevidade,Total,0.812
-1271,51,Mato Grosso,2014,IDH,Renda,Total,0.739
-1272,51,Mato Grosso,2014,IDH,Total,Total,0.762
-1273,51,Mato Grosso,2015,IDH,Educação,Total,0.767
-1274,51,Mato Grosso,2015,IDH,Longevidade,Total,0.816
-1275,51,Mato Grosso,2015,IDH,Renda,Total,0.729
-1276,51,Mato Grosso,2015,IDH,Total,Total,0.77
-1277,51,Mato Grosso,2016,IDH,Educação,Total,0.766
-1278,51,Mato Grosso,2016,IDH,Longevidade,Total,0.82
-1279,51,Mato Grosso,2016,IDH,Renda,Total,0.725
-1280,51,Mato Grosso,2016,IDH,Total,Total,0.769
-1281,51,Mato Grosso,2017,IDH,Educação,Total,0.757
-1282,51,Mato Grosso,2017,IDH,Longevidade,Total,0.824
-1283,51,Mato Grosso,2017,IDH,Renda,Total,0.733
-1284,51,Mato Grosso,2017,IDH,Total,Total,0.77
-1285,51,Mato Grosso,2018,IDH,Educação,Total,0.764
-1286,51,Mato Grosso,2018,IDH,Longevidade,Total,0.828
-1287,51,Mato Grosso,2018,IDH,Renda,Total,0.744
-1288,51,Mato Grosso,2018,IDH,Total,Total,0.778
-1289,51,Mato Grosso,2019,IDH,Educação,Total,0.771
-1290,51,Mato Grosso,2019,IDH,Longevidade,Total,0.832
-1291,51,Mato Grosso,2019,IDH,Renda,Total,0.738
-1292,51,Mato Grosso,2019,IDH,Total,Total,0.779
-1293,51,Mato Grosso,2020,IDH,Educação,Total,0.765
-1294,51,Mato Grosso,2020,IDH,Longevidade,Total,0.769
-1295,51,Mato Grosso,2020,IDH,Renda,Total,0.735
-1296,51,Mato Grosso,2020,IDH,Total,Total,0.756
-1297,51,Mato Grosso,2021,IDH,Educação,Total,0.758
-1298,51,Mato Grosso,2021,IDH,Longevidade,Total,0.73
-1299,51,Mato Grosso,2021,IDH,Renda,Total,0.72
-1300,51,Mato Grosso,2021,IDH,Total,Total,0.736
-1301,52,Goiás,1991,IDH,Educação,Total,0.273
-1302,52,Goiás,1991,IDH,Longevidade,Total,0.668
-1303,52,Goiás,1991,IDH,Renda,Total,0.633
-1304,52,Goiás,1991,IDH,Total,Total,0.487
-1305,52,Goiás,2000,IDH,Educação,Total,0.439
-1306,52,Goiás,2000,IDH,Longevidade,Total,0.773
-1307,52,Goiás,2000,IDH,Renda,Total,0.686
-1308,52,Goiás,2000,IDH,Total,Total,0.615
-1309,52,Goiás,2010,IDH,Educação,Total,0.646
-1310,52,Goiás,2010,IDH,Longevidade,Total,0.827
-1311,52,Goiás,2010,IDH,Renda,Total,0.742
-1312,52,Goiás,2010,IDH,Total,Total,0.735
-1313,52,Goiás,2012,IDH,Educação,Total,0.698
-1314,52,Goiás,2012,IDH,Longevidade,Total,0.807
-1315,52,Goiás,2012,IDH,Renda,Total,0.73
-1316,52,Goiás,2012,IDH,Total,Total,0.744
-1317,52,Goiás,2013,IDH,Educação,Total,0.71
-1318,52,Goiás,2013,IDH,Longevidade,Total,0.81
-1319,52,Goiás,2013,IDH,Renda,Total,0.74
-1320,52,Goiás,2013,IDH,Total,Total,0.752
-1321,52,Goiás,2014,IDH,Educação,Total,0.723
-1322,52,Goiás,2014,IDH,Longevidade,Total,0.813
-1323,52,Goiás,2014,IDH,Renda,Total,0.739
-1324,52,Goiás,2014,IDH,Total,Total,0.757
-1325,52,Goiás,2015,IDH,Educação,Total,0.722
-1326,52,Goiás,2015,IDH,Longevidade,Total,0.815
-1327,52,Goiás,2015,IDH,Renda,Total,0.731
-1328,52,Goiás,2015,IDH,Total,Total,0.755
-1329,52,Goiás,2016,IDH,Educação,Total,0.754
-1330,52,Goiás,2016,IDH,Longevidade,Total,0.818
-1331,52,Goiás,2016,IDH,Renda,Total,0.724
-1332,52,Goiás,2016,IDH,Total,Total,0.764
-1333,52,Goiás,2017,IDH,Educação,Total,0.743
-1334,52,Goiás,2017,IDH,Longevidade,Total,0.821
-1335,52,Goiás,2017,IDH,Renda,Total,0.735
-1336,52,Goiás,2017,IDH,Total,Total,0.765
-1337,52,Goiás,2018,IDH,Educação,Total,0.757
-1338,52,Goiás,2018,IDH,Longevidade,Total,0.824
-1339,52,Goiás,2018,IDH,Renda,Total,0.735
-1340,52,Goiás,2018,IDH,Total,Total,0.771
-1341,52,Goiás,2019,IDH,Educação,Total,0.77
-1342,52,Goiás,2019,IDH,Longevidade,Total,0.827
-1343,52,Goiás,2019,IDH,Renda,Total,0.729
-1344,52,Goiás,2019,IDH,Total,Total,0.774
-1345,52,Goiás,2020,IDH,Educação,Total,0.79
-1346,52,Goiás,2020,IDH,Longevidade,Total,0.763
-1347,52,Goiás,2020,IDH,Renda,Total,0.722
-1348,52,Goiás,2020,IDH,Total,Total,0.758
-1349,52,Goiás,2021,IDH,Educação,Total,0.778
-1350,52,Goiás,2021,IDH,Longevidade,Total,0.721
-1351,52,Goiás,2021,IDH,Renda,Total,0.714
-1352,52,Goiás,2021,IDH,Total,Total,0.737
-1353,53,Distrito Federal,1991,IDH,Educação,Total,0.419
-1354,53,Distrito Federal,1991,IDH,Longevidade,Total,0.731
-1355,53,Distrito Federal,1991,IDH,Renda,Total,0.762
-1356,53,Distrito Federal,1991,IDH,Total,Total,0.616
-1357,53,Distrito Federal,2000,IDH,Educação,Total,0.582
-1358,53,Distrito Federal,2000,IDH,Longevidade,Total,0.814
-1359,53,Distrito Federal,2000,IDH,Renda,Total,0.805
-1360,53,Distrito Federal,2000,IDH,Total,Total,0.725
-1361,53,Distrito Federal,2010,IDH,Educação,Total,0.742
-1362,53,Distrito Federal,2010,IDH,Longevidade,Total,0.873
-1363,53,Distrito Federal,2010,IDH,Renda,Total,0.863
-1364,53,Distrito Federal,2010,IDH,Total,Total,0.824
-1365,53,Distrito Federal,2012,IDH,Educação,Total,0.768
-1366,53,Distrito Federal,2012,IDH,Longevidade,Total,0.865
-1367,53,Distrito Federal,2012,IDH,Renda,Total,0.846
-1368,53,Distrito Federal,2012,IDH,Total,Total,0.825
-1369,53,Distrito Federal,2013,IDH,Educação,Total,0.794
-1370,53,Distrito Federal,2013,IDH,Longevidade,Total,0.87
-1371,53,Distrito Federal,2013,IDH,Renda,Total,0.848
-1372,53,Distrito Federal,2013,IDH,Total,Total,0.837
-1373,53,Distrito Federal,2014,IDH,Educação,Total,0.791
-1374,53,Distrito Federal,2014,IDH,Longevidade,Total,0.875
-1375,53,Distrito Federal,2014,IDH,Renda,Total,0.845
-1376,53,Distrito Federal,2014,IDH,Total,Total,0.836
-1377,53,Distrito Federal,2015,IDH,Educação,Total,0.789
-1378,53,Distrito Federal,2015,IDH,Longevidade,Total,0.879
-1379,53,Distrito Federal,2015,IDH,Renda,Total,0.847
-1380,53,Distrito Federal,2015,IDH,Total,Total,0.837
-1381,53,Distrito Federal,2016,IDH,Educação,Total,0.822
-1382,53,Distrito Federal,2016,IDH,Longevidade,Total,0.884
-1383,53,Distrito Federal,2016,IDH,Renda,Total,0.836
-1384,53,Distrito Federal,2016,IDH,Total,Total,0.847
-1385,53,Distrito Federal,2017,IDH,Educação,Total,0.797
-1386,53,Distrito Federal,2017,IDH,Longevidade,Total,0.888
-1387,53,Distrito Federal,2017,IDH,Renda,Total,0.842
-1388,53,Distrito Federal,2017,IDH,Total,Total,0.842
-1389,53,Distrito Federal,2018,IDH,Educação,Total,0.808
-1390,53,Distrito Federal,2018,IDH,Longevidade,Total,0.892
-1391,53,Distrito Federal,2018,IDH,Renda,Total,0.836
-1392,53,Distrito Federal,2018,IDH,Total,Total,0.845
-1393,53,Distrito Federal,2019,IDH,Educação,Total,0.842
-1394,53,Distrito Federal,2019,IDH,Longevidade,Total,0.896
-1395,53,Distrito Federal,2019,IDH,Renda,Total,0.841
-1396,53,Distrito Federal,2019,IDH,Total,Total,0.859
-1397,53,Distrito Federal,2020,IDH,Educação,Total,0.825
-1398,53,Distrito Federal,2020,IDH,Longevidade,Total,0.836
-1399,53,Distrito Federal,2020,IDH,Renda,Total,0.827
-1400,53,Distrito Federal,2020,IDH,Total,Total,0.829
-1401,53,Distrito Federal,2021,IDH,Educação,Total,0.817
-1402,53,Distrito Federal,2021,IDH,Longevidade,Total,0.803
-1403,53,Distrito Federal,2021,IDH,Renda,Total,0.821
-1404,53,Distrito Federal,2021,IDH,Total,Total,0.814
+_id,co_uf,no_uf,sigla,ano,variavel,idh_categoria,idh_subcategoria,valor
+1,11,Rondônia,RO,1991,IDH,Educação,Total,181
+2,11,Rondônia,RO,1991,IDH,Longevidade,Total,635
+3,11,Rondônia,RO,1991,IDH,Renda,Total,585
+4,11,Rondônia,RO,1991,IDH,Total,Total,407
+5,11,Rondônia,RO,2000,IDH,Educação,Total,345
+6,11,Rondônia,RO,2000,IDH,Longevidade,Total,688
+7,11,Rondônia,RO,2000,IDH,Renda,Total,654
+8,11,Rondônia,RO,2000,IDH,Total,Total,537
+9,11,Rondônia,RO,2010,IDH,Educação,Total,577
+10,11,Rondônia,RO,2010,IDH,Longevidade,Total,800
+11,11,Rondônia,RO,2010,IDH,Renda,Total,712
+12,11,Rondônia,RO,2010,IDH,Total,Total,690
+13,11,Rondônia,RO,2012,IDH,Educação,Total,637
+14,11,Rondônia,RO,2012,IDH,Longevidade,Total,758
+15,11,Rondônia,RO,2012,IDH,Renda,Total,692
+16,11,Rondônia,RO,2012,IDH,Total,Total,694
+17,11,Rondônia,RO,2013,IDH,Educação,Total,612
+18,11,Rondônia,RO,2013,IDH,Longevidade,Total,762
+19,11,Rondônia,RO,2013,IDH,Renda,Total,694
+20,11,Rondônia,RO,2013,IDH,Total,Total,687
+21,11,Rondônia,RO,2014,IDH,Educação,Total,627
+22,11,Rondônia,RO,2014,IDH,Longevidade,Total,765
+23,11,Rondônia,RO,2014,IDH,Renda,Total,691
+24,11,Rondônia,RO,2014,IDH,Total,Total,692
+25,11,Rondônia,RO,2015,IDH,Educação,Total,664
+26,11,Rondônia,RO,2015,IDH,Longevidade,Total,769
+27,11,Rondônia,RO,2015,IDH,Renda,Total,689
+28,11,Rondônia,RO,2015,IDH,Total,Total,706
+29,11,Rondônia,RO,2016,IDH,Educação,Total,691
+30,11,Rondônia,RO,2016,IDH,Longevidade,Total,772
+31,11,Rondônia,RO,2016,IDH,Renda,Total,686
+32,11,Rondônia,RO,2016,IDH,Total,Total,715
+33,11,Rondônia,RO,2017,IDH,Educação,Total,699
+34,11,Rondônia,RO,2017,IDH,Longevidade,Total,775
+35,11,Rondônia,RO,2017,IDH,Renda,Total,693
+36,11,Rondônia,RO,2017,IDH,Total,Total,721
+37,11,Rondônia,RO,2018,IDH,Educação,Total,705
+38,11,Rondônia,RO,2018,IDH,Longevidade,Total,778
+39,11,Rondônia,RO,2018,IDH,Renda,Total,710
+40,11,Rondônia,RO,2018,IDH,Total,Total,730
+41,11,Rondônia,RO,2019,IDH,Educação,Total,707
+42,11,Rondônia,RO,2019,IDH,Longevidade,Total,781
+43,11,Rondônia,RO,2019,IDH,Renda,Total,705
+44,11,Rondônia,RO,2019,IDH,Total,Total,730
+45,11,Rondônia,RO,2020,IDH,Educação,Total,743
+46,11,Rondônia,RO,2020,IDH,Longevidade,Total,770
+47,11,Rondônia,RO,2020,IDH,Renda,Total,704
+48,11,Rondônia,RO,2020,IDH,Total,Total,739
+49,11,Rondônia,RO,2021,IDH,Educação,Total,694
+50,11,Rondônia,RO,2021,IDH,Longevidade,Total,731
+51,11,Rondônia,RO,2021,IDH,Renda,Total,677
+52,11,Rondônia,RO,2021,IDH,Total,Total,700
+53,12,Acre,AC,1991,IDH,Educação,Total,176
+54,12,Acre,AC,1991,IDH,Longevidade,Total,645
+55,12,Acre,AC,1991,IDH,Renda,Total,574
+56,12,Acre,AC,1991,IDH,Total,Total,402
+57,12,Acre,AC,2000,IDH,Educação,Total,325
+58,12,Acre,AC,2000,IDH,Longevidade,Total,694
+59,12,Acre,AC,2000,IDH,Renda,Total,612
+60,12,Acre,AC,2000,IDH,Total,Total,517
+61,12,Acre,AC,2010,IDH,Educação,Total,559
+62,12,Acre,AC,2010,IDH,Longevidade,Total,777
+63,12,Acre,AC,2010,IDH,Renda,Total,671
+64,12,Acre,AC,2010,IDH,Total,Total,663
+65,12,Acre,AC,2012,IDH,Educação,Total,649
+66,12,Acre,AC,2012,IDH,Longevidade,Total,791
+67,12,Acre,AC,2012,IDH,Renda,Total,670
+68,12,Acre,AC,2012,IDH,Total,Total,701
+69,12,Acre,AC,2013,IDH,Educação,Total,658
+70,12,Acre,AC,2013,IDH,Longevidade,Total,797
+71,12,Acre,AC,2013,IDH,Renda,Total,670
+72,12,Acre,AC,2013,IDH,Total,Total,706
+73,12,Acre,AC,2014,IDH,Educação,Total,679
+74,12,Acre,AC,2014,IDH,Longevidade,Total,804
+75,12,Acre,AC,2014,IDH,Renda,Total,669
+76,12,Acre,AC,2014,IDH,Total,Total,715
+77,12,Acre,AC,2015,IDH,Educação,Total,679
+78,12,Acre,AC,2015,IDH,Longevidade,Total,809
+79,12,Acre,AC,2015,IDH,Renda,Total,674
+80,12,Acre,AC,2015,IDH,Total,Total,718
+81,12,Acre,AC,2016,IDH,Educação,Total,704
+82,12,Acre,AC,2016,IDH,Longevidade,Total,815
+83,12,Acre,AC,2016,IDH,Renda,Total,660
+84,12,Acre,AC,2016,IDH,Total,Total,723
+85,12,Acre,AC,2017,IDH,Educação,Total,671
+86,12,Acre,AC,2017,IDH,Longevidade,Total,820
+87,12,Acre,AC,2017,IDH,Renda,Total,655
+88,12,Acre,AC,2017,IDH,Total,Total,712
+89,12,Acre,AC,2018,IDH,Educação,Total,706
+90,12,Acre,AC,2018,IDH,Longevidade,Total,825
+91,12,Acre,AC,2018,IDH,Renda,Total,676
+92,12,Acre,AC,2018,IDH,Total,Total,733
+93,12,Acre,AC,2019,IDH,Educação,Total,728
+94,12,Acre,AC,2019,IDH,Longevidade,Total,830
+95,12,Acre,AC,2019,IDH,Renda,Total,668
+96,12,Acre,AC,2019,IDH,Total,Total,739
+97,12,Acre,AC,2020,IDH,Educação,Total,753
+98,12,Acre,AC,2020,IDH,Longevidade,Total,825
+99,12,Acre,AC,2020,IDH,Renda,Total,668
+100,12,Acre,AC,2020,IDH,Total,Total,746
+101,12,Acre,AC,2021,IDH,Educação,Total,692
+102,12,Acre,AC,2021,IDH,Longevidade,Total,788
+103,12,Acre,AC,2021,IDH,Renda,Total,655
+104,12,Acre,AC,2021,IDH,Total,Total,710
+105,13,Amazonas,AM,1991,IDH,Educação,Total,204
+106,13,Amazonas,AM,1991,IDH,Longevidade,Total,645
+107,13,Amazonas,AM,1991,IDH,Renda,Total,605
+108,13,Amazonas,AM,1991,IDH,Total,Total,430
+109,13,Amazonas,AM,2000,IDH,Educação,Total,324
+110,13,Amazonas,AM,2000,IDH,Longevidade,Total,692
+111,13,Amazonas,AM,2000,IDH,Renda,Total,608
+112,13,Amazonas,AM,2000,IDH,Total,Total,515
+113,13,Amazonas,AM,2010,IDH,Educação,Total,561
+114,13,Amazonas,AM,2010,IDH,Longevidade,Total,805
+115,13,Amazonas,AM,2010,IDH,Renda,Total,677
+116,13,Amazonas,AM,2010,IDH,Total,Total,674
+117,13,Amazonas,AM,2012,IDH,Educação,Total,632
+118,13,Amazonas,AM,2012,IDH,Longevidade,Total,764
+119,13,Amazonas,AM,2012,IDH,Renda,Total,683
+120,13,Amazonas,AM,2012,IDH,Total,Total,691
+121,13,Amazonas,AM,2013,IDH,Educação,Total,659
+122,13,Amazonas,AM,2013,IDH,Longevidade,Total,769
+123,13,Amazonas,AM,2013,IDH,Renda,Total,683
+124,13,Amazonas,AM,2013,IDH,Total,Total,702
+125,13,Amazonas,AM,2014,IDH,Educação,Total,667
+126,13,Amazonas,AM,2014,IDH,Longevidade,Total,773
+127,13,Amazonas,AM,2014,IDH,Renda,Total,683
+128,13,Amazonas,AM,2014,IDH,Total,Total,706
+129,13,Amazonas,AM,2015,IDH,Educação,Total,686
+130,13,Amazonas,AM,2015,IDH,Longevidade,Total,777
+131,13,Amazonas,AM,2015,IDH,Renda,Total,673
+132,13,Amazonas,AM,2015,IDH,Total,Total,711
+133,13,Amazonas,AM,2016,IDH,Educação,Total,705
+134,13,Amazonas,AM,2016,IDH,Longevidade,Total,781
+135,13,Amazonas,AM,2016,IDH,Renda,Total,654
+136,13,Amazonas,AM,2016,IDH,Total,Total,711
+137,13,Amazonas,AM,2017,IDH,Educação,Total,732
+138,13,Amazonas,AM,2017,IDH,Longevidade,Total,785
+139,13,Amazonas,AM,2017,IDH,Renda,Total,672
+140,13,Amazonas,AM,2017,IDH,Total,Total,728
+141,13,Amazonas,AM,2018,IDH,Educação,Total,717
+142,13,Amazonas,AM,2018,IDH,Longevidade,Total,789
+143,13,Amazonas,AM,2018,IDH,Renda,Total,655
+144,13,Amazonas,AM,2018,IDH,Total,Total,718
+145,13,Amazonas,AM,2019,IDH,Educação,Total,735
+146,13,Amazonas,AM,2019,IDH,Longevidade,Total,792
+147,13,Amazonas,AM,2019,IDH,Renda,Total,658
+148,13,Amazonas,AM,2019,IDH,Total,Total,726
+149,13,Amazonas,AM,2020,IDH,Educação,Total,748
+150,13,Amazonas,AM,2020,IDH,Longevidade,Total,783
+151,13,Amazonas,AM,2020,IDH,Renda,Total,657
+152,13,Amazonas,AM,2020,IDH,Total,Total,727
+153,13,Amazonas,AM,2021,IDH,Educação,Total,720
+154,13,Amazonas,AM,2021,IDH,Longevidade,Total,744
+155,13,Amazonas,AM,2021,IDH,Renda,Total,641
+156,13,Amazonas,AM,2021,IDH,Total,Total,700
+157,14,Roraima,RR,1991,IDH,Educação,Total,240
+158,14,Roraima,RR,1991,IDH,Longevidade,Total,628
+159,14,Roraima,RR,1991,IDH,Renda,Total,643
+160,14,Roraima,RR,1991,IDH,Total,Total,459
+161,14,Roraima,RR,2000,IDH,Educação,Total,457
+162,14,Roraima,RR,2000,IDH,Longevidade,Total,717
+163,14,Roraima,RR,2000,IDH,Renda,Total,652
+164,14,Roraima,RR,2000,IDH,Total,Total,598
+165,14,Roraima,RR,2010,IDH,Educação,Total,628
+166,14,Roraima,RR,2010,IDH,Longevidade,Total,809
+167,14,Roraima,RR,2010,IDH,Renda,Total,695
+168,14,Roraima,RR,2010,IDH,Total,Total,707
+169,14,Roraima,RR,2012,IDH,Educação,Total,746
+170,14,Roraima,RR,2012,IDH,Longevidade,Total,752
+171,14,Roraima,RR,2012,IDH,Renda,Total,717
+172,14,Roraima,RR,2012,IDH,Total,Total,738
+173,14,Roraima,RR,2013,IDH,Educação,Total,735
+174,14,Roraima,RR,2013,IDH,Longevidade,Total,757
+175,14,Roraima,RR,2013,IDH,Renda,Total,723
+176,14,Roraima,RR,2013,IDH,Total,Total,738
+177,14,Roraima,RR,2014,IDH,Educação,Total,757
+178,14,Roraima,RR,2014,IDH,Longevidade,Total,763
+179,14,Roraima,RR,2014,IDH,Renda,Total,712
+180,14,Roraima,RR,2014,IDH,Total,Total,744
+181,14,Roraima,RR,2015,IDH,Educação,Total,758
+182,14,Roraima,RR,2015,IDH,Longevidade,Total,768
+183,14,Roraima,RR,2015,IDH,Renda,Total,719
+184,14,Roraima,RR,2015,IDH,Total,Total,748
+185,14,Roraima,RR,2016,IDH,Educação,Total,771
+186,14,Roraima,RR,2016,IDH,Longevidade,Total,774
+187,14,Roraima,RR,2016,IDH,Renda,Total,714
+188,14,Roraima,RR,2016,IDH,Total,Total,752
+189,14,Roraima,RR,2017,IDH,Educação,Total,764
+190,14,Roraima,RR,2017,IDH,Longevidade,Total,779
+191,14,Roraima,RR,2017,IDH,Renda,Total,697
+192,14,Roraima,RR,2017,IDH,Total,Total,746
+193,14,Roraima,RR,2018,IDH,Educação,Total,774
+194,14,Roraima,RR,2018,IDH,Longevidade,Total,784
+195,14,Roraima,RR,2018,IDH,Renda,Total,723
+196,14,Roraima,RR,2018,IDH,Total,Total,760
+197,14,Roraima,RR,2019,IDH,Educação,Total,767
+198,14,Roraima,RR,2019,IDH,Longevidade,Total,788
+199,14,Roraima,RR,2019,IDH,Renda,Total,696
+200,14,Roraima,RR,2019,IDH,Total,Total,749
+201,14,Roraima,RR,2020,IDH,Educação,Total,759
+202,14,Roraima,RR,2020,IDH,Longevidade,Total,783
+203,14,Roraima,RR,2020,IDH,Renda,Total,680
+204,14,Roraima,RR,2020,IDH,Total,Total,739
+205,14,Roraima,RR,2021,IDH,Educação,Total,673
+206,14,Roraima,RR,2021,IDH,Longevidade,Total,745
+207,14,Roraima,RR,2021,IDH,Renda,Total,680
+208,14,Roraima,RR,2021,IDH,Total,Total,699
+209,15,Pará,PA,1991,IDH,Educação,Total,194
+210,15,Pará,PA,1991,IDH,Longevidade,Total,640
+211,15,Pará,PA,1991,IDH,Renda,Total,567
+212,15,Pará,PA,1991,IDH,Total,Total,413
+213,15,Pará,PA,2000,IDH,Educação,Total,319
+214,15,Pará,PA,2000,IDH,Longevidade,Total,725
+215,15,Pará,PA,2000,IDH,Renda,Total,601
+216,15,Pará,PA,2000,IDH,Total,Total,518
+217,15,Pará,PA,2010,IDH,Educação,Total,528
+218,15,Pará,PA,2010,IDH,Longevidade,Total,789
+219,15,Pará,PA,2010,IDH,Renda,Total,646
+220,15,Pará,PA,2010,IDH,Total,Total,646
+221,15,Pará,PA,2012,IDH,Educação,Total,583
+222,15,Pará,PA,2012,IDH,Longevidade,Total,771
+223,15,Pará,PA,2012,IDH,Renda,Total,658
+224,15,Pará,PA,2012,IDH,Total,Total,666
+225,15,Pará,PA,2013,IDH,Educação,Total,592
+226,15,Pará,PA,2013,IDH,Longevidade,Total,774
+227,15,Pará,PA,2013,IDH,Renda,Total,660
+228,15,Pará,PA,2013,IDH,Total,Total,671
+229,15,Pará,PA,2014,IDH,Educação,Total,623
+230,15,Pará,PA,2014,IDH,Longevidade,Total,777
+231,15,Pará,PA,2014,IDH,Renda,Total,660
+232,15,Pará,PA,2014,IDH,Total,Total,684
+233,15,Pará,PA,2015,IDH,Educação,Total,638
+234,15,Pará,PA,2015,IDH,Longevidade,Total,781
+235,15,Pará,PA,2015,IDH,Renda,Total,656
+236,15,Pará,PA,2015,IDH,Total,Total,689
+237,15,Pará,PA,2016,IDH,Educação,Total,641
+238,15,Pará,PA,2016,IDH,Longevidade,Total,784
+239,15,Pará,PA,2016,IDH,Renda,Total,646
+240,15,Pará,PA,2016,IDH,Total,Total,687
+241,15,Pará,PA,2017,IDH,Educação,Total,657
+242,15,Pará,PA,2017,IDH,Longevidade,Total,787
+243,15,Pará,PA,2017,IDH,Renda,Total,647
+244,15,Pará,PA,2017,IDH,Total,Total,694
+245,15,Pará,PA,2018,IDH,Educação,Total,671
+246,15,Pará,PA,2018,IDH,Longevidade,Total,790
+247,15,Pará,PA,2018,IDH,Renda,Total,667
+248,15,Pará,PA,2018,IDH,Total,Total,707
+249,15,Pará,PA,2019,IDH,Educação,Total,677
+250,15,Pará,PA,2019,IDH,Longevidade,Total,793
+251,15,Pará,PA,2019,IDH,Renda,Total,651
+252,15,Pará,PA,2019,IDH,Total,Total,704
+253,15,Pará,PA,2020,IDH,Educação,Total,713
+254,15,Pará,PA,2020,IDH,Longevidade,Total,784
+255,15,Pará,PA,2020,IDH,Renda,Total,664
+256,15,Pará,PA,2020,IDH,Total,Total,719
+257,15,Pará,PA,2021,IDH,Educação,Total,686
+258,15,Pará,PA,2021,IDH,Longevidade,Total,744
+259,15,Pará,PA,2021,IDH,Renda,Total,645
+260,15,Pará,PA,2021,IDH,Total,Total,690
+261,16,Amapá,AP,1991,IDH,Educação,Total,254
+262,16,Amapá,AP,1991,IDH,Longevidade,Total,668
+263,16,Amapá,AP,1991,IDH,Renda,Total,620
+264,16,Amapá,AP,1991,IDH,Total,Total,472
+265,16,Amapá,AP,2000,IDH,Educação,Total,424
+266,16,Amapá,AP,2000,IDH,Longevidade,Total,711
+267,16,Amapá,AP,2000,IDH,Renda,Total,638
+268,16,Amapá,AP,2000,IDH,Total,Total,577
+269,16,Amapá,AP,2010,IDH,Educação,Total,629
+270,16,Amapá,AP,2010,IDH,Longevidade,Total,813
+271,16,Amapá,AP,2010,IDH,Renda,Total,694
+272,16,Amapá,AP,2010,IDH,Total,Total,708
+273,16,Amapá,AP,2012,IDH,Educação,Total,659
+274,16,Amapá,AP,2012,IDH,Longevidade,Total,796
+275,16,Amapá,AP,2012,IDH,Renda,Total,673
+276,16,Amapá,AP,2012,IDH,Total,Total,707
+277,16,Amapá,AP,2013,IDH,Educação,Total,714
+278,16,Amapá,AP,2013,IDH,Longevidade,Total,801
+279,16,Amapá,AP,2013,IDH,Renda,Total,691
+280,16,Amapá,AP,2013,IDH,Total,Total,734
+281,16,Amapá,AP,2014,IDH,Educação,Total,688
+282,16,Amapá,AP,2014,IDH,Longevidade,Total,806
+283,16,Amapá,AP,2014,IDH,Renda,Total,687
+284,16,Amapá,AP,2014,IDH,Total,Total,725
+285,16,Amapá,AP,2015,IDH,Educação,Total,690
+286,16,Amapá,AP,2015,IDH,Longevidade,Total,811
+287,16,Amapá,AP,2015,IDH,Renda,Total,690
+288,16,Amapá,AP,2015,IDH,Total,Total,728
+289,16,Amapá,AP,2016,IDH,Educação,Total,709
+290,16,Amapá,AP,2016,IDH,Longevidade,Total,815
+291,16,Amapá,AP,2016,IDH,Renda,Total,682
+292,16,Amapá,AP,2016,IDH,Total,Total,733
+293,16,Amapá,AP,2017,IDH,Educação,Total,700
+294,16,Amapá,AP,2017,IDH,Longevidade,Total,820
+295,16,Amapá,AP,2017,IDH,Renda,Total,683
+296,16,Amapá,AP,2017,IDH,Total,Total,732
+297,16,Amapá,AP,2018,IDH,Educação,Total,742
+298,16,Amapá,AP,2018,IDH,Longevidade,Total,824
+299,16,Amapá,AP,2018,IDH,Renda,Total,666
+300,16,Amapá,AP,2018,IDH,Total,Total,741
+301,16,Amapá,AP,2019,IDH,Educação,Total,728
+302,16,Amapá,AP,2019,IDH,Longevidade,Total,828
+303,16,Amapá,AP,2019,IDH,Renda,Total,665
+304,16,Amapá,AP,2019,IDH,Total,Total,737
+305,16,Amapá,AP,2020,IDH,Educação,Total,701
+306,16,Amapá,AP,2020,IDH,Longevidade,Total,815
+307,16,Amapá,AP,2020,IDH,Renda,Total,663
+308,16,Amapá,AP,2020,IDH,Total,Total,724
+309,16,Amapá,AP,2021,IDH,Educação,Total,647
+310,16,Amapá,AP,2021,IDH,Longevidade,Total,778
+311,16,Amapá,AP,2021,IDH,Renda,Total,648
+312,16,Amapá,AP,2021,IDH,Total,Total,688
+313,17,Tocantins,TO,1991,IDH,Educação,Total,155
+314,17,Tocantins,TO,1991,IDH,Longevidade,Total,589
+315,17,Tocantins,TO,1991,IDH,Renda,Total,549
+316,17,Tocantins,TO,1991,IDH,Total,Total,369
+317,17,Tocantins,TO,2000,IDH,Educação,Total,348
+318,17,Tocantins,TO,2000,IDH,Longevidade,Total,688
+319,17,Tocantins,TO,2000,IDH,Renda,Total,605
+320,17,Tocantins,TO,2000,IDH,Total,Total,525
+321,17,Tocantins,TO,2010,IDH,Educação,Total,624
+322,17,Tocantins,TO,2010,IDH,Longevidade,Total,793
+323,17,Tocantins,TO,2010,IDH,Renda,Total,690
+324,17,Tocantins,TO,2010,IDH,Total,Total,699
+325,17,Tocantins,TO,2012,IDH,Educação,Total,676
+326,17,Tocantins,TO,2012,IDH,Longevidade,Total,785
+327,17,Tocantins,TO,2012,IDH,Renda,Total,674
+328,17,Tocantins,TO,2012,IDH,Total,Total,710
+329,17,Tocantins,TO,2013,IDH,Educação,Total,691
+330,17,Tocantins,TO,2013,IDH,Longevidade,Total,790
+331,17,Tocantins,TO,2013,IDH,Renda,Total,680
+332,17,Tocantins,TO,2013,IDH,Total,Total,719
+333,17,Tocantins,TO,2014,IDH,Educação,Total,729
+334,17,Tocantins,TO,2014,IDH,Longevidade,Total,795
+335,17,Tocantins,TO,2014,IDH,Renda,Total,692
+336,17,Tocantins,TO,2014,IDH,Total,Total,737
+337,17,Tocantins,TO,2015,IDH,Educação,Total,707
+338,17,Tocantins,TO,2015,IDH,Longevidade,Total,800
+339,17,Tocantins,TO,2015,IDH,Renda,Total,688
+340,17,Tocantins,TO,2015,IDH,Total,Total,730
+341,17,Tocantins,TO,2016,IDH,Educação,Total,723
+342,17,Tocantins,TO,2016,IDH,Longevidade,Total,805
+343,17,Tocantins,TO,2016,IDH,Renda,Total,679
+344,17,Tocantins,TO,2016,IDH,Total,Total,734
+345,17,Tocantins,TO,2017,IDH,Educação,Total,729
+346,17,Tocantins,TO,2017,IDH,Longevidade,Total,809
+347,17,Tocantins,TO,2017,IDH,Renda,Total,687
+348,17,Tocantins,TO,2017,IDH,Total,Total,740
+349,17,Tocantins,TO,2018,IDH,Educação,Total,741
+350,17,Tocantins,TO,2018,IDH,Longevidade,Total,814
+351,17,Tocantins,TO,2018,IDH,Renda,Total,698
+352,17,Tocantins,TO,2018,IDH,Total,Total,749
+353,17,Tocantins,TO,2019,IDH,Educação,Total,747
+354,17,Tocantins,TO,2019,IDH,Longevidade,Total,818
+355,17,Tocantins,TO,2019,IDH,Renda,Total,693
+356,17,Tocantins,TO,2019,IDH,Total,Total,751
+357,17,Tocantins,TO,2020,IDH,Educação,Total,763
+358,17,Tocantins,TO,2020,IDH,Longevidade,Total,817
+359,17,Tocantins,TO,2020,IDH,Renda,Total,691
+360,17,Tocantins,TO,2020,IDH,Total,Total,755
+361,17,Tocantins,TO,2021,IDH,Educação,Total,732
+362,17,Tocantins,TO,2021,IDH,Longevidade,Total,779
+363,17,Tocantins,TO,2021,IDH,Renda,Total,684
+364,17,Tocantins,TO,2021,IDH,Total,Total,731
+365,21,Maranhão,MA,1991,IDH,Educação,Total,173
+366,21,Maranhão,MA,1991,IDH,Longevidade,Total,551
+367,21,Maranhão,MA,1991,IDH,Renda,Total,478
+368,21,Maranhão,MA,1991,IDH,Total,Total,357
+369,21,Maranhão,MA,2000,IDH,Educação,Total,312
+370,21,Maranhão,MA,2000,IDH,Longevidade,Total,649
+371,21,Maranhão,MA,2000,IDH,Renda,Total,531
+372,21,Maranhão,MA,2000,IDH,Total,Total,476
+373,21,Maranhão,MA,2010,IDH,Educação,Total,562
+374,21,Maranhão,MA,2010,IDH,Longevidade,Total,757
+375,21,Maranhão,MA,2010,IDH,Renda,Total,612
+376,21,Maranhão,MA,2010,IDH,Total,Total,639
+377,21,Maranhão,MA,2012,IDH,Educação,Total,611
+378,21,Maranhão,MA,2012,IDH,Longevidade,Total,739
+379,21,Maranhão,MA,2012,IDH,Renda,Total,602
+380,21,Maranhão,MA,2012,IDH,Total,Total,648
+381,21,Maranhão,MA,2013,IDH,Educação,Total,639
+382,21,Maranhão,MA,2013,IDH,Longevidade,Total,744
+383,21,Maranhão,MA,2013,IDH,Renda,Total,607
+384,21,Maranhão,MA,2013,IDH,Total,Total,661
+385,21,Maranhão,MA,2014,IDH,Educação,Total,639
+386,21,Maranhão,MA,2014,IDH,Longevidade,Total,749
+387,21,Maranhão,MA,2014,IDH,Renda,Total,610
+388,21,Maranhão,MA,2014,IDH,Total,Total,663
+389,21,Maranhão,MA,2015,IDH,Educação,Total,649
+390,21,Maranhão,MA,2015,IDH,Longevidade,Total,754
+391,21,Maranhão,MA,2015,IDH,Renda,Total,613
+392,21,Maranhão,MA,2015,IDH,Total,Total,669
+393,21,Maranhão,MA,2016,IDH,Educação,Total,673
+394,21,Maranhão,MA,2016,IDH,Longevidade,Total,759
+395,21,Maranhão,MA,2016,IDH,Renda,Total,615
+396,21,Maranhão,MA,2016,IDH,Total,Total,680
+397,21,Maranhão,MA,2017,IDH,Educação,Total,684
+398,21,Maranhão,MA,2017,IDH,Longevidade,Total,764
+399,21,Maranhão,MA,2017,IDH,Renda,Total,616
+400,21,Maranhão,MA,2017,IDH,Total,Total,685
+401,21,Maranhão,MA,2018,IDH,Educação,Total,685
+402,21,Maranhão,MA,2018,IDH,Longevidade,Total,769
+403,21,Maranhão,MA,2018,IDH,Renda,Total,613
+404,21,Maranhão,MA,2018,IDH,Total,Total,686
+405,21,Maranhão,MA,2019,IDH,Educação,Total,704
+406,21,Maranhão,MA,2019,IDH,Longevidade,Total,773
+407,21,Maranhão,MA,2019,IDH,Renda,Total,614
+408,21,Maranhão,MA,2019,IDH,Total,Total,694
+409,21,Maranhão,MA,2020,IDH,Educação,Total,726
+410,21,Maranhão,MA,2020,IDH,Longevidade,Total,758
+411,21,Maranhão,MA,2020,IDH,Renda,Total,621
+412,21,Maranhão,MA,2020,IDH,Total,Total,699
+413,21,Maranhão,MA,2021,IDH,Educação,Total,716
+414,21,Maranhão,MA,2021,IDH,Longevidade,Total,715
+415,21,Maranhão,MA,2021,IDH,Renda,Total,603
+416,21,Maranhão,MA,2021,IDH,Total,Total,676
+417,22,Piauí,PI,1991,IDH,Educação,Total,164
+418,22,Piauí,PI,1991,IDH,Longevidade,Total,595
+419,22,Piauí,PI,1991,IDH,Renda,Total,488
+420,22,Piauí,PI,1991,IDH,Total,Total,362
+421,22,Piauí,PI,2000,IDH,Educação,Total,301
+422,22,Piauí,PI,2000,IDH,Longevidade,Total,676
+423,22,Piauí,PI,2000,IDH,Renda,Total,556
+424,22,Piauí,PI,2000,IDH,Total,Total,484
+425,22,Piauí,PI,2010,IDH,Educação,Total,547
+426,22,Piauí,PI,2010,IDH,Longevidade,Total,777
+427,22,Piauí,PI,2010,IDH,Renda,Total,635
+428,22,Piauí,PI,2010,IDH,Total,Total,646
+429,22,Piauí,PI,2012,IDH,Educação,Total,600
+430,22,Piauí,PI,2012,IDH,Longevidade,Total,753
+431,22,Piauí,PI,2012,IDH,Renda,Total,635
+432,22,Piauí,PI,2012,IDH,Total,Total,660
+433,22,Piauí,PI,2013,IDH,Educação,Total,623
+434,22,Piauí,PI,2013,IDH,Longevidade,Total,756
+435,22,Piauí,PI,2013,IDH,Renda,Total,666
+436,22,Piauí,PI,2013,IDH,Total,Total,679
+437,22,Piauí,PI,2014,IDH,Educação,Total,639
+438,22,Piauí,PI,2014,IDH,Longevidade,Total,760
+439,22,Piauí,PI,2014,IDH,Renda,Total,665
+440,22,Piauí,PI,2014,IDH,Total,Total,686
+441,22,Piauí,PI,2015,IDH,Educação,Total,643
+442,22,Piauí,PI,2015,IDH,Longevidade,Total,763
+443,22,Piauí,PI,2015,IDH,Renda,Total,668
+444,22,Piauí,PI,2015,IDH,Total,Total,689
+445,22,Piauí,PI,2016,IDH,Educação,Total,642
+446,22,Piauí,PI,2016,IDH,Longevidade,Total,766
+447,22,Piauí,PI,2016,IDH,Renda,Total,655
+448,22,Piauí,PI,2016,IDH,Total,Total,685
+449,22,Piauí,PI,2017,IDH,Educação,Total,665
+450,22,Piauí,PI,2017,IDH,Longevidade,Total,769
+451,22,Piauí,PI,2017,IDH,Renda,Total,653
+452,22,Piauí,PI,2017,IDH,Total,Total,694
+453,22,Piauí,PI,2018,IDH,Educação,Total,671
+454,22,Piauí,PI,2018,IDH,Longevidade,Total,772
+455,22,Piauí,PI,2018,IDH,Renda,Total,658
+456,22,Piauí,PI,2018,IDH,Total,Total,699
+457,22,Piauí,PI,2019,IDH,Educação,Total,692
+458,22,Piauí,PI,2019,IDH,Longevidade,Total,775
+459,22,Piauí,PI,2019,IDH,Renda,Total,657
+460,22,Piauí,PI,2019,IDH,Total,Total,706
+461,22,Piauí,PI,2020,IDH,Educação,Total,700
+462,22,Piauí,PI,2020,IDH,Longevidade,Total,768
+463,22,Piauí,PI,2020,IDH,Renda,Total,659
+464,22,Piauí,PI,2020,IDH,Total,Total,708
+465,22,Piauí,PI,2021,IDH,Educação,Total,698
+466,22,Piauí,PI,2021,IDH,Longevidade,Total,726
+467,22,Piauí,PI,2021,IDH,Renda,Total,649
+468,22,Piauí,PI,2021,IDH,Total,Total,690
+469,23,Ceará,CE,1991,IDH,Educação,Total,204
+470,23,Ceará,CE,1991,IDH,Longevidade,Total,613
+471,23,Ceará,CE,1991,IDH,Renda,Total,532
+472,23,Ceará,CE,1991,IDH,Total,Total,405
+473,23,Ceará,CE,2000,IDH,Educação,Total,377
+474,23,Ceará,CE,2000,IDH,Longevidade,Total,713
+475,23,Ceará,CE,2000,IDH,Renda,Total,588
+476,23,Ceará,CE,2000,IDH,Total,Total,541
+477,23,Ceará,CE,2010,IDH,Educação,Total,615
+478,23,Ceará,CE,2010,IDH,Longevidade,Total,793
+479,23,Ceará,CE,2010,IDH,Renda,Total,651
+480,23,Ceará,CE,2010,IDH,Total,Total,682
+481,23,Ceará,CE,2012,IDH,Educação,Total,667
+482,23,Ceará,CE,2012,IDH,Longevidade,Total,796
+483,23,Ceará,CE,2012,IDH,Renda,Total,648
+484,23,Ceará,CE,2012,IDH,Total,Total,701
+485,23,Ceará,CE,2013,IDH,Educação,Total,667
+486,23,Ceará,CE,2013,IDH,Longevidade,Total,801
+487,23,Ceará,CE,2013,IDH,Renda,Total,656
+488,23,Ceará,CE,2013,IDH,Total,Total,705
+489,23,Ceará,CE,2014,IDH,Educação,Total,679
+490,23,Ceará,CE,2014,IDH,Longevidade,Total,804
+491,23,Ceará,CE,2014,IDH,Renda,Total,656
+492,23,Ceará,CE,2014,IDH,Total,Total,710
+493,23,Ceará,CE,2015,IDH,Educação,Total,689
+494,23,Ceará,CE,2015,IDH,Longevidade,Total,808
+495,23,Ceará,CE,2015,IDH,Renda,Total,657
+496,23,Ceará,CE,2015,IDH,Total,Total,715
+497,23,Ceará,CE,2016,IDH,Educação,Total,708
+498,23,Ceará,CE,2016,IDH,Longevidade,Total,812
+499,23,Ceará,CE,2016,IDH,Renda,Total,656
+500,23,Ceará,CE,2016,IDH,Total,Total,722
+501,23,Ceará,CE,2017,IDH,Educação,Total,715
+502,23,Ceará,CE,2017,IDH,Longevidade,Total,816
+503,23,Ceará,CE,2017,IDH,Renda,Total,666
+504,23,Ceará,CE,2017,IDH,Total,Total,730
+505,23,Ceará,CE,2018,IDH,Educação,Total,740
+506,23,Ceará,CE,2018,IDH,Longevidade,Total,819
+507,23,Ceará,CE,2018,IDH,Renda,Total,666
+508,23,Ceará,CE,2018,IDH,Total,Total,739
+509,23,Ceará,CE,2019,IDH,Educação,Total,740
+510,23,Ceará,CE,2019,IDH,Longevidade,Total,823
+511,23,Ceará,CE,2019,IDH,Renda,Total,677
+512,23,Ceará,CE,2019,IDH,Total,Total,744
+513,23,Ceará,CE,2020,IDH,Educação,Total,766
+514,23,Ceará,CE,2020,IDH,Longevidade,Total,822
+515,23,Ceará,CE,2020,IDH,Renda,Total,684
+516,23,Ceará,CE,2020,IDH,Total,Total,755
+517,23,Ceará,CE,2021,IDH,Educação,Total,766
+518,23,Ceará,CE,2021,IDH,Longevidade,Total,784
+519,23,Ceará,CE,2021,IDH,Renda,Total,658
+520,23,Ceará,CE,2021,IDH,Total,Total,734
+521,24,Rio Grande do Norte,RN,1991,IDH,Educação,Total,242
+522,24,Rio Grande do Norte,RN,1991,IDH,Longevidade,Total,591
+523,24,Rio Grande do Norte,RN,1991,IDH,Renda,Total,547
+524,24,Rio Grande do Norte,RN,1991,IDH,Total,Total,428
+525,24,Rio Grande do Norte,RN,2000,IDH,Educação,Total,396
+526,24,Rio Grande do Norte,RN,2000,IDH,Longevidade,Total,700
+527,24,Rio Grande do Norte,RN,2000,IDH,Renda,Total,608
+528,24,Rio Grande do Norte,RN,2000,IDH,Total,Total,552
+529,24,Rio Grande do Norte,RN,2010,IDH,Educação,Total,597
+530,24,Rio Grande do Norte,RN,2010,IDH,Longevidade,Total,792
+531,24,Rio Grande do Norte,RN,2010,IDH,Renda,Total,678
+532,24,Rio Grande do Norte,RN,2010,IDH,Total,Total,684
+533,24,Rio Grande do Norte,RN,2012,IDH,Educação,Total,617
+534,24,Rio Grande do Norte,RN,2012,IDH,Longevidade,Total,827
+535,24,Rio Grande do Norte,RN,2012,IDH,Renda,Total,658
+536,24,Rio Grande do Norte,RN,2012,IDH,Total,Total,695
+537,24,Rio Grande do Norte,RN,2013,IDH,Educação,Total,642
+538,24,Rio Grande do Norte,RN,2013,IDH,Longevidade,Total,831
+539,24,Rio Grande do Norte,RN,2013,IDH,Renda,Total,670
+540,24,Rio Grande do Norte,RN,2013,IDH,Total,Total,710
+541,24,Rio Grande do Norte,RN,2014,IDH,Educação,Total,668
+542,24,Rio Grande do Norte,RN,2014,IDH,Longevidade,Total,836
+543,24,Rio Grande do Norte,RN,2014,IDH,Renda,Total,676
+544,24,Rio Grande do Norte,RN,2014,IDH,Total,Total,723
+545,24,Rio Grande do Norte,RN,2015,IDH,Educação,Total,683
+546,24,Rio Grande do Norte,RN,2015,IDH,Longevidade,Total,840
+547,24,Rio Grande do Norte,RN,2015,IDH,Renda,Total,687
+548,24,Rio Grande do Norte,RN,2015,IDH,Total,Total,733
+549,24,Rio Grande do Norte,RN,2016,IDH,Educação,Total,676
+550,24,Rio Grande do Norte,RN,2016,IDH,Longevidade,Total,844
+551,24,Rio Grande do Norte,RN,2016,IDH,Renda,Total,687
+552,24,Rio Grande do Norte,RN,2016,IDH,Total,Total,732
+553,24,Rio Grande do Norte,RN,2017,IDH,Educação,Total,677
+554,24,Rio Grande do Norte,RN,2017,IDH,Longevidade,Total,848
+555,24,Rio Grande do Norte,RN,2017,IDH,Renda,Total,672
+556,24,Rio Grande do Norte,RN,2017,IDH,Total,Total,728
+557,24,Rio Grande do Norte,RN,2018,IDH,Educação,Total,690
+558,24,Rio Grande do Norte,RN,2018,IDH,Longevidade,Total,851
+559,24,Rio Grande do Norte,RN,2018,IDH,Renda,Total,686
+560,24,Rio Grande do Norte,RN,2018,IDH,Total,Total,739
+561,24,Rio Grande do Norte,RN,2019,IDH,Educação,Total,689
+562,24,Rio Grande do Norte,RN,2019,IDH,Longevidade,Total,855
+563,24,Rio Grande do Norte,RN,2019,IDH,Renda,Total,693
+564,24,Rio Grande do Norte,RN,2019,IDH,Total,Total,742
+565,24,Rio Grande do Norte,RN,2020,IDH,Educação,Total,710
+566,24,Rio Grande do Norte,RN,2020,IDH,Longevidade,Total,855
+567,24,Rio Grande do Norte,RN,2020,IDH,Renda,Total,695
+568,24,Rio Grande do Norte,RN,2020,IDH,Total,Total,750
+569,24,Rio Grande do Norte,RN,2021,IDH,Educação,Total,680
+570,24,Rio Grande do Norte,RN,2021,IDH,Longevidade,Total,819
+571,24,Rio Grande do Norte,RN,2021,IDH,Renda,Total,692
+572,24,Rio Grande do Norte,RN,2021,IDH,Total,Total,728
+573,25,Paraíba,PB,1991,IDH,Educação,Total,191
+574,25,Paraíba,PB,1991,IDH,Longevidade,Total,565
+575,25,Paraíba,PB,1991,IDH,Renda,Total,515
+576,25,Paraíba,PB,1991,IDH,Total,Total,382
+577,25,Paraíba,PB,2000,IDH,Educação,Total,331
+578,25,Paraíba,PB,2000,IDH,Longevidade,Total,672
+579,25,Paraíba,PB,2000,IDH,Renda,Total,582
+580,25,Paraíba,PB,2000,IDH,Total,Total,506
+581,25,Paraíba,PB,2010,IDH,Educação,Total,555
+582,25,Paraíba,PB,2010,IDH,Longevidade,Total,783
+583,25,Paraíba,PB,2010,IDH,Renda,Total,656
+584,25,Paraíba,PB,2010,IDH,Total,Total,658
+585,25,Paraíba,PB,2012,IDH,Educação,Total,601
+586,25,Paraíba,PB,2012,IDH,Longevidade,Total,780
+587,25,Paraíba,PB,2012,IDH,Renda,Total,649
+588,25,Paraíba,PB,2012,IDH,Total,Total,673
+589,25,Paraíba,PB,2013,IDH,Educação,Total,584
+590,25,Paraíba,PB,2013,IDH,Longevidade,Total,786
+591,25,Paraíba,PB,2013,IDH,Renda,Total,655
+592,25,Paraíba,PB,2013,IDH,Total,Total,670
+593,25,Paraíba,PB,2014,IDH,Educação,Total,619
+594,25,Paraíba,PB,2014,IDH,Longevidade,Total,791
+595,25,Paraíba,PB,2014,IDH,Renda,Total,671
+596,25,Paraíba,PB,2014,IDH,Total,Total,690
+597,25,Paraíba,PB,2015,IDH,Educação,Total,644
+598,25,Paraíba,PB,2015,IDH,Longevidade,Total,797
+599,25,Paraíba,PB,2015,IDH,Renda,Total,678
+600,25,Paraíba,PB,2015,IDH,Total,Total,703
+601,25,Paraíba,PB,2016,IDH,Educação,Total,657
+602,25,Paraíba,PB,2016,IDH,Longevidade,Total,802
+603,25,Paraíba,PB,2016,IDH,Renda,Total,663
+604,25,Paraíba,PB,2016,IDH,Total,Total,704
+605,25,Paraíba,PB,2017,IDH,Educação,Total,671
+606,25,Paraíba,PB,2017,IDH,Longevidade,Total,807
+607,25,Paraíba,PB,2017,IDH,Renda,Total,682
+608,25,Paraíba,PB,2017,IDH,Total,Total,717
+609,25,Paraíba,PB,2018,IDH,Educação,Total,658
+610,25,Paraíba,PB,2018,IDH,Longevidade,Total,812
+611,25,Paraíba,PB,2018,IDH,Renda,Total,672
+612,25,Paraíba,PB,2018,IDH,Total,Total,711
+613,25,Paraíba,PB,2019,IDH,Educação,Total,660
+614,25,Paraíba,PB,2019,IDH,Longevidade,Total,816
+615,25,Paraíba,PB,2019,IDH,Renda,Total,672
+616,25,Paraíba,PB,2019,IDH,Total,Total,713
+617,25,Paraíba,PB,2020,IDH,Educação,Total,673
+618,25,Paraíba,PB,2020,IDH,Longevidade,Total,816
+619,25,Paraíba,PB,2020,IDH,Renda,Total,664
+620,25,Paraíba,PB,2020,IDH,Total,Total,714
+621,25,Paraíba,PB,2021,IDH,Educação,Total,669
+622,25,Paraíba,PB,2021,IDH,Longevidade,Total,779
+623,25,Paraíba,PB,2021,IDH,Renda,Total,653
+624,25,Paraíba,PB,2021,IDH,Total,Total,698
+625,26,Pernambuco,PE,1991,IDH,Educação,Total,242
+626,26,Pernambuco,PE,1991,IDH,Longevidade,Total,617
+627,26,Pernambuco,PE,1991,IDH,Renda,Total,569
+628,26,Pernambuco,PE,1991,IDH,Total,Total,440
+629,26,Pernambuco,PE,2000,IDH,Educação,Total,372
+630,26,Pernambuco,PE,2000,IDH,Longevidade,Total,705
+631,26,Pernambuco,PE,2000,IDH,Renda,Total,615
+632,26,Pernambuco,PE,2000,IDH,Total,Total,544
+633,26,Pernambuco,PE,2010,IDH,Educação,Total,574
+634,26,Pernambuco,PE,2010,IDH,Longevidade,Total,789
+635,26,Pernambuco,PE,2010,IDH,Renda,Total,673
+636,26,Pernambuco,PE,2010,IDH,Total,Total,673
+637,26,Pernambuco,PE,2012,IDH,Educação,Total,616
+638,26,Pernambuco,PE,2012,IDH,Longevidade,Total,784
+639,26,Pernambuco,PE,2012,IDH,Renda,Total,673
+640,26,Pernambuco,PE,2012,IDH,Total,Total,688
+641,26,Pernambuco,PE,2013,IDH,Educação,Total,641
+642,26,Pernambuco,PE,2013,IDH,Longevidade,Total,792
+643,26,Pernambuco,PE,2013,IDH,Renda,Total,685
+644,26,Pernambuco,PE,2013,IDH,Total,Total,703
+645,26,Pernambuco,PE,2014,IDH,Educação,Total,656
+646,26,Pernambuco,PE,2014,IDH,Longevidade,Total,799
+647,26,Pernambuco,PE,2014,IDH,Renda,Total,698
+648,26,Pernambuco,PE,2014,IDH,Total,Total,715
+649,26,Pernambuco,PE,2015,IDH,Educação,Total,678
+650,26,Pernambuco,PE,2015,IDH,Longevidade,Total,806
+651,26,Pernambuco,PE,2015,IDH,Renda,Total,688
+652,26,Pernambuco,PE,2015,IDH,Total,Total,722
+653,26,Pernambuco,PE,2016,IDH,Educação,Total,690
+654,26,Pernambuco,PE,2016,IDH,Longevidade,Total,813
+655,26,Pernambuco,PE,2016,IDH,Renda,Total,677
+656,26,Pernambuco,PE,2016,IDH,Total,Total,724
+657,26,Pernambuco,PE,2017,IDH,Educação,Total,684
+658,26,Pernambuco,PE,2017,IDH,Longevidade,Total,819
+659,26,Pernambuco,PE,2017,IDH,Renda,Total,671
+660,26,Pernambuco,PE,2017,IDH,Total,Total,722
+661,26,Pernambuco,PE,2018,IDH,Educação,Total,719
+662,26,Pernambuco,PE,2018,IDH,Longevidade,Total,826
+663,26,Pernambuco,PE,2018,IDH,Renda,Total,669
+664,26,Pernambuco,PE,2018,IDH,Total,Total,735
+665,26,Pernambuco,PE,2019,IDH,Educação,Total,718
+666,26,Pernambuco,PE,2019,IDH,Longevidade,Total,831
+667,26,Pernambuco,PE,2019,IDH,Renda,Total,680
+668,26,Pernambuco,PE,2019,IDH,Total,Total,740
+669,26,Pernambuco,PE,2020,IDH,Educação,Total,729
+670,26,Pernambuco,PE,2020,IDH,Longevidade,Total,831
+671,26,Pernambuco,PE,2020,IDH,Renda,Total,667
+672,26,Pernambuco,PE,2020,IDH,Total,Total,739
+673,26,Pernambuco,PE,2021,IDH,Educação,Total,721
+674,26,Pernambuco,PE,2021,IDH,Longevidade,Total,797
+675,26,Pernambuco,PE,2021,IDH,Renda,Total,647
+676,26,Pernambuco,PE,2021,IDH,Total,Total,719
+677,27,Alagoas,AL,1991,IDH,Educação,Total,174
+678,27,Alagoas,AL,1991,IDH,Longevidade,Total,552
+679,27,Alagoas,AL,1991,IDH,Renda,Total,527
+680,27,Alagoas,AL,1991,IDH,Total,Total,370
+681,27,Alagoas,AL,2000,IDH,Educação,Total,282
+682,27,Alagoas,AL,2000,IDH,Longevidade,Total,647
+683,27,Alagoas,AL,2000,IDH,Renda,Total,574
+684,27,Alagoas,AL,2000,IDH,Total,Total,471
+685,27,Alagoas,AL,2010,IDH,Educação,Total,520
+686,27,Alagoas,AL,2010,IDH,Longevidade,Total,755
+687,27,Alagoas,AL,2010,IDH,Renda,Total,641
+688,27,Alagoas,AL,2010,IDH,Total,Total,631
+689,27,Alagoas,AL,2012,IDH,Educação,Total,587
+690,27,Alagoas,AL,2012,IDH,Longevidade,Total,749
+691,27,Alagoas,AL,2012,IDH,Renda,Total,627
+692,27,Alagoas,AL,2012,IDH,Total,Total,651
+693,27,Alagoas,AL,2013,IDH,Educação,Total,573
+694,27,Alagoas,AL,2013,IDH,Longevidade,Total,756
+695,27,Alagoas,AL,2013,IDH,Renda,Total,629
+696,27,Alagoas,AL,2013,IDH,Total,Total,648
+697,27,Alagoas,AL,2014,IDH,Educação,Total,599
+698,27,Alagoas,AL,2014,IDH,Longevidade,Total,763
+699,27,Alagoas,AL,2014,IDH,Renda,Total,645
+700,27,Alagoas,AL,2014,IDH,Total,Total,666
+701,27,Alagoas,AL,2015,IDH,Educação,Total,605
+702,27,Alagoas,AL,2015,IDH,Longevidade,Total,769
+703,27,Alagoas,AL,2015,IDH,Renda,Total,636
+704,27,Alagoas,AL,2015,IDH,Total,Total,666
+705,27,Alagoas,AL,2016,IDH,Educação,Total,635
+706,27,Alagoas,AL,2016,IDH,Longevidade,Total,776
+707,27,Alagoas,AL,2016,IDH,Renda,Total,637
+708,27,Alagoas,AL,2016,IDH,Total,Total,680
+709,27,Alagoas,AL,2017,IDH,Educação,Total,634
+710,27,Alagoas,AL,2017,IDH,Longevidade,Total,782
+711,27,Alagoas,AL,2017,IDH,Renda,Total,631
+712,27,Alagoas,AL,2017,IDH,Total,Total,679
+713,27,Alagoas,AL,2018,IDH,Educação,Total,651
+714,27,Alagoas,AL,2018,IDH,Longevidade,Total,788
+715,27,Alagoas,AL,2018,IDH,Renda,Total,637
+716,27,Alagoas,AL,2018,IDH,Total,Total,689
+717,27,Alagoas,AL,2019,IDH,Educação,Total,643
+718,27,Alagoas,AL,2019,IDH,Longevidade,Total,793
+719,27,Alagoas,AL,2019,IDH,Renda,Total,636
+720,27,Alagoas,AL,2019,IDH,Total,Total,687
+721,27,Alagoas,AL,2020,IDH,Educação,Total,660
+722,27,Alagoas,AL,2020,IDH,Longevidade,Total,786
+723,27,Alagoas,AL,2020,IDH,Renda,Total,645
+724,27,Alagoas,AL,2020,IDH,Total,Total,694
+725,27,Alagoas,AL,2021,IDH,Educação,Total,679
+726,27,Alagoas,AL,2021,IDH,Longevidade,Total,748
+727,27,Alagoas,AL,2021,IDH,Renda,Total,630
+728,27,Alagoas,AL,2021,IDH,Total,Total,684
+729,28,Sergipe,SE,1991,IDH,Educação,Total,211
+730,28,Sergipe,SE,1991,IDH,Longevidade,Total,581
+731,28,Sergipe,SE,1991,IDH,Renda,Total,552
+732,28,Sergipe,SE,1991,IDH,Total,Total,408
+733,28,Sergipe,SE,2000,IDH,Educação,Total,343
+734,28,Sergipe,SE,2000,IDH,Longevidade,Total,678
+735,28,Sergipe,SE,2000,IDH,Renda,Total,596
+736,28,Sergipe,SE,2000,IDH,Total,Total,518
+737,28,Sergipe,SE,2010,IDH,Educação,Total,560
+738,28,Sergipe,SE,2010,IDH,Longevidade,Total,781
+739,28,Sergipe,SE,2010,IDH,Renda,Total,672
+740,28,Sergipe,SE,2010,IDH,Total,Total,665
+741,28,Sergipe,SE,2012,IDH,Educação,Total,607
+742,28,Sergipe,SE,2012,IDH,Longevidade,Total,775
+743,28,Sergipe,SE,2012,IDH,Renda,Total,679
+744,28,Sergipe,SE,2012,IDH,Total,Total,684
+745,28,Sergipe,SE,2013,IDH,Educação,Total,598
+746,28,Sergipe,SE,2013,IDH,Longevidade,Total,779
+747,28,Sergipe,SE,2013,IDH,Renda,Total,685
+748,28,Sergipe,SE,2013,IDH,Total,Total,683
+749,28,Sergipe,SE,2014,IDH,Educação,Total,625
+750,28,Sergipe,SE,2014,IDH,Longevidade,Total,784
+751,28,Sergipe,SE,2014,IDH,Renda,Total,688
+752,28,Sergipe,SE,2014,IDH,Total,Total,696
+753,28,Sergipe,SE,2015,IDH,Educação,Total,633
+754,28,Sergipe,SE,2015,IDH,Longevidade,Total,788
+755,28,Sergipe,SE,2015,IDH,Renda,Total,680
+756,28,Sergipe,SE,2015,IDH,Total,Total,697
+757,28,Sergipe,SE,2016,IDH,Educação,Total,625
+758,28,Sergipe,SE,2016,IDH,Longevidade,Total,793
+759,28,Sergipe,SE,2016,IDH,Renda,Total,683
+760,28,Sergipe,SE,2016,IDH,Total,Total,697
+761,28,Sergipe,SE,2017,IDH,Educação,Total,639
+762,28,Sergipe,SE,2017,IDH,Longevidade,Total,797
+763,28,Sergipe,SE,2017,IDH,Renda,Total,670
+764,28,Sergipe,SE,2017,IDH,Total,Total,699
+765,28,Sergipe,SE,2018,IDH,Educação,Total,660
+766,28,Sergipe,SE,2018,IDH,Longevidade,Total,801
+767,28,Sergipe,SE,2018,IDH,Renda,Total,676
+768,28,Sergipe,SE,2018,IDH,Total,Total,710
+769,28,Sergipe,SE,2019,IDH,Educação,Total,639
+770,28,Sergipe,SE,2019,IDH,Longevidade,Total,805
+771,28,Sergipe,SE,2019,IDH,Renda,Total,682
+772,28,Sergipe,SE,2019,IDH,Total,Total,705
+773,28,Sergipe,SE,2020,IDH,Educação,Total,682
+774,28,Sergipe,SE,2020,IDH,Longevidade,Total,803
+775,28,Sergipe,SE,2020,IDH,Renda,Total,687
+776,28,Sergipe,SE,2020,IDH,Total,Total,722
+777,28,Sergipe,SE,2021,IDH,Educação,Total,684
+778,28,Sergipe,SE,2021,IDH,Longevidade,Total,764
+779,28,Sergipe,SE,2021,IDH,Renda,Total,662
+780,28,Sergipe,SE,2021,IDH,Total,Total,702
+781,29,Bahia,BA,1991,IDH,Educação,Total,182
+782,29,Bahia,BA,1991,IDH,Longevidade,Total,582
+783,29,Bahia,BA,1991,IDH,Renda,Total,543
+784,29,Bahia,BA,1991,IDH,Total,Total,386
+785,29,Bahia,BA,2000,IDH,Educação,Total,332
+786,29,Bahia,BA,2000,IDH,Longevidade,Total,680
+787,29,Bahia,BA,2000,IDH,Renda,Total,594
+788,29,Bahia,BA,2000,IDH,Total,Total,512
+789,29,Bahia,BA,2010,IDH,Educação,Total,555
+790,29,Bahia,BA,2010,IDH,Longevidade,Total,783
+791,29,Bahia,BA,2010,IDH,Renda,Total,663
+792,29,Bahia,BA,2010,IDH,Total,Total,660
+793,29,Bahia,BA,2012,IDH,Educação,Total,593
+794,29,Bahia,BA,2012,IDH,Longevidade,Total,790
+795,29,Bahia,BA,2012,IDH,Renda,Total,666
+796,29,Bahia,BA,2012,IDH,Total,Total,678
+797,29,Bahia,BA,2013,IDH,Educação,Total,594
+798,29,Bahia,BA,2013,IDH,Longevidade,Total,794
+799,29,Bahia,BA,2013,IDH,Renda,Total,667
+800,29,Bahia,BA,2013,IDH,Total,Total,680
+801,29,Bahia,BA,2014,IDH,Educação,Total,619
+802,29,Bahia,BA,2014,IDH,Longevidade,Total,799
+803,29,Bahia,BA,2014,IDH,Renda,Total,676
+804,29,Bahia,BA,2014,IDH,Total,Total,694
+805,29,Bahia,BA,2015,IDH,Educação,Total,640
+806,29,Bahia,BA,2015,IDH,Longevidade,Total,803
+807,29,Bahia,BA,2015,IDH,Renda,Total,671
+808,29,Bahia,BA,2015,IDH,Total,Total,701
+809,29,Bahia,BA,2016,IDH,Educação,Total,656
+810,29,Bahia,BA,2016,IDH,Longevidade,Total,807
+811,29,Bahia,BA,2016,IDH,Renda,Total,662
+812,29,Bahia,BA,2016,IDH,Total,Total,705
+813,29,Bahia,BA,2017,IDH,Educação,Total,655
+814,29,Bahia,BA,2017,IDH,Longevidade,Total,811
+815,29,Bahia,BA,2017,IDH,Renda,Total,675
+816,29,Bahia,BA,2017,IDH,Total,Total,710
+817,29,Bahia,BA,2018,IDH,Educação,Total,660
+818,29,Bahia,BA,2018,IDH,Longevidade,Total,815
+819,29,Bahia,BA,2018,IDH,Renda,Total,664
+820,29,Bahia,BA,2018,IDH,Total,Total,710
+821,29,Bahia,BA,2019,IDH,Educação,Total,672
+822,29,Bahia,BA,2019,IDH,Longevidade,Total,818
+823,29,Bahia,BA,2019,IDH,Renda,Total,673
+824,29,Bahia,BA,2019,IDH,Total,Total,718
+825,29,Bahia,BA,2020,IDH,Educação,Total,690
+826,29,Bahia,BA,2020,IDH,Longevidade,Total,811
+827,29,Bahia,BA,2020,IDH,Renda,Total,679
+828,29,Bahia,BA,2020,IDH,Total,Total,724
+829,29,Bahia,BA,2021,IDH,Educação,Total,659
+830,29,Bahia,BA,2021,IDH,Longevidade,Total,772
+831,29,Bahia,BA,2021,IDH,Renda,Total,648
+832,29,Bahia,BA,2021,IDH,Total,Total,691
+833,31,Minas Gerais,MG,1991,IDH,Educação,Total,257
+834,31,Minas Gerais,MG,1991,IDH,Longevidade,Total,689
+835,31,Minas Gerais,MG,1991,IDH,Renda,Total,618
+836,31,Minas Gerais,MG,1991,IDH,Total,Total,478
+837,31,Minas Gerais,MG,2000,IDH,Educação,Total,470
+838,31,Minas Gerais,MG,2000,IDH,Longevidade,Total,759
+839,31,Minas Gerais,MG,2000,IDH,Renda,Total,680
+840,31,Minas Gerais,MG,2000,IDH,Total,Total,624
+841,31,Minas Gerais,MG,2010,IDH,Educação,Total,638
+842,31,Minas Gerais,MG,2010,IDH,Longevidade,Total,838
+843,31,Minas Gerais,MG,2010,IDH,Renda,Total,730
+844,31,Minas Gerais,MG,2010,IDH,Total,Total,731
+845,31,Minas Gerais,MG,2012,IDH,Educação,Total,683
+846,31,Minas Gerais,MG,2012,IDH,Longevidade,Total,852
+847,31,Minas Gerais,MG,2012,IDH,Renda,Total,726
+848,31,Minas Gerais,MG,2012,IDH,Total,Total,750
+849,31,Minas Gerais,MG,2013,IDH,Educação,Total,692
+850,31,Minas Gerais,MG,2013,IDH,Longevidade,Total,857
+851,31,Minas Gerais,MG,2013,IDH,Renda,Total,733
+852,31,Minas Gerais,MG,2013,IDH,Total,Total,758
+853,31,Minas Gerais,MG,2014,IDH,Educação,Total,718
+854,31,Minas Gerais,MG,2014,IDH,Longevidade,Total,862
+855,31,Minas Gerais,MG,2014,IDH,Renda,Total,739
+856,31,Minas Gerais,MG,2014,IDH,Total,Total,770
+857,31,Minas Gerais,MG,2015,IDH,Educação,Total,727
+858,31,Minas Gerais,MG,2015,IDH,Longevidade,Total,866
+859,31,Minas Gerais,MG,2015,IDH,Renda,Total,736
+860,31,Minas Gerais,MG,2015,IDH,Total,Total,774
+861,31,Minas Gerais,MG,2016,IDH,Educação,Total,739
+862,31,Minas Gerais,MG,2016,IDH,Longevidade,Total,871
+863,31,Minas Gerais,MG,2016,IDH,Renda,Total,725
+864,31,Minas Gerais,MG,2016,IDH,Total,Total,776
+865,31,Minas Gerais,MG,2017,IDH,Educação,Total,752
+866,31,Minas Gerais,MG,2017,IDH,Longevidade,Total,875
+867,31,Minas Gerais,MG,2017,IDH,Renda,Total,731
+868,31,Minas Gerais,MG,2017,IDH,Total,Total,784
+869,31,Minas Gerais,MG,2018,IDH,Educação,Total,748
+870,31,Minas Gerais,MG,2018,IDH,Longevidade,Total,879
+871,31,Minas Gerais,MG,2018,IDH,Renda,Total,733
+872,31,Minas Gerais,MG,2018,IDH,Total,Total,784
+873,31,Minas Gerais,MG,2019,IDH,Educação,Total,770
+874,31,Minas Gerais,MG,2019,IDH,Longevidade,Total,883
+875,31,Minas Gerais,MG,2019,IDH,Renda,Total,734
+876,31,Minas Gerais,MG,2019,IDH,Total,Total,793
+877,31,Minas Gerais,MG,2020,IDH,Educação,Total,767
+878,31,Minas Gerais,MG,2020,IDH,Longevidade,Total,878
+879,31,Minas Gerais,MG,2020,IDH,Renda,Total,729
+880,31,Minas Gerais,MG,2020,IDH,Total,Total,789
+881,31,Minas Gerais,MG,2021,IDH,Educação,Total,762
+882,31,Minas Gerais,MG,2021,IDH,Longevidade,Total,846
+883,31,Minas Gerais,MG,2021,IDH,Renda,Total,718
+884,31,Minas Gerais,MG,2021,IDH,Total,Total,774
+885,32,Espírito Santo,ES,1991,IDH,Educação,Total,304
+886,32,Espírito Santo,ES,1991,IDH,Longevidade,Total,686
+887,32,Espírito Santo,ES,1991,IDH,Renda,Total,619
+888,32,Espírito Santo,ES,1991,IDH,Total,Total,505
+889,32,Espírito Santo,ES,2000,IDH,Educação,Total,491
+890,32,Espírito Santo,ES,2000,IDH,Longevidade,Total,777
+891,32,Espírito Santo,ES,2000,IDH,Renda,Total,687
+892,32,Espírito Santo,ES,2000,IDH,Total,Total,640
+893,32,Espírito Santo,ES,2010,IDH,Educação,Total,653
+894,32,Espírito Santo,ES,2010,IDH,Longevidade,Total,835
+895,32,Espírito Santo,ES,2010,IDH,Renda,Total,743
+896,32,Espírito Santo,ES,2010,IDH,Total,Total,740
+897,32,Espírito Santo,ES,2012,IDH,Educação,Total,692
+898,32,Espírito Santo,ES,2012,IDH,Longevidade,Total,863
+899,32,Espírito Santo,ES,2012,IDH,Renda,Total,730
+900,32,Espírito Santo,ES,2012,IDH,Total,Total,758
+901,32,Espírito Santo,ES,2013,IDH,Educação,Total,701
+902,32,Espírito Santo,ES,2013,IDH,Longevidade,Total,870
+903,32,Espírito Santo,ES,2013,IDH,Renda,Total,734
+904,32,Espírito Santo,ES,2013,IDH,Total,Total,765
+905,32,Espírito Santo,ES,2014,IDH,Educação,Total,709
+906,32,Espírito Santo,ES,2014,IDH,Longevidade,Total,876
+907,32,Espírito Santo,ES,2014,IDH,Renda,Total,742
+908,32,Espírito Santo,ES,2014,IDH,Total,Total,772
+909,32,Espírito Santo,ES,2015,IDH,Educação,Total,726
+910,32,Espírito Santo,ES,2015,IDH,Longevidade,Total,882
+911,32,Espírito Santo,ES,2015,IDH,Renda,Total,731
+912,32,Espírito Santo,ES,2015,IDH,Total,Total,776
+913,32,Espírito Santo,ES,2016,IDH,Educação,Total,732
+914,32,Espírito Santo,ES,2016,IDH,Longevidade,Total,887
+915,32,Espírito Santo,ES,2016,IDH,Renda,Total,727
+916,32,Espírito Santo,ES,2016,IDH,Total,Total,779
+917,32,Espírito Santo,ES,2017,IDH,Educação,Total,731
+918,32,Espírito Santo,ES,2017,IDH,Longevidade,Total,892
+919,32,Espírito Santo,ES,2017,IDH,Renda,Total,727
+920,32,Espírito Santo,ES,2017,IDH,Total,Total,780
+921,32,Espírito Santo,ES,2018,IDH,Educação,Total,743
+922,32,Espírito Santo,ES,2018,IDH,Longevidade,Total,897
+923,32,Espírito Santo,ES,2018,IDH,Renda,Total,735
+924,32,Espírito Santo,ES,2018,IDH,Total,Total,788
+925,32,Espírito Santo,ES,2019,IDH,Educação,Total,741
+926,32,Espírito Santo,ES,2019,IDH,Longevidade,Total,902
+927,32,Espírito Santo,ES,2019,IDH,Renda,Total,747
+928,32,Espírito Santo,ES,2019,IDH,Total,Total,793
+929,32,Espírito Santo,ES,2020,IDH,Educação,Total,758
+930,32,Espírito Santo,ES,2020,IDH,Longevidade,Total,895
+931,32,Espírito Santo,ES,2020,IDH,Renda,Total,733
+932,32,Espírito Santo,ES,2020,IDH,Total,Total,792
+933,32,Espírito Santo,ES,2021,IDH,Educação,Total,742
+934,32,Espírito Santo,ES,2021,IDH,Longevidade,Total,864
+935,32,Espírito Santo,ES,2021,IDH,Renda,Total,715
+936,32,Espírito Santo,ES,2021,IDH,Total,Total,771
+937,33,Rio de Janeiro,RJ,1991,IDH,Educação,Total,392
+938,33,Rio de Janeiro,RJ,1991,IDH,Longevidade,Total,690
+939,33,Rio de Janeiro,RJ,1991,IDH,Renda,Total,696
+940,33,Rio de Janeiro,RJ,1991,IDH,Total,Total,573
+941,33,Rio de Janeiro,RJ,2000,IDH,Educação,Total,530
+942,33,Rio de Janeiro,RJ,2000,IDH,Longevidade,Total,740
+943,33,Rio de Janeiro,RJ,2000,IDH,Renda,Total,745
+944,33,Rio de Janeiro,RJ,2000,IDH,Total,Total,664
+945,33,Rio de Janeiro,RJ,2010,IDH,Educação,Total,675
+946,33,Rio de Janeiro,RJ,2010,IDH,Longevidade,Total,835
+947,33,Rio de Janeiro,RJ,2010,IDH,Renda,Total,782
+948,33,Rio de Janeiro,RJ,2010,IDH,Total,Total,761
+949,33,Rio de Janeiro,RJ,2012,IDH,Educação,Total,703
+950,33,Rio de Janeiro,RJ,2012,IDH,Longevidade,Total,832
+951,33,Rio de Janeiro,RJ,2012,IDH,Renda,Total,756
+952,33,Rio de Janeiro,RJ,2012,IDH,Total,Total,762
+953,33,Rio de Janeiro,RJ,2013,IDH,Educação,Total,715
+954,33,Rio de Janeiro,RJ,2013,IDH,Longevidade,Total,837
+955,33,Rio de Janeiro,RJ,2013,IDH,Renda,Total,757
+956,33,Rio de Janeiro,RJ,2013,IDH,Total,Total,768
+957,33,Rio de Janeiro,RJ,2014,IDH,Educação,Total,736
+958,33,Rio de Janeiro,RJ,2014,IDH,Longevidade,Total,843
+959,33,Rio de Janeiro,RJ,2014,IDH,Renda,Total,764
+960,33,Rio de Janeiro,RJ,2014,IDH,Total,Total,780
+961,33,Rio de Janeiro,RJ,2015,IDH,Educação,Total,752
+962,33,Rio de Janeiro,RJ,2015,IDH,Longevidade,Total,848
+963,33,Rio de Janeiro,RJ,2015,IDH,Renda,Total,758
+964,33,Rio de Janeiro,RJ,2015,IDH,Total,Total,785
+965,33,Rio de Janeiro,RJ,2016,IDH,Educação,Total,757
+966,33,Rio de Janeiro,RJ,2016,IDH,Longevidade,Total,853
+967,33,Rio de Janeiro,RJ,2016,IDH,Renda,Total,761
+968,33,Rio de Janeiro,RJ,2016,IDH,Total,Total,789
+969,33,Rio de Janeiro,RJ,2017,IDH,Educação,Total,762
+970,33,Rio de Janeiro,RJ,2017,IDH,Longevidade,Total,858
+971,33,Rio de Janeiro,RJ,2017,IDH,Renda,Total,757
+972,33,Rio de Janeiro,RJ,2017,IDH,Total,Total,791
+973,33,Rio de Janeiro,RJ,2018,IDH,Educação,Total,781
+974,33,Rio de Janeiro,RJ,2018,IDH,Longevidade,Total,863
+975,33,Rio de Janeiro,RJ,2018,IDH,Renda,Total,774
+976,33,Rio de Janeiro,RJ,2018,IDH,Total,Total,805
+977,33,Rio de Janeiro,RJ,2019,IDH,Educação,Total,780
+978,33,Rio de Janeiro,RJ,2019,IDH,Longevidade,Total,867
+979,33,Rio de Janeiro,RJ,2019,IDH,Renda,Total,783
+980,33,Rio de Janeiro,RJ,2019,IDH,Total,Total,809
+981,33,Rio de Janeiro,RJ,2020,IDH,Educação,Total,781
+982,33,Rio de Janeiro,RJ,2020,IDH,Longevidade,Total,804
+983,33,Rio de Janeiro,RJ,2020,IDH,Renda,Total,770
+984,33,Rio de Janeiro,RJ,2020,IDH,Total,Total,785
+985,33,Rio de Janeiro,RJ,2021,IDH,Educação,Total,758
+986,33,Rio de Janeiro,RJ,2021,IDH,Longevidade,Total,769
+987,33,Rio de Janeiro,RJ,2021,IDH,Renda,Total,759
+988,33,Rio de Janeiro,RJ,2021,IDH,Total,Total,762
+989,35,São Paulo,SP,1991,IDH,Educação,Total,363
+990,35,São Paulo,SP,1991,IDH,Longevidade,Total,730
+991,35,São Paulo,SP,1991,IDH,Renda,Total,729
+992,35,São Paulo,SP,1991,IDH,Total,Total,578
+993,35,São Paulo,SP,2000,IDH,Educação,Total,581
+994,35,São Paulo,SP,2000,IDH,Longevidade,Total,786
+995,35,São Paulo,SP,2000,IDH,Renda,Total,756
+996,35,São Paulo,SP,2000,IDH,Total,Total,702
+997,35,São Paulo,SP,2010,IDH,Educação,Total,719
+998,35,São Paulo,SP,2010,IDH,Longevidade,Total,845
+999,35,São Paulo,SP,2010,IDH,Renda,Total,789
+1000,35,São Paulo,SP,2010,IDH,Total,Total,783
+1001,35,São Paulo,SP,2012,IDH,Educação,Total,792
+1002,35,São Paulo,SP,2012,IDH,Longevidade,Total,863
+1003,35,São Paulo,SP,2012,IDH,Renda,Total,782
+1004,35,São Paulo,SP,2012,IDH,Total,Total,812
+1005,35,São Paulo,SP,2013,IDH,Educação,Total,800
+1006,35,São Paulo,SP,2013,IDH,Longevidade,Total,869
+1007,35,São Paulo,SP,2013,IDH,Renda,Total,787
+1008,35,São Paulo,SP,2013,IDH,Total,Total,818
+1009,35,São Paulo,SP,2014,IDH,Educação,Total,813
+1010,35,São Paulo,SP,2014,IDH,Longevidade,Total,875
+1011,35,São Paulo,SP,2014,IDH,Renda,Total,790
+1012,35,São Paulo,SP,2014,IDH,Total,Total,825
+1013,35,São Paulo,SP,2015,IDH,Educação,Total,811
+1014,35,São Paulo,SP,2015,IDH,Longevidade,Total,880
+1015,35,São Paulo,SP,2015,IDH,Renda,Total,782
+1016,35,São Paulo,SP,2015,IDH,Total,Total,823
+1017,35,São Paulo,SP,2016,IDH,Educação,Total,837
+1018,35,São Paulo,SP,2016,IDH,Longevidade,Total,885
+1019,35,São Paulo,SP,2016,IDH,Renda,Total,787
+1020,35,São Paulo,SP,2016,IDH,Total,Total,835
+1021,35,São Paulo,SP,2017,IDH,Educação,Total,826
+1022,35,São Paulo,SP,2017,IDH,Longevidade,Total,889
+1023,35,São Paulo,SP,2017,IDH,Renda,Total,781
+1024,35,São Paulo,SP,2017,IDH,Total,Total,831
+1025,35,São Paulo,SP,2018,IDH,Educação,Total,829
+1026,35,São Paulo,SP,2018,IDH,Longevidade,Total,894
+1027,35,São Paulo,SP,2018,IDH,Renda,Total,791
+1028,35,São Paulo,SP,2018,IDH,Total,Total,837
+1029,35,São Paulo,SP,2019,IDH,Educação,Total,849
+1030,35,São Paulo,SP,2019,IDH,Longevidade,Total,898
+1031,35,São Paulo,SP,2019,IDH,Renda,Total,791
+1032,35,São Paulo,SP,2019,IDH,Total,Total,845
+1033,35,São Paulo,SP,2020,IDH,Educação,Total,847
+1034,35,São Paulo,SP,2020,IDH,Longevidade,Total,844
+1035,35,São Paulo,SP,2020,IDH,Renda,Total,781
+1036,35,São Paulo,SP,2020,IDH,Total,Total,823
+1037,35,São Paulo,SP,2021,IDH,Educação,Total,839
+1038,35,São Paulo,SP,2021,IDH,Longevidade,Total,810
+1039,35,São Paulo,SP,2021,IDH,Renda,Total,771
+1040,35,São Paulo,SP,2021,IDH,Total,Total,806
+1041,41,Paraná,PR,1991,IDH,Educação,Total,298
+1042,41,Paraná,PR,1991,IDH,Longevidade,Total,679
+1043,41,Paraná,PR,1991,IDH,Renda,Total,644
+1044,41,Paraná,PR,1991,IDH,Total,Total,507
+1045,41,Paraná,PR,2000,IDH,Educação,Total,522
+1046,41,Paraná,PR,2000,IDH,Longevidade,Total,747
+1047,41,Paraná,PR,2000,IDH,Renda,Total,704
+1048,41,Paraná,PR,2000,IDH,Total,Total,650
+1049,41,Paraná,PR,2010,IDH,Educação,Total,668
+1050,41,Paraná,PR,2010,IDH,Longevidade,Total,830
+1051,41,Paraná,PR,2010,IDH,Renda,Total,757
+1052,41,Paraná,PR,2010,IDH,Total,Total,749
+1053,41,Paraná,PR,2012,IDH,Educação,Total,718
+1054,41,Paraná,PR,2012,IDH,Longevidade,Total,846
+1055,41,Paraná,PR,2012,IDH,Renda,Total,757
+1056,41,Paraná,PR,2012,IDH,Total,Total,772
+1057,41,Paraná,PR,2013,IDH,Educação,Total,737
+1058,41,Paraná,PR,2013,IDH,Longevidade,Total,852
+1059,41,Paraná,PR,2013,IDH,Renda,Total,761
+1060,41,Paraná,PR,2013,IDH,Total,Total,782
+1061,41,Paraná,PR,2014,IDH,Educação,Total,747
+1062,41,Paraná,PR,2014,IDH,Longevidade,Total,857
+1063,41,Paraná,PR,2014,IDH,Renda,Total,765
+1064,41,Paraná,PR,2014,IDH,Total,Total,788
+1065,41,Paraná,PR,2015,IDH,Educação,Total,747
+1066,41,Paraná,PR,2015,IDH,Longevidade,Total,862
+1067,41,Paraná,PR,2015,IDH,Renda,Total,754
+1068,41,Paraná,PR,2015,IDH,Total,Total,786
+1069,41,Paraná,PR,2016,IDH,Educação,Total,773
+1070,41,Paraná,PR,2016,IDH,Longevidade,Total,867
+1071,41,Paraná,PR,2016,IDH,Renda,Total,756
+1072,41,Paraná,PR,2016,IDH,Total,Total,797
+1073,41,Paraná,PR,2017,IDH,Educação,Total,764
+1074,41,Paraná,PR,2017,IDH,Longevidade,Total,872
+1075,41,Paraná,PR,2017,IDH,Renda,Total,759
+1076,41,Paraná,PR,2017,IDH,Total,Total,797
+1077,41,Paraná,PR,2018,IDH,Educação,Total,777
+1078,41,Paraná,PR,2018,IDH,Longevidade,Total,877
+1079,41,Paraná,PR,2018,IDH,Renda,Total,766
+1080,41,Paraná,PR,2018,IDH,Total,Total,805
+1081,41,Paraná,PR,2019,IDH,Educação,Total,779
+1082,41,Paraná,PR,2019,IDH,Longevidade,Total,882
+1083,41,Paraná,PR,2019,IDH,Renda,Total,764
+1084,41,Paraná,PR,2019,IDH,Total,Total,807
+1085,41,Paraná,PR,2020,IDH,Educação,Total,791
+1086,41,Paraná,PR,2020,IDH,Longevidade,Total,820
+1087,41,Paraná,PR,2020,IDH,Renda,Total,751
+1088,41,Paraná,PR,2020,IDH,Total,Total,787
+1089,41,Paraná,PR,2021,IDH,Educação,Total,780
+1090,41,Paraná,PR,2021,IDH,Longevidade,Total,785
+1091,41,Paraná,PR,2021,IDH,Renda,Total,744
+1092,41,Paraná,PR,2021,IDH,Total,Total,769
+1093,42,Santa Catarina,SC,1991,IDH,Educação,Total,329
+1094,42,Santa Catarina,SC,1991,IDH,Longevidade,Total,753
+1095,42,Santa Catarina,SC,1991,IDH,Renda,Total,648
+1096,42,Santa Catarina,SC,1991,IDH,Total,Total,543
+1097,42,Santa Catarina,SC,2000,IDH,Educação,Total,526
+1098,42,Santa Catarina,SC,2000,IDH,Longevidade,Total,812
+1099,42,Santa Catarina,SC,2000,IDH,Renda,Total,717
+1100,42,Santa Catarina,SC,2000,IDH,Total,Total,674
+1101,42,Santa Catarina,SC,2010,IDH,Educação,Total,697
+1102,42,Santa Catarina,SC,2010,IDH,Longevidade,Total,860
+1103,42,Santa Catarina,SC,2010,IDH,Renda,Total,773
+1104,42,Santa Catarina,SC,2010,IDH,Total,Total,774
+1105,42,Santa Catarina,SC,2012,IDH,Educação,Total,740
+1106,42,Santa Catarina,SC,2012,IDH,Longevidade,Total,878
+1107,42,Santa Catarina,SC,2012,IDH,Renda,Total,764
+1108,42,Santa Catarina,SC,2012,IDH,Total,Total,792
+1109,42,Santa Catarina,SC,2013,IDH,Educação,Total,757
+1110,42,Santa Catarina,SC,2013,IDH,Longevidade,Total,885
+1111,42,Santa Catarina,SC,2013,IDH,Renda,Total,768
+1112,42,Santa Catarina,SC,2013,IDH,Total,Total,801
+1113,42,Santa Catarina,SC,2014,IDH,Educação,Total,768
+1114,42,Santa Catarina,SC,2014,IDH,Longevidade,Total,890
+1115,42,Santa Catarina,SC,2014,IDH,Renda,Total,769
+1116,42,Santa Catarina,SC,2014,IDH,Total,Total,807
+1117,42,Santa Catarina,SC,2015,IDH,Educação,Total,769
+1118,42,Santa Catarina,SC,2015,IDH,Longevidade,Total,896
+1119,42,Santa Catarina,SC,2015,IDH,Renda,Total,769
+1120,42,Santa Catarina,SC,2015,IDH,Total,Total,809
+1121,42,Santa Catarina,SC,2016,IDH,Educação,Total,785
+1122,42,Santa Catarina,SC,2016,IDH,Longevidade,Total,902
+1123,42,Santa Catarina,SC,2016,IDH,Renda,Total,763
+1124,42,Santa Catarina,SC,2016,IDH,Total,Total,814
+1125,42,Santa Catarina,SC,2017,IDH,Educação,Total,778
+1126,42,Santa Catarina,SC,2017,IDH,Longevidade,Total,907
+1127,42,Santa Catarina,SC,2017,IDH,Renda,Total,772
+1128,42,Santa Catarina,SC,2017,IDH,Total,Total,817
+1129,42,Santa Catarina,SC,2018,IDH,Educação,Total,780
+1130,42,Santa Catarina,SC,2018,IDH,Longevidade,Total,912
+1131,42,Santa Catarina,SC,2018,IDH,Renda,Total,772
+1132,42,Santa Catarina,SC,2018,IDH,Total,Total,819
+1133,42,Santa Catarina,SC,2019,IDH,Educação,Total,794
+1134,42,Santa Catarina,SC,2019,IDH,Longevidade,Total,916
+1135,42,Santa Catarina,SC,2019,IDH,Renda,Total,776
+1136,42,Santa Catarina,SC,2019,IDH,Total,Total,826
+1137,42,Santa Catarina,SC,2020,IDH,Educação,Total,790
+1138,42,Santa Catarina,SC,2020,IDH,Longevidade,Total,858
+1139,42,Santa Catarina,SC,2020,IDH,Renda,Total,763
+1140,42,Santa Catarina,SC,2020,IDH,Total,Total,803
+1141,42,Santa Catarina,SC,2021,IDH,Educação,Total,790
+1142,42,Santa Catarina,SC,2021,IDH,Longevidade,Total,827
+1143,42,Santa Catarina,SC,2021,IDH,Renda,Total,759
+1144,42,Santa Catarina,SC,2021,IDH,Total,Total,792
+1145,43,Rio Grande do Sul,RS,1991,IDH,Educação,Total,328
+1146,43,Rio Grande do Sul,RS,1991,IDH,Longevidade,Total,729
+1147,43,Rio Grande do Sul,RS,1991,IDH,Renda,Total,667
+1148,43,Rio Grande do Sul,RS,1991,IDH,Total,Total,542
+1149,43,Rio Grande do Sul,RS,2000,IDH,Educação,Total,505
+1150,43,Rio Grande do Sul,RS,2000,IDH,Longevidade,Total,804
+1151,43,Rio Grande do Sul,RS,2000,IDH,Renda,Total,720
+1152,43,Rio Grande do Sul,RS,2000,IDH,Total,Total,664
+1153,43,Rio Grande do Sul,RS,2010,IDH,Educação,Total,642
+1154,43,Rio Grande do Sul,RS,2010,IDH,Longevidade,Total,840
+1155,43,Rio Grande do Sul,RS,2010,IDH,Renda,Total,769
+1156,43,Rio Grande do Sul,RS,2010,IDH,Total,Total,746
+1157,43,Rio Grande do Sul,RS,2012,IDH,Educação,Total,674
+1158,43,Rio Grande do Sul,RS,2012,IDH,Longevidade,Total,860
+1159,43,Rio Grande do Sul,RS,2012,IDH,Renda,Total,767
+1160,43,Rio Grande do Sul,RS,2012,IDH,Total,Total,763
+1161,43,Rio Grande do Sul,RS,2013,IDH,Educação,Total,691
+1162,43,Rio Grande do Sul,RS,2013,IDH,Longevidade,Total,865
+1163,43,Rio Grande do Sul,RS,2013,IDH,Renda,Total,773
+1164,43,Rio Grande do Sul,RS,2013,IDH,Total,Total,773
+1165,43,Rio Grande do Sul,RS,2014,IDH,Educação,Total,699
+1166,43,Rio Grande do Sul,RS,2014,IDH,Longevidade,Total,870
+1167,43,Rio Grande do Sul,RS,2014,IDH,Renda,Total,777
+1168,43,Rio Grande do Sul,RS,2014,IDH,Total,Total,779
+1169,43,Rio Grande do Sul,RS,2015,IDH,Educação,Total,717
+1170,43,Rio Grande do Sul,RS,2015,IDH,Longevidade,Total,875
+1171,43,Rio Grande do Sul,RS,2015,IDH,Renda,Total,776
+1172,43,Rio Grande do Sul,RS,2015,IDH,Total,Total,787
+1173,43,Rio Grande do Sul,RS,2016,IDH,Educação,Total,722
+1174,43,Rio Grande do Sul,RS,2016,IDH,Longevidade,Total,880
+1175,43,Rio Grande do Sul,RS,2016,IDH,Renda,Total,772
+1176,43,Rio Grande do Sul,RS,2016,IDH,Total,Total,789
+1177,43,Rio Grande do Sul,RS,2017,IDH,Educação,Total,727
+1178,43,Rio Grande do Sul,RS,2017,IDH,Longevidade,Total,884
+1179,43,Rio Grande do Sul,RS,2017,IDH,Renda,Total,776
+1180,43,Rio Grande do Sul,RS,2017,IDH,Total,Total,793
+1181,43,Rio Grande do Sul,RS,2018,IDH,Educação,Total,736
+1182,43,Rio Grande do Sul,RS,2018,IDH,Longevidade,Total,888
+1183,43,Rio Grande do Sul,RS,2018,IDH,Renda,Total,775
+1184,43,Rio Grande do Sul,RS,2018,IDH,Total,Total,797
+1185,43,Rio Grande do Sul,RS,2019,IDH,Educação,Total,735
+1186,43,Rio Grande do Sul,RS,2019,IDH,Longevidade,Total,893
+1187,43,Rio Grande do Sul,RS,2019,IDH,Renda,Total,783
+1188,43,Rio Grande do Sul,RS,2019,IDH,Total,Total,801
+1189,43,Rio Grande do Sul,RS,2020,IDH,Educação,Total,739
+1190,43,Rio Grande do Sul,RS,2020,IDH,Longevidade,Total,831
+1191,43,Rio Grande do Sul,RS,2020,IDH,Renda,Total,774
+1192,43,Rio Grande do Sul,RS,2020,IDH,Total,Total,780
+1193,43,Rio Grande do Sul,RS,2021,IDH,Educação,Total,750
+1194,43,Rio Grande do Sul,RS,2021,IDH,Longevidade,Total,797
+1195,43,Rio Grande do Sul,RS,2021,IDH,Renda,Total,767
+1196,43,Rio Grande do Sul,RS,2021,IDH,Total,Total,771
+1197,50,Mato Grosso do Sul,MS,1991,IDH,Educação,Total,259
+1198,50,Mato Grosso do Sul,MS,1991,IDH,Longevidade,Total,699
+1199,50,Mato Grosso do Sul,MS,1991,IDH,Renda,Total,641
+1200,50,Mato Grosso do Sul,MS,1991,IDH,Total,Total,488
+1201,50,Mato Grosso do Sul,MS,2000,IDH,Educação,Total,445
+1202,50,Mato Grosso do Sul,MS,2000,IDH,Longevidade,Total,752
+1203,50,Mato Grosso do Sul,MS,2000,IDH,Renda,Total,687
+1204,50,Mato Grosso do Sul,MS,2000,IDH,Total,Total,613
+1205,50,Mato Grosso do Sul,MS,2010,IDH,Educação,Total,629
+1206,50,Mato Grosso do Sul,MS,2010,IDH,Longevidade,Total,833
+1207,50,Mato Grosso do Sul,MS,2010,IDH,Renda,Total,740
+1208,50,Mato Grosso do Sul,MS,2010,IDH,Total,Total,729
+1209,50,Mato Grosso do Sul,MS,2012,IDH,Educação,Total,657
+1210,50,Mato Grosso do Sul,MS,2012,IDH,Longevidade,Total,823
+1211,50,Mato Grosso do Sul,MS,2012,IDH,Renda,Total,729
+1212,50,Mato Grosso do Sul,MS,2012,IDH,Total,Total,733
+1213,50,Mato Grosso do Sul,MS,2013,IDH,Educação,Total,674
+1214,50,Mato Grosso do Sul,MS,2013,IDH,Longevidade,Total,828
+1215,50,Mato Grosso do Sul,MS,2013,IDH,Renda,Total,735
+1216,50,Mato Grosso do Sul,MS,2013,IDH,Total,Total,743
+1217,50,Mato Grosso do Sul,MS,2014,IDH,Educação,Total,671
+1218,50,Mato Grosso do Sul,MS,2014,IDH,Longevidade,Total,832
+1219,50,Mato Grosso do Sul,MS,2014,IDH,Renda,Total,742
+1220,50,Mato Grosso do Sul,MS,2014,IDH,Total,Total,745
+1221,50,Mato Grosso do Sul,MS,2015,IDH,Educação,Total,667
+1222,50,Mato Grosso do Sul,MS,2015,IDH,Longevidade,Total,837
+1223,50,Mato Grosso do Sul,MS,2015,IDH,Renda,Total,726
+1224,50,Mato Grosso do Sul,MS,2015,IDH,Total,Total,740
+1225,50,Mato Grosso do Sul,MS,2016,IDH,Educação,Total,698
+1226,50,Mato Grosso do Sul,MS,2016,IDH,Longevidade,Total,842
+1227,50,Mato Grosso do Sul,MS,2016,IDH,Renda,Total,741
+1228,50,Mato Grosso do Sul,MS,2016,IDH,Total,Total,758
+1229,50,Mato Grosso do Sul,MS,2017,IDH,Educação,Total,708
+1230,50,Mato Grosso do Sul,MS,2017,IDH,Longevidade,Total,846
+1231,50,Mato Grosso do Sul,MS,2017,IDH,Renda,Total,738
+1232,50,Mato Grosso do Sul,MS,2017,IDH,Total,Total,762
+1233,50,Mato Grosso do Sul,MS,2018,IDH,Educação,Total,715
+1234,50,Mato Grosso do Sul,MS,2018,IDH,Longevidade,Total,850
+1235,50,Mato Grosso do Sul,MS,2018,IDH,Renda,Total,750
+1236,50,Mato Grosso do Sul,MS,2018,IDH,Total,Total,770
+1237,50,Mato Grosso do Sul,MS,2019,IDH,Educação,Total,731
+1238,50,Mato Grosso do Sul,MS,2019,IDH,Longevidade,Total,854
+1239,50,Mato Grosso do Sul,MS,2019,IDH,Renda,Total,752
+1240,50,Mato Grosso do Sul,MS,2019,IDH,Total,Total,777
+1241,50,Mato Grosso do Sul,MS,2020,IDH,Educação,Total,747
+1242,50,Mato Grosso do Sul,MS,2020,IDH,Longevidade,Total,789
+1243,50,Mato Grosso do Sul,MS,2020,IDH,Renda,Total,744
+1244,50,Mato Grosso do Sul,MS,2020,IDH,Total,Total,760
+1245,50,Mato Grosso do Sul,MS,2021,IDH,Educação,Total,741
+1246,50,Mato Grosso do Sul,MS,2021,IDH,Longevidade,Total,751
+1247,50,Mato Grosso do Sul,MS,2021,IDH,Renda,Total,733
+1248,50,Mato Grosso do Sul,MS,2021,IDH,Total,Total,742
+1249,51,Mato Grosso,MT,1991,IDH,Educação,Total,221
+1250,51,Mato Grosso,MT,1991,IDH,Longevidade,Total,654
+1251,51,Mato Grosso,MT,1991,IDH,Renda,Total,627
+1252,51,Mato Grosso,MT,1991,IDH,Total,Total,449
+1253,51,Mato Grosso,MT,2000,IDH,Educação,Total,426
+1254,51,Mato Grosso,MT,2000,IDH,Longevidade,Total,740
+1255,51,Mato Grosso,MT,2000,IDH,Renda,Total,689
+1256,51,Mato Grosso,MT,2000,IDH,Total,Total,601
+1257,51,Mato Grosso,MT,2010,IDH,Educação,Total,635
+1258,51,Mato Grosso,MT,2010,IDH,Longevidade,Total,821
+1259,51,Mato Grosso,MT,2010,IDH,Renda,Total,732
+1260,51,Mato Grosso,MT,2010,IDH,Total,Total,725
+1261,51,Mato Grosso,MT,2012,IDH,Educação,Total,694
+1262,51,Mato Grosso,MT,2012,IDH,Longevidade,Total,803
+1263,51,Mato Grosso,MT,2012,IDH,Renda,Total,732
+1264,51,Mato Grosso,MT,2012,IDH,Total,Total,742
+1265,51,Mato Grosso,MT,2013,IDH,Educação,Total,732
+1266,51,Mato Grosso,MT,2013,IDH,Longevidade,Total,807
+1267,51,Mato Grosso,MT,2013,IDH,Renda,Total,738
+1268,51,Mato Grosso,MT,2013,IDH,Total,Total,758
+1269,51,Mato Grosso,MT,2014,IDH,Educação,Total,736
+1270,51,Mato Grosso,MT,2014,IDH,Longevidade,Total,812
+1271,51,Mato Grosso,MT,2014,IDH,Renda,Total,739
+1272,51,Mato Grosso,MT,2014,IDH,Total,Total,762
+1273,51,Mato Grosso,MT,2015,IDH,Educação,Total,767
+1274,51,Mato Grosso,MT,2015,IDH,Longevidade,Total,816
+1275,51,Mato Grosso,MT,2015,IDH,Renda,Total,729
+1276,51,Mato Grosso,MT,2015,IDH,Total,Total,770
+1277,51,Mato Grosso,MT,2016,IDH,Educação,Total,766
+1278,51,Mato Grosso,MT,2016,IDH,Longevidade,Total,820
+1279,51,Mato Grosso,MT,2016,IDH,Renda,Total,725
+1280,51,Mato Grosso,MT,2016,IDH,Total,Total,769
+1281,51,Mato Grosso,MT,2017,IDH,Educação,Total,757
+1282,51,Mato Grosso,MT,2017,IDH,Longevidade,Total,824
+1283,51,Mato Grosso,MT,2017,IDH,Renda,Total,733
+1284,51,Mato Grosso,MT,2017,IDH,Total,Total,770
+1285,51,Mato Grosso,MT,2018,IDH,Educação,Total,764
+1286,51,Mato Grosso,MT,2018,IDH,Longevidade,Total,828
+1287,51,Mato Grosso,MT,2018,IDH,Renda,Total,744
+1288,51,Mato Grosso,MT,2018,IDH,Total,Total,778
+1289,51,Mato Grosso,MT,2019,IDH,Educação,Total,771
+1290,51,Mato Grosso,MT,2019,IDH,Longevidade,Total,832
+1291,51,Mato Grosso,MT,2019,IDH,Renda,Total,738
+1292,51,Mato Grosso,MT,2019,IDH,Total,Total,779
+1293,51,Mato Grosso,MT,2020,IDH,Educação,Total,765
+1294,51,Mato Grosso,MT,2020,IDH,Longevidade,Total,769
+1295,51,Mato Grosso,MT,2020,IDH,Renda,Total,735
+1296,51,Mato Grosso,MT,2020,IDH,Total,Total,756
+1297,51,Mato Grosso,MT,2021,IDH,Educação,Total,758
+1298,51,Mato Grosso,MT,2021,IDH,Longevidade,Total,730
+1299,51,Mato Grosso,MT,2021,IDH,Renda,Total,720
+1300,51,Mato Grosso,MT,2021,IDH,Total,Total,736
+1301,52,Goiás,GO,1991,IDH,Educação,Total,273
+1302,52,Goiás,GO,1991,IDH,Longevidade,Total,668
+1303,52,Goiás,GO,1991,IDH,Renda,Total,633
+1304,52,Goiás,GO,1991,IDH,Total,Total,487
+1305,52,Goiás,GO,2000,IDH,Educação,Total,439
+1306,52,Goiás,GO,2000,IDH,Longevidade,Total,773
+1307,52,Goiás,GO,2000,IDH,Renda,Total,686
+1308,52,Goiás,GO,2000,IDH,Total,Total,615
+1309,52,Goiás,GO,2010,IDH,Educação,Total,646
+1310,52,Goiás,GO,2010,IDH,Longevidade,Total,827
+1311,52,Goiás,GO,2010,IDH,Renda,Total,742
+1312,52,Goiás,GO,2010,IDH,Total,Total,735
+1313,52,Goiás,GO,2012,IDH,Educação,Total,698
+1314,52,Goiás,GO,2012,IDH,Longevidade,Total,807
+1315,52,Goiás,GO,2012,IDH,Renda,Total,730
+1316,52,Goiás,GO,2012,IDH,Total,Total,744
+1317,52,Goiás,GO,2013,IDH,Educação,Total,710
+1318,52,Goiás,GO,2013,IDH,Longevidade,Total,810
+1319,52,Goiás,GO,2013,IDH,Renda,Total,740
+1320,52,Goiás,GO,2013,IDH,Total,Total,752
+1321,52,Goiás,GO,2014,IDH,Educação,Total,723
+1322,52,Goiás,GO,2014,IDH,Longevidade,Total,813
+1323,52,Goiás,GO,2014,IDH,Renda,Total,739
+1324,52,Goiás,GO,2014,IDH,Total,Total,757
+1325,52,Goiás,GO,2015,IDH,Educação,Total,722
+1326,52,Goiás,GO,2015,IDH,Longevidade,Total,815
+1327,52,Goiás,GO,2015,IDH,Renda,Total,731
+1328,52,Goiás,GO,2015,IDH,Total,Total,755
+1329,52,Goiás,GO,2016,IDH,Educação,Total,754
+1330,52,Goiás,GO,2016,IDH,Longevidade,Total,818
+1331,52,Goiás,GO,2016,IDH,Renda,Total,724
+1332,52,Goiás,GO,2016,IDH,Total,Total,764
+1333,52,Goiás,GO,2017,IDH,Educação,Total,743
+1334,52,Goiás,GO,2017,IDH,Longevidade,Total,821
+1335,52,Goiás,GO,2017,IDH,Renda,Total,735
+1336,52,Goiás,GO,2017,IDH,Total,Total,765
+1337,52,Goiás,GO,2018,IDH,Educação,Total,757
+1338,52,Goiás,GO,2018,IDH,Longevidade,Total,824
+1339,52,Goiás,GO,2018,IDH,Renda,Total,735
+1340,52,Goiás,GO,2018,IDH,Total,Total,771
+1341,52,Goiás,GO,2019,IDH,Educação,Total,770
+1342,52,Goiás,GO,2019,IDH,Longevidade,Total,827
+1343,52,Goiás,GO,2019,IDH,Renda,Total,729
+1344,52,Goiás,GO,2019,IDH,Total,Total,774
+1345,52,Goiás,GO,2020,IDH,Educação,Total,790
+1346,52,Goiás,GO,2020,IDH,Longevidade,Total,763
+1347,52,Goiás,GO,2020,IDH,Renda,Total,722
+1348,52,Goiás,GO,2020,IDH,Total,Total,758
+1349,52,Goiás,GO,2021,IDH,Educação,Total,778
+1350,52,Goiás,GO,2021,IDH,Longevidade,Total,721
+1351,52,Goiás,GO,2021,IDH,Renda,Total,714
+1352,52,Goiás,GO,2021,IDH,Total,Total,737
+1353,53,Distrito Federal,DF,1991,IDH,Educação,Total,419
+1354,53,Distrito Federal,DF,1991,IDH,Longevidade,Total,731
+1355,53,Distrito Federal,DF,1991,IDH,Renda,Total,762
+1356,53,Distrito Federal,DF,1991,IDH,Total,Total,616
+1357,53,Distrito Federal,DF,2000,IDH,Educação,Total,582
+1358,53,Distrito Federal,DF,2000,IDH,Longevidade,Total,814
+1359,53,Distrito Federal,DF,2000,IDH,Renda,Total,805
+1360,53,Distrito Federal,DF,2000,IDH,Total,Total,725
+1361,53,Distrito Federal,DF,2010,IDH,Educação,Total,742
+1362,53,Distrito Federal,DF,2010,IDH,Longevidade,Total,873
+1363,53,Distrito Federal,DF,2010,IDH,Renda,Total,863
+1364,53,Distrito Federal,DF,2010,IDH,Total,Total,824
+1365,53,Distrito Federal,DF,2012,IDH,Educação,Total,768
+1366,53,Distrito Federal,DF,2012,IDH,Longevidade,Total,865
+1367,53,Distrito Federal,DF,2012,IDH,Renda,Total,846
+1368,53,Distrito Federal,DF,2012,IDH,Total,Total,825
+1369,53,Distrito Federal,DF,2013,IDH,Educação,Total,794
+1370,53,Distrito Federal,DF,2013,IDH,Longevidade,Total,870
+1371,53,Distrito Federal,DF,2013,IDH,Renda,Total,848
+1372,53,Distrito Federal,DF,2013,IDH,Total,Total,837
+1373,53,Distrito Federal,DF,2014,IDH,Educação,Total,791
+1374,53,Distrito Federal,DF,2014,IDH,Longevidade,Total,875
+1375,53,Distrito Federal,DF,2014,IDH,Renda,Total,845
+1376,53,Distrito Federal,DF,2014,IDH,Total,Total,836
+1377,53,Distrito Federal,DF,2015,IDH,Educação,Total,789
+1378,53,Distrito Federal,DF,2015,IDH,Longevidade,Total,879
+1379,53,Distrito Federal,DF,2015,IDH,Renda,Total,847
+1380,53,Distrito Federal,DF,2015,IDH,Total,Total,837
+1381,53,Distrito Federal,DF,2016,IDH,Educação,Total,822
+1382,53,Distrito Federal,DF,2016,IDH,Longevidade,Total,884
+1383,53,Distrito Federal,DF,2016,IDH,Renda,Total,836
+1384,53,Distrito Federal,DF,2016,IDH,Total,Total,847
+1385,53,Distrito Federal,DF,2017,IDH,Educação,Total,797
+1386,53,Distrito Federal,DF,2017,IDH,Longevidade,Total,888
+1387,53,Distrito Federal,DF,2017,IDH,Renda,Total,842
+1388,53,Distrito Federal,DF,2017,IDH,Total,Total,842
+1389,53,Distrito Federal,DF,2018,IDH,Educação,Total,808
+1390,53,Distrito Federal,DF,2018,IDH,Longevidade,Total,892
+1391,53,Distrito Federal,DF,2018,IDH,Renda,Total,836
+1392,53,Distrito Federal,DF,2018,IDH,Total,Total,845
+1393,53,Distrito Federal,DF,2019,IDH,Educação,Total,842
+1394,53,Distrito Federal,DF,2019,IDH,Longevidade,Total,896
+1395,53,Distrito Federal,DF,2019,IDH,Renda,Total,841
+1396,53,Distrito Federal,DF,2019,IDH,Total,Total,859
+1397,53,Distrito Federal,DF,2020,IDH,Educação,Total,825
+1398,53,Distrito Federal,DF,2020,IDH,Longevidade,Total,836
+1399,53,Distrito Federal,DF,2020,IDH,Renda,Total,827
+1400,53,Distrito Federal,DF,2020,IDH,Total,Total,829
+1401,53,Distrito Federal,DF,2021,IDH,Educação,Total,817
+1402,53,Distrito Federal,DF,2021,IDH,Longevidade,Total,803
+1403,53,Distrito Federal,DF,2021,IDH,Renda,Total,821
+1404,53,Distrito Federal,DF,2021,IDH,Total,Total,814
