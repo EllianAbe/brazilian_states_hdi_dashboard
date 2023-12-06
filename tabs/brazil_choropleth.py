@@ -57,10 +57,15 @@ def main(tab: DeltaGenerator, df: pd.DataFrame):
     year = col1.select_slider('Year', df.year.unique())
     category = col1.selectbox('Category', df.category.unique())
 
+    col2.header(f'HDI {year}: {category}')
+
+    my_bar = col2.progress(0, text='Filtering data')
     df = df[(df.year == year) & (df.category == category)]
 
+    my_bar.progress(50, 'Ploting figure')
     fig = plot(df)
 
     col2.plotly_chart(fig, use_container_width=True)
 
+    my_bar.empty()
     tab.write(df)
