@@ -1,1405 +1,1405 @@
-_id,co_uf,no_uf,sigla,ano,variavel,idh_categoria,idh_subcategoria,valor
-1,11,Rondônia,RO,1991,IDH,Educação,Total,181
-2,11,Rondônia,RO,1991,IDH,Longevidade,Total,635
-3,11,Rondônia,RO,1991,IDH,Renda,Total,585
+_id,state_code,state_name,acronym,year,variable,category,subcategory,value
+1,11,Rondônia,RO,1991,IDH,Education,Total,181
+2,11,Rondônia,RO,1991,IDH,Life expectancy,Total,635
+3,11,Rondônia,RO,1991,IDH,Gross national income (GNI) per capita,Total,585
 4,11,Rondônia,RO,1991,IDH,Total,Total,407
-5,11,Rondônia,RO,2000,IDH,Educação,Total,345
-6,11,Rondônia,RO,2000,IDH,Longevidade,Total,688
-7,11,Rondônia,RO,2000,IDH,Renda,Total,654
+5,11,Rondônia,RO,2000,IDH,Education,Total,345
+6,11,Rondônia,RO,2000,IDH,Life expectancy,Total,688
+7,11,Rondônia,RO,2000,IDH,Gross national income (GNI) per capita,Total,654
 8,11,Rondônia,RO,2000,IDH,Total,Total,537
-9,11,Rondônia,RO,2010,IDH,Educação,Total,577
-10,11,Rondônia,RO,2010,IDH,Longevidade,Total,800
-11,11,Rondônia,RO,2010,IDH,Renda,Total,712
+9,11,Rondônia,RO,2010,IDH,Education,Total,577
+10,11,Rondônia,RO,2010,IDH,Life expectancy,Total,800
+11,11,Rondônia,RO,2010,IDH,Gross national income (GNI) per capita,Total,712
 12,11,Rondônia,RO,2010,IDH,Total,Total,690
-13,11,Rondônia,RO,2012,IDH,Educação,Total,637
-14,11,Rondônia,RO,2012,IDH,Longevidade,Total,758
-15,11,Rondônia,RO,2012,IDH,Renda,Total,692
+13,11,Rondônia,RO,2012,IDH,Education,Total,637
+14,11,Rondônia,RO,2012,IDH,Life expectancy,Total,758
+15,11,Rondônia,RO,2012,IDH,Gross national income (GNI) per capita,Total,692
 16,11,Rondônia,RO,2012,IDH,Total,Total,694
-17,11,Rondônia,RO,2013,IDH,Educação,Total,612
-18,11,Rondônia,RO,2013,IDH,Longevidade,Total,762
-19,11,Rondônia,RO,2013,IDH,Renda,Total,694
+17,11,Rondônia,RO,2013,IDH,Education,Total,612
+18,11,Rondônia,RO,2013,IDH,Life expectancy,Total,762
+19,11,Rondônia,RO,2013,IDH,Gross national income (GNI) per capita,Total,694
 20,11,Rondônia,RO,2013,IDH,Total,Total,687
-21,11,Rondônia,RO,2014,IDH,Educação,Total,627
-22,11,Rondônia,RO,2014,IDH,Longevidade,Total,765
-23,11,Rondônia,RO,2014,IDH,Renda,Total,691
+21,11,Rondônia,RO,2014,IDH,Education,Total,627
+22,11,Rondônia,RO,2014,IDH,Life expectancy,Total,765
+23,11,Rondônia,RO,2014,IDH,Gross national income (GNI) per capita,Total,691
 24,11,Rondônia,RO,2014,IDH,Total,Total,692
-25,11,Rondônia,RO,2015,IDH,Educação,Total,664
-26,11,Rondônia,RO,2015,IDH,Longevidade,Total,769
-27,11,Rondônia,RO,2015,IDH,Renda,Total,689
+25,11,Rondônia,RO,2015,IDH,Education,Total,664
+26,11,Rondônia,RO,2015,IDH,Life expectancy,Total,769
+27,11,Rondônia,RO,2015,IDH,Gross national income (GNI) per capita,Total,689
 28,11,Rondônia,RO,2015,IDH,Total,Total,706
-29,11,Rondônia,RO,2016,IDH,Educação,Total,691
-30,11,Rondônia,RO,2016,IDH,Longevidade,Total,772
-31,11,Rondônia,RO,2016,IDH,Renda,Total,686
+29,11,Rondônia,RO,2016,IDH,Education,Total,691
+30,11,Rondônia,RO,2016,IDH,Life expectancy,Total,772
+31,11,Rondônia,RO,2016,IDH,Gross national income (GNI) per capita,Total,686
 32,11,Rondônia,RO,2016,IDH,Total,Total,715
-33,11,Rondônia,RO,2017,IDH,Educação,Total,699
-34,11,Rondônia,RO,2017,IDH,Longevidade,Total,775
-35,11,Rondônia,RO,2017,IDH,Renda,Total,693
+33,11,Rondônia,RO,2017,IDH,Education,Total,699
+34,11,Rondônia,RO,2017,IDH,Life expectancy,Total,775
+35,11,Rondônia,RO,2017,IDH,Gross national income (GNI) per capita,Total,693
 36,11,Rondônia,RO,2017,IDH,Total,Total,721
-37,11,Rondônia,RO,2018,IDH,Educação,Total,705
-38,11,Rondônia,RO,2018,IDH,Longevidade,Total,778
-39,11,Rondônia,RO,2018,IDH,Renda,Total,710
+37,11,Rondônia,RO,2018,IDH,Education,Total,705
+38,11,Rondônia,RO,2018,IDH,Life expectancy,Total,778
+39,11,Rondônia,RO,2018,IDH,Gross national income (GNI) per capita,Total,710
 40,11,Rondônia,RO,2018,IDH,Total,Total,730
-41,11,Rondônia,RO,2019,IDH,Educação,Total,707
-42,11,Rondônia,RO,2019,IDH,Longevidade,Total,781
-43,11,Rondônia,RO,2019,IDH,Renda,Total,705
+41,11,Rondônia,RO,2019,IDH,Education,Total,707
+42,11,Rondônia,RO,2019,IDH,Life expectancy,Total,781
+43,11,Rondônia,RO,2019,IDH,Gross national income (GNI) per capita,Total,705
 44,11,Rondônia,RO,2019,IDH,Total,Total,730
-45,11,Rondônia,RO,2020,IDH,Educação,Total,743
-46,11,Rondônia,RO,2020,IDH,Longevidade,Total,770
-47,11,Rondônia,RO,2020,IDH,Renda,Total,704
+45,11,Rondônia,RO,2020,IDH,Education,Total,743
+46,11,Rondônia,RO,2020,IDH,Life expectancy,Total,770
+47,11,Rondônia,RO,2020,IDH,Gross national income (GNI) per capita,Total,704
 48,11,Rondônia,RO,2020,IDH,Total,Total,739
-49,11,Rondônia,RO,2021,IDH,Educação,Total,694
-50,11,Rondônia,RO,2021,IDH,Longevidade,Total,731
-51,11,Rondônia,RO,2021,IDH,Renda,Total,677
+49,11,Rondônia,RO,2021,IDH,Education,Total,694
+50,11,Rondônia,RO,2021,IDH,Life expectancy,Total,731
+51,11,Rondônia,RO,2021,IDH,Gross national income (GNI) per capita,Total,677
 52,11,Rondônia,RO,2021,IDH,Total,Total,700
-53,12,Acre,AC,1991,IDH,Educação,Total,176
-54,12,Acre,AC,1991,IDH,Longevidade,Total,645
-55,12,Acre,AC,1991,IDH,Renda,Total,574
+53,12,Acre,AC,1991,IDH,Education,Total,176
+54,12,Acre,AC,1991,IDH,Life expectancy,Total,645
+55,12,Acre,AC,1991,IDH,Gross national income (GNI) per capita,Total,574
 56,12,Acre,AC,1991,IDH,Total,Total,402
-57,12,Acre,AC,2000,IDH,Educação,Total,325
-58,12,Acre,AC,2000,IDH,Longevidade,Total,694
-59,12,Acre,AC,2000,IDH,Renda,Total,612
+57,12,Acre,AC,2000,IDH,Education,Total,325
+58,12,Acre,AC,2000,IDH,Life expectancy,Total,694
+59,12,Acre,AC,2000,IDH,Gross national income (GNI) per capita,Total,612
 60,12,Acre,AC,2000,IDH,Total,Total,517
-61,12,Acre,AC,2010,IDH,Educação,Total,559
-62,12,Acre,AC,2010,IDH,Longevidade,Total,777
-63,12,Acre,AC,2010,IDH,Renda,Total,671
+61,12,Acre,AC,2010,IDH,Education,Total,559
+62,12,Acre,AC,2010,IDH,Life expectancy,Total,777
+63,12,Acre,AC,2010,IDH,Gross national income (GNI) per capita,Total,671
 64,12,Acre,AC,2010,IDH,Total,Total,663
-65,12,Acre,AC,2012,IDH,Educação,Total,649
-66,12,Acre,AC,2012,IDH,Longevidade,Total,791
-67,12,Acre,AC,2012,IDH,Renda,Total,670
+65,12,Acre,AC,2012,IDH,Education,Total,649
+66,12,Acre,AC,2012,IDH,Life expectancy,Total,791
+67,12,Acre,AC,2012,IDH,Gross national income (GNI) per capita,Total,670
 68,12,Acre,AC,2012,IDH,Total,Total,701
-69,12,Acre,AC,2013,IDH,Educação,Total,658
-70,12,Acre,AC,2013,IDH,Longevidade,Total,797
-71,12,Acre,AC,2013,IDH,Renda,Total,670
+69,12,Acre,AC,2013,IDH,Education,Total,658
+70,12,Acre,AC,2013,IDH,Life expectancy,Total,797
+71,12,Acre,AC,2013,IDH,Gross national income (GNI) per capita,Total,670
 72,12,Acre,AC,2013,IDH,Total,Total,706
-73,12,Acre,AC,2014,IDH,Educação,Total,679
-74,12,Acre,AC,2014,IDH,Longevidade,Total,804
-75,12,Acre,AC,2014,IDH,Renda,Total,669
+73,12,Acre,AC,2014,IDH,Education,Total,679
+74,12,Acre,AC,2014,IDH,Life expectancy,Total,804
+75,12,Acre,AC,2014,IDH,Gross national income (GNI) per capita,Total,669
 76,12,Acre,AC,2014,IDH,Total,Total,715
-77,12,Acre,AC,2015,IDH,Educação,Total,679
-78,12,Acre,AC,2015,IDH,Longevidade,Total,809
-79,12,Acre,AC,2015,IDH,Renda,Total,674
+77,12,Acre,AC,2015,IDH,Education,Total,679
+78,12,Acre,AC,2015,IDH,Life expectancy,Total,809
+79,12,Acre,AC,2015,IDH,Gross national income (GNI) per capita,Total,674
 80,12,Acre,AC,2015,IDH,Total,Total,718
-81,12,Acre,AC,2016,IDH,Educação,Total,704
-82,12,Acre,AC,2016,IDH,Longevidade,Total,815
-83,12,Acre,AC,2016,IDH,Renda,Total,660
+81,12,Acre,AC,2016,IDH,Education,Total,704
+82,12,Acre,AC,2016,IDH,Life expectancy,Total,815
+83,12,Acre,AC,2016,IDH,Gross national income (GNI) per capita,Total,660
 84,12,Acre,AC,2016,IDH,Total,Total,723
-85,12,Acre,AC,2017,IDH,Educação,Total,671
-86,12,Acre,AC,2017,IDH,Longevidade,Total,820
-87,12,Acre,AC,2017,IDH,Renda,Total,655
+85,12,Acre,AC,2017,IDH,Education,Total,671
+86,12,Acre,AC,2017,IDH,Life expectancy,Total,820
+87,12,Acre,AC,2017,IDH,Gross national income (GNI) per capita,Total,655
 88,12,Acre,AC,2017,IDH,Total,Total,712
-89,12,Acre,AC,2018,IDH,Educação,Total,706
-90,12,Acre,AC,2018,IDH,Longevidade,Total,825
-91,12,Acre,AC,2018,IDH,Renda,Total,676
+89,12,Acre,AC,2018,IDH,Education,Total,706
+90,12,Acre,AC,2018,IDH,Life expectancy,Total,825
+91,12,Acre,AC,2018,IDH,Gross national income (GNI) per capita,Total,676
 92,12,Acre,AC,2018,IDH,Total,Total,733
-93,12,Acre,AC,2019,IDH,Educação,Total,728
-94,12,Acre,AC,2019,IDH,Longevidade,Total,830
-95,12,Acre,AC,2019,IDH,Renda,Total,668
+93,12,Acre,AC,2019,IDH,Education,Total,728
+94,12,Acre,AC,2019,IDH,Life expectancy,Total,830
+95,12,Acre,AC,2019,IDH,Gross national income (GNI) per capita,Total,668
 96,12,Acre,AC,2019,IDH,Total,Total,739
-97,12,Acre,AC,2020,IDH,Educação,Total,753
-98,12,Acre,AC,2020,IDH,Longevidade,Total,825
-99,12,Acre,AC,2020,IDH,Renda,Total,668
+97,12,Acre,AC,2020,IDH,Education,Total,753
+98,12,Acre,AC,2020,IDH,Life expectancy,Total,825
+99,12,Acre,AC,2020,IDH,Gross national income (GNI) per capita,Total,668
 100,12,Acre,AC,2020,IDH,Total,Total,746
-101,12,Acre,AC,2021,IDH,Educação,Total,692
-102,12,Acre,AC,2021,IDH,Longevidade,Total,788
-103,12,Acre,AC,2021,IDH,Renda,Total,655
+101,12,Acre,AC,2021,IDH,Education,Total,692
+102,12,Acre,AC,2021,IDH,Life expectancy,Total,788
+103,12,Acre,AC,2021,IDH,Gross national income (GNI) per capita,Total,655
 104,12,Acre,AC,2021,IDH,Total,Total,710
-105,13,Amazonas,AM,1991,IDH,Educação,Total,204
-106,13,Amazonas,AM,1991,IDH,Longevidade,Total,645
-107,13,Amazonas,AM,1991,IDH,Renda,Total,605
+105,13,Amazonas,AM,1991,IDH,Education,Total,204
+106,13,Amazonas,AM,1991,IDH,Life expectancy,Total,645
+107,13,Amazonas,AM,1991,IDH,Gross national income (GNI) per capita,Total,605
 108,13,Amazonas,AM,1991,IDH,Total,Total,430
-109,13,Amazonas,AM,2000,IDH,Educação,Total,324
-110,13,Amazonas,AM,2000,IDH,Longevidade,Total,692
-111,13,Amazonas,AM,2000,IDH,Renda,Total,608
+109,13,Amazonas,AM,2000,IDH,Education,Total,324
+110,13,Amazonas,AM,2000,IDH,Life expectancy,Total,692
+111,13,Amazonas,AM,2000,IDH,Gross national income (GNI) per capita,Total,608
 112,13,Amazonas,AM,2000,IDH,Total,Total,515
-113,13,Amazonas,AM,2010,IDH,Educação,Total,561
-114,13,Amazonas,AM,2010,IDH,Longevidade,Total,805
-115,13,Amazonas,AM,2010,IDH,Renda,Total,677
+113,13,Amazonas,AM,2010,IDH,Education,Total,561
+114,13,Amazonas,AM,2010,IDH,Life expectancy,Total,805
+115,13,Amazonas,AM,2010,IDH,Gross national income (GNI) per capita,Total,677
 116,13,Amazonas,AM,2010,IDH,Total,Total,674
-117,13,Amazonas,AM,2012,IDH,Educação,Total,632
-118,13,Amazonas,AM,2012,IDH,Longevidade,Total,764
-119,13,Amazonas,AM,2012,IDH,Renda,Total,683
+117,13,Amazonas,AM,2012,IDH,Education,Total,632
+118,13,Amazonas,AM,2012,IDH,Life expectancy,Total,764
+119,13,Amazonas,AM,2012,IDH,Gross national income (GNI) per capita,Total,683
 120,13,Amazonas,AM,2012,IDH,Total,Total,691
-121,13,Amazonas,AM,2013,IDH,Educação,Total,659
-122,13,Amazonas,AM,2013,IDH,Longevidade,Total,769
-123,13,Amazonas,AM,2013,IDH,Renda,Total,683
+121,13,Amazonas,AM,2013,IDH,Education,Total,659
+122,13,Amazonas,AM,2013,IDH,Life expectancy,Total,769
+123,13,Amazonas,AM,2013,IDH,Gross national income (GNI) per capita,Total,683
 124,13,Amazonas,AM,2013,IDH,Total,Total,702
-125,13,Amazonas,AM,2014,IDH,Educação,Total,667
-126,13,Amazonas,AM,2014,IDH,Longevidade,Total,773
-127,13,Amazonas,AM,2014,IDH,Renda,Total,683
+125,13,Amazonas,AM,2014,IDH,Education,Total,667
+126,13,Amazonas,AM,2014,IDH,Life expectancy,Total,773
+127,13,Amazonas,AM,2014,IDH,Gross national income (GNI) per capita,Total,683
 128,13,Amazonas,AM,2014,IDH,Total,Total,706
-129,13,Amazonas,AM,2015,IDH,Educação,Total,686
-130,13,Amazonas,AM,2015,IDH,Longevidade,Total,777
-131,13,Amazonas,AM,2015,IDH,Renda,Total,673
+129,13,Amazonas,AM,2015,IDH,Education,Total,686
+130,13,Amazonas,AM,2015,IDH,Life expectancy,Total,777
+131,13,Amazonas,AM,2015,IDH,Gross national income (GNI) per capita,Total,673
 132,13,Amazonas,AM,2015,IDH,Total,Total,711
-133,13,Amazonas,AM,2016,IDH,Educação,Total,705
-134,13,Amazonas,AM,2016,IDH,Longevidade,Total,781
-135,13,Amazonas,AM,2016,IDH,Renda,Total,654
+133,13,Amazonas,AM,2016,IDH,Education,Total,705
+134,13,Amazonas,AM,2016,IDH,Life expectancy,Total,781
+135,13,Amazonas,AM,2016,IDH,Gross national income (GNI) per capita,Total,654
 136,13,Amazonas,AM,2016,IDH,Total,Total,711
-137,13,Amazonas,AM,2017,IDH,Educação,Total,732
-138,13,Amazonas,AM,2017,IDH,Longevidade,Total,785
-139,13,Amazonas,AM,2017,IDH,Renda,Total,672
+137,13,Amazonas,AM,2017,IDH,Education,Total,732
+138,13,Amazonas,AM,2017,IDH,Life expectancy,Total,785
+139,13,Amazonas,AM,2017,IDH,Gross national income (GNI) per capita,Total,672
 140,13,Amazonas,AM,2017,IDH,Total,Total,728
-141,13,Amazonas,AM,2018,IDH,Educação,Total,717
-142,13,Amazonas,AM,2018,IDH,Longevidade,Total,789
-143,13,Amazonas,AM,2018,IDH,Renda,Total,655
+141,13,Amazonas,AM,2018,IDH,Education,Total,717
+142,13,Amazonas,AM,2018,IDH,Life expectancy,Total,789
+143,13,Amazonas,AM,2018,IDH,Gross national income (GNI) per capita,Total,655
 144,13,Amazonas,AM,2018,IDH,Total,Total,718
-145,13,Amazonas,AM,2019,IDH,Educação,Total,735
-146,13,Amazonas,AM,2019,IDH,Longevidade,Total,792
-147,13,Amazonas,AM,2019,IDH,Renda,Total,658
+145,13,Amazonas,AM,2019,IDH,Education,Total,735
+146,13,Amazonas,AM,2019,IDH,Life expectancy,Total,792
+147,13,Amazonas,AM,2019,IDH,Gross national income (GNI) per capita,Total,658
 148,13,Amazonas,AM,2019,IDH,Total,Total,726
-149,13,Amazonas,AM,2020,IDH,Educação,Total,748
-150,13,Amazonas,AM,2020,IDH,Longevidade,Total,783
-151,13,Amazonas,AM,2020,IDH,Renda,Total,657
+149,13,Amazonas,AM,2020,IDH,Education,Total,748
+150,13,Amazonas,AM,2020,IDH,Life expectancy,Total,783
+151,13,Amazonas,AM,2020,IDH,Gross national income (GNI) per capita,Total,657
 152,13,Amazonas,AM,2020,IDH,Total,Total,727
-153,13,Amazonas,AM,2021,IDH,Educação,Total,720
-154,13,Amazonas,AM,2021,IDH,Longevidade,Total,744
-155,13,Amazonas,AM,2021,IDH,Renda,Total,641
+153,13,Amazonas,AM,2021,IDH,Education,Total,720
+154,13,Amazonas,AM,2021,IDH,Life expectancy,Total,744
+155,13,Amazonas,AM,2021,IDH,Gross national income (GNI) per capita,Total,641
 156,13,Amazonas,AM,2021,IDH,Total,Total,700
-157,14,Roraima,RR,1991,IDH,Educação,Total,240
-158,14,Roraima,RR,1991,IDH,Longevidade,Total,628
-159,14,Roraima,RR,1991,IDH,Renda,Total,643
+157,14,Roraima,RR,1991,IDH,Education,Total,240
+158,14,Roraima,RR,1991,IDH,Life expectancy,Total,628
+159,14,Roraima,RR,1991,IDH,Gross national income (GNI) per capita,Total,643
 160,14,Roraima,RR,1991,IDH,Total,Total,459
-161,14,Roraima,RR,2000,IDH,Educação,Total,457
-162,14,Roraima,RR,2000,IDH,Longevidade,Total,717
-163,14,Roraima,RR,2000,IDH,Renda,Total,652
+161,14,Roraima,RR,2000,IDH,Education,Total,457
+162,14,Roraima,RR,2000,IDH,Life expectancy,Total,717
+163,14,Roraima,RR,2000,IDH,Gross national income (GNI) per capita,Total,652
 164,14,Roraima,RR,2000,IDH,Total,Total,598
-165,14,Roraima,RR,2010,IDH,Educação,Total,628
-166,14,Roraima,RR,2010,IDH,Longevidade,Total,809
-167,14,Roraima,RR,2010,IDH,Renda,Total,695
+165,14,Roraima,RR,2010,IDH,Education,Total,628
+166,14,Roraima,RR,2010,IDH,Life expectancy,Total,809
+167,14,Roraima,RR,2010,IDH,Gross national income (GNI) per capita,Total,695
 168,14,Roraima,RR,2010,IDH,Total,Total,707
-169,14,Roraima,RR,2012,IDH,Educação,Total,746
-170,14,Roraima,RR,2012,IDH,Longevidade,Total,752
-171,14,Roraima,RR,2012,IDH,Renda,Total,717
+169,14,Roraima,RR,2012,IDH,Education,Total,746
+170,14,Roraima,RR,2012,IDH,Life expectancy,Total,752
+171,14,Roraima,RR,2012,IDH,Gross national income (GNI) per capita,Total,717
 172,14,Roraima,RR,2012,IDH,Total,Total,738
-173,14,Roraima,RR,2013,IDH,Educação,Total,735
-174,14,Roraima,RR,2013,IDH,Longevidade,Total,757
-175,14,Roraima,RR,2013,IDH,Renda,Total,723
+173,14,Roraima,RR,2013,IDH,Education,Total,735
+174,14,Roraima,RR,2013,IDH,Life expectancy,Total,757
+175,14,Roraima,RR,2013,IDH,Gross national income (GNI) per capita,Total,723
 176,14,Roraima,RR,2013,IDH,Total,Total,738
-177,14,Roraima,RR,2014,IDH,Educação,Total,757
-178,14,Roraima,RR,2014,IDH,Longevidade,Total,763
-179,14,Roraima,RR,2014,IDH,Renda,Total,712
+177,14,Roraima,RR,2014,IDH,Education,Total,757
+178,14,Roraima,RR,2014,IDH,Life expectancy,Total,763
+179,14,Roraima,RR,2014,IDH,Gross national income (GNI) per capita,Total,712
 180,14,Roraima,RR,2014,IDH,Total,Total,744
-181,14,Roraima,RR,2015,IDH,Educação,Total,758
-182,14,Roraima,RR,2015,IDH,Longevidade,Total,768
-183,14,Roraima,RR,2015,IDH,Renda,Total,719
+181,14,Roraima,RR,2015,IDH,Education,Total,758
+182,14,Roraima,RR,2015,IDH,Life expectancy,Total,768
+183,14,Roraima,RR,2015,IDH,Gross national income (GNI) per capita,Total,719
 184,14,Roraima,RR,2015,IDH,Total,Total,748
-185,14,Roraima,RR,2016,IDH,Educação,Total,771
-186,14,Roraima,RR,2016,IDH,Longevidade,Total,774
-187,14,Roraima,RR,2016,IDH,Renda,Total,714
+185,14,Roraima,RR,2016,IDH,Education,Total,771
+186,14,Roraima,RR,2016,IDH,Life expectancy,Total,774
+187,14,Roraima,RR,2016,IDH,Gross national income (GNI) per capita,Total,714
 188,14,Roraima,RR,2016,IDH,Total,Total,752
-189,14,Roraima,RR,2017,IDH,Educação,Total,764
-190,14,Roraima,RR,2017,IDH,Longevidade,Total,779
-191,14,Roraima,RR,2017,IDH,Renda,Total,697
+189,14,Roraima,RR,2017,IDH,Education,Total,764
+190,14,Roraima,RR,2017,IDH,Life expectancy,Total,779
+191,14,Roraima,RR,2017,IDH,Gross national income (GNI) per capita,Total,697
 192,14,Roraima,RR,2017,IDH,Total,Total,746
-193,14,Roraima,RR,2018,IDH,Educação,Total,774
-194,14,Roraima,RR,2018,IDH,Longevidade,Total,784
-195,14,Roraima,RR,2018,IDH,Renda,Total,723
+193,14,Roraima,RR,2018,IDH,Education,Total,774
+194,14,Roraima,RR,2018,IDH,Life expectancy,Total,784
+195,14,Roraima,RR,2018,IDH,Gross national income (GNI) per capita,Total,723
 196,14,Roraima,RR,2018,IDH,Total,Total,760
-197,14,Roraima,RR,2019,IDH,Educação,Total,767
-198,14,Roraima,RR,2019,IDH,Longevidade,Total,788
-199,14,Roraima,RR,2019,IDH,Renda,Total,696
+197,14,Roraima,RR,2019,IDH,Education,Total,767
+198,14,Roraima,RR,2019,IDH,Life expectancy,Total,788
+199,14,Roraima,RR,2019,IDH,Gross national income (GNI) per capita,Total,696
 200,14,Roraima,RR,2019,IDH,Total,Total,749
-201,14,Roraima,RR,2020,IDH,Educação,Total,759
-202,14,Roraima,RR,2020,IDH,Longevidade,Total,783
-203,14,Roraima,RR,2020,IDH,Renda,Total,680
+201,14,Roraima,RR,2020,IDH,Education,Total,759
+202,14,Roraima,RR,2020,IDH,Life expectancy,Total,783
+203,14,Roraima,RR,2020,IDH,Gross national income (GNI) per capita,Total,680
 204,14,Roraima,RR,2020,IDH,Total,Total,739
-205,14,Roraima,RR,2021,IDH,Educação,Total,673
-206,14,Roraima,RR,2021,IDH,Longevidade,Total,745
-207,14,Roraima,RR,2021,IDH,Renda,Total,680
+205,14,Roraima,RR,2021,IDH,Education,Total,673
+206,14,Roraima,RR,2021,IDH,Life expectancy,Total,745
+207,14,Roraima,RR,2021,IDH,Gross national income (GNI) per capita,Total,680
 208,14,Roraima,RR,2021,IDH,Total,Total,699
-209,15,Pará,PA,1991,IDH,Educação,Total,194
-210,15,Pará,PA,1991,IDH,Longevidade,Total,640
-211,15,Pará,PA,1991,IDH,Renda,Total,567
+209,15,Pará,PA,1991,IDH,Education,Total,194
+210,15,Pará,PA,1991,IDH,Life expectancy,Total,640
+211,15,Pará,PA,1991,IDH,Gross national income (GNI) per capita,Total,567
 212,15,Pará,PA,1991,IDH,Total,Total,413
-213,15,Pará,PA,2000,IDH,Educação,Total,319
-214,15,Pará,PA,2000,IDH,Longevidade,Total,725
-215,15,Pará,PA,2000,IDH,Renda,Total,601
+213,15,Pará,PA,2000,IDH,Education,Total,319
+214,15,Pará,PA,2000,IDH,Life expectancy,Total,725
+215,15,Pará,PA,2000,IDH,Gross national income (GNI) per capita,Total,601
 216,15,Pará,PA,2000,IDH,Total,Total,518
-217,15,Pará,PA,2010,IDH,Educação,Total,528
-218,15,Pará,PA,2010,IDH,Longevidade,Total,789
-219,15,Pará,PA,2010,IDH,Renda,Total,646
+217,15,Pará,PA,2010,IDH,Education,Total,528
+218,15,Pará,PA,2010,IDH,Life expectancy,Total,789
+219,15,Pará,PA,2010,IDH,Gross national income (GNI) per capita,Total,646
 220,15,Pará,PA,2010,IDH,Total,Total,646
-221,15,Pará,PA,2012,IDH,Educação,Total,583
-222,15,Pará,PA,2012,IDH,Longevidade,Total,771
-223,15,Pará,PA,2012,IDH,Renda,Total,658
+221,15,Pará,PA,2012,IDH,Education,Total,583
+222,15,Pará,PA,2012,IDH,Life expectancy,Total,771
+223,15,Pará,PA,2012,IDH,Gross national income (GNI) per capita,Total,658
 224,15,Pará,PA,2012,IDH,Total,Total,666
-225,15,Pará,PA,2013,IDH,Educação,Total,592
-226,15,Pará,PA,2013,IDH,Longevidade,Total,774
-227,15,Pará,PA,2013,IDH,Renda,Total,660
+225,15,Pará,PA,2013,IDH,Education,Total,592
+226,15,Pará,PA,2013,IDH,Life expectancy,Total,774
+227,15,Pará,PA,2013,IDH,Gross national income (GNI) per capita,Total,660
 228,15,Pará,PA,2013,IDH,Total,Total,671
-229,15,Pará,PA,2014,IDH,Educação,Total,623
-230,15,Pará,PA,2014,IDH,Longevidade,Total,777
-231,15,Pará,PA,2014,IDH,Renda,Total,660
+229,15,Pará,PA,2014,IDH,Education,Total,623
+230,15,Pará,PA,2014,IDH,Life expectancy,Total,777
+231,15,Pará,PA,2014,IDH,Gross national income (GNI) per capita,Total,660
 232,15,Pará,PA,2014,IDH,Total,Total,684
-233,15,Pará,PA,2015,IDH,Educação,Total,638
-234,15,Pará,PA,2015,IDH,Longevidade,Total,781
-235,15,Pará,PA,2015,IDH,Renda,Total,656
+233,15,Pará,PA,2015,IDH,Education,Total,638
+234,15,Pará,PA,2015,IDH,Life expectancy,Total,781
+235,15,Pará,PA,2015,IDH,Gross national income (GNI) per capita,Total,656
 236,15,Pará,PA,2015,IDH,Total,Total,689
-237,15,Pará,PA,2016,IDH,Educação,Total,641
-238,15,Pará,PA,2016,IDH,Longevidade,Total,784
-239,15,Pará,PA,2016,IDH,Renda,Total,646
+237,15,Pará,PA,2016,IDH,Education,Total,641
+238,15,Pará,PA,2016,IDH,Life expectancy,Total,784
+239,15,Pará,PA,2016,IDH,Gross national income (GNI) per capita,Total,646
 240,15,Pará,PA,2016,IDH,Total,Total,687
-241,15,Pará,PA,2017,IDH,Educação,Total,657
-242,15,Pará,PA,2017,IDH,Longevidade,Total,787
-243,15,Pará,PA,2017,IDH,Renda,Total,647
+241,15,Pará,PA,2017,IDH,Education,Total,657
+242,15,Pará,PA,2017,IDH,Life expectancy,Total,787
+243,15,Pará,PA,2017,IDH,Gross national income (GNI) per capita,Total,647
 244,15,Pará,PA,2017,IDH,Total,Total,694
-245,15,Pará,PA,2018,IDH,Educação,Total,671
-246,15,Pará,PA,2018,IDH,Longevidade,Total,790
-247,15,Pará,PA,2018,IDH,Renda,Total,667
+245,15,Pará,PA,2018,IDH,Education,Total,671
+246,15,Pará,PA,2018,IDH,Life expectancy,Total,790
+247,15,Pará,PA,2018,IDH,Gross national income (GNI) per capita,Total,667
 248,15,Pará,PA,2018,IDH,Total,Total,707
-249,15,Pará,PA,2019,IDH,Educação,Total,677
-250,15,Pará,PA,2019,IDH,Longevidade,Total,793
-251,15,Pará,PA,2019,IDH,Renda,Total,651
+249,15,Pará,PA,2019,IDH,Education,Total,677
+250,15,Pará,PA,2019,IDH,Life expectancy,Total,793
+251,15,Pará,PA,2019,IDH,Gross national income (GNI) per capita,Total,651
 252,15,Pará,PA,2019,IDH,Total,Total,704
-253,15,Pará,PA,2020,IDH,Educação,Total,713
-254,15,Pará,PA,2020,IDH,Longevidade,Total,784
-255,15,Pará,PA,2020,IDH,Renda,Total,664
+253,15,Pará,PA,2020,IDH,Education,Total,713
+254,15,Pará,PA,2020,IDH,Life expectancy,Total,784
+255,15,Pará,PA,2020,IDH,Gross national income (GNI) per capita,Total,664
 256,15,Pará,PA,2020,IDH,Total,Total,719
-257,15,Pará,PA,2021,IDH,Educação,Total,686
-258,15,Pará,PA,2021,IDH,Longevidade,Total,744
-259,15,Pará,PA,2021,IDH,Renda,Total,645
+257,15,Pará,PA,2021,IDH,Education,Total,686
+258,15,Pará,PA,2021,IDH,Life expectancy,Total,744
+259,15,Pará,PA,2021,IDH,Gross national income (GNI) per capita,Total,645
 260,15,Pará,PA,2021,IDH,Total,Total,690
-261,16,Amapá,AP,1991,IDH,Educação,Total,254
-262,16,Amapá,AP,1991,IDH,Longevidade,Total,668
-263,16,Amapá,AP,1991,IDH,Renda,Total,620
+261,16,Amapá,AP,1991,IDH,Education,Total,254
+262,16,Amapá,AP,1991,IDH,Life expectancy,Total,668
+263,16,Amapá,AP,1991,IDH,Gross national income (GNI) per capita,Total,620
 264,16,Amapá,AP,1991,IDH,Total,Total,472
-265,16,Amapá,AP,2000,IDH,Educação,Total,424
-266,16,Amapá,AP,2000,IDH,Longevidade,Total,711
-267,16,Amapá,AP,2000,IDH,Renda,Total,638
+265,16,Amapá,AP,2000,IDH,Education,Total,424
+266,16,Amapá,AP,2000,IDH,Life expectancy,Total,711
+267,16,Amapá,AP,2000,IDH,Gross national income (GNI) per capita,Total,638
 268,16,Amapá,AP,2000,IDH,Total,Total,577
-269,16,Amapá,AP,2010,IDH,Educação,Total,629
-270,16,Amapá,AP,2010,IDH,Longevidade,Total,813
-271,16,Amapá,AP,2010,IDH,Renda,Total,694
+269,16,Amapá,AP,2010,IDH,Education,Total,629
+270,16,Amapá,AP,2010,IDH,Life expectancy,Total,813
+271,16,Amapá,AP,2010,IDH,Gross national income (GNI) per capita,Total,694
 272,16,Amapá,AP,2010,IDH,Total,Total,708
-273,16,Amapá,AP,2012,IDH,Educação,Total,659
-274,16,Amapá,AP,2012,IDH,Longevidade,Total,796
-275,16,Amapá,AP,2012,IDH,Renda,Total,673
+273,16,Amapá,AP,2012,IDH,Education,Total,659
+274,16,Amapá,AP,2012,IDH,Life expectancy,Total,796
+275,16,Amapá,AP,2012,IDH,Gross national income (GNI) per capita,Total,673
 276,16,Amapá,AP,2012,IDH,Total,Total,707
-277,16,Amapá,AP,2013,IDH,Educação,Total,714
-278,16,Amapá,AP,2013,IDH,Longevidade,Total,801
-279,16,Amapá,AP,2013,IDH,Renda,Total,691
+277,16,Amapá,AP,2013,IDH,Education,Total,714
+278,16,Amapá,AP,2013,IDH,Life expectancy,Total,801
+279,16,Amapá,AP,2013,IDH,Gross national income (GNI) per capita,Total,691
 280,16,Amapá,AP,2013,IDH,Total,Total,734
-281,16,Amapá,AP,2014,IDH,Educação,Total,688
-282,16,Amapá,AP,2014,IDH,Longevidade,Total,806
-283,16,Amapá,AP,2014,IDH,Renda,Total,687
+281,16,Amapá,AP,2014,IDH,Education,Total,688
+282,16,Amapá,AP,2014,IDH,Life expectancy,Total,806
+283,16,Amapá,AP,2014,IDH,Gross national income (GNI) per capita,Total,687
 284,16,Amapá,AP,2014,IDH,Total,Total,725
-285,16,Amapá,AP,2015,IDH,Educação,Total,690
-286,16,Amapá,AP,2015,IDH,Longevidade,Total,811
-287,16,Amapá,AP,2015,IDH,Renda,Total,690
+285,16,Amapá,AP,2015,IDH,Education,Total,690
+286,16,Amapá,AP,2015,IDH,Life expectancy,Total,811
+287,16,Amapá,AP,2015,IDH,Gross national income (GNI) per capita,Total,690
 288,16,Amapá,AP,2015,IDH,Total,Total,728
-289,16,Amapá,AP,2016,IDH,Educação,Total,709
-290,16,Amapá,AP,2016,IDH,Longevidade,Total,815
-291,16,Amapá,AP,2016,IDH,Renda,Total,682
+289,16,Amapá,AP,2016,IDH,Education,Total,709
+290,16,Amapá,AP,2016,IDH,Life expectancy,Total,815
+291,16,Amapá,AP,2016,IDH,Gross national income (GNI) per capita,Total,682
 292,16,Amapá,AP,2016,IDH,Total,Total,733
-293,16,Amapá,AP,2017,IDH,Educação,Total,700
-294,16,Amapá,AP,2017,IDH,Longevidade,Total,820
-295,16,Amapá,AP,2017,IDH,Renda,Total,683
+293,16,Amapá,AP,2017,IDH,Education,Total,700
+294,16,Amapá,AP,2017,IDH,Life expectancy,Total,820
+295,16,Amapá,AP,2017,IDH,Gross national income (GNI) per capita,Total,683
 296,16,Amapá,AP,2017,IDH,Total,Total,732
-297,16,Amapá,AP,2018,IDH,Educação,Total,742
-298,16,Amapá,AP,2018,IDH,Longevidade,Total,824
-299,16,Amapá,AP,2018,IDH,Renda,Total,666
+297,16,Amapá,AP,2018,IDH,Education,Total,742
+298,16,Amapá,AP,2018,IDH,Life expectancy,Total,824
+299,16,Amapá,AP,2018,IDH,Gross national income (GNI) per capita,Total,666
 300,16,Amapá,AP,2018,IDH,Total,Total,741
-301,16,Amapá,AP,2019,IDH,Educação,Total,728
-302,16,Amapá,AP,2019,IDH,Longevidade,Total,828
-303,16,Amapá,AP,2019,IDH,Renda,Total,665
+301,16,Amapá,AP,2019,IDH,Education,Total,728
+302,16,Amapá,AP,2019,IDH,Life expectancy,Total,828
+303,16,Amapá,AP,2019,IDH,Gross national income (GNI) per capita,Total,665
 304,16,Amapá,AP,2019,IDH,Total,Total,737
-305,16,Amapá,AP,2020,IDH,Educação,Total,701
-306,16,Amapá,AP,2020,IDH,Longevidade,Total,815
-307,16,Amapá,AP,2020,IDH,Renda,Total,663
+305,16,Amapá,AP,2020,IDH,Education,Total,701
+306,16,Amapá,AP,2020,IDH,Life expectancy,Total,815
+307,16,Amapá,AP,2020,IDH,Gross national income (GNI) per capita,Total,663
 308,16,Amapá,AP,2020,IDH,Total,Total,724
-309,16,Amapá,AP,2021,IDH,Educação,Total,647
-310,16,Amapá,AP,2021,IDH,Longevidade,Total,778
-311,16,Amapá,AP,2021,IDH,Renda,Total,648
+309,16,Amapá,AP,2021,IDH,Education,Total,647
+310,16,Amapá,AP,2021,IDH,Life expectancy,Total,778
+311,16,Amapá,AP,2021,IDH,Gross national income (GNI) per capita,Total,648
 312,16,Amapá,AP,2021,IDH,Total,Total,688
-313,17,Tocantins,TO,1991,IDH,Educação,Total,155
-314,17,Tocantins,TO,1991,IDH,Longevidade,Total,589
-315,17,Tocantins,TO,1991,IDH,Renda,Total,549
+313,17,Tocantins,TO,1991,IDH,Education,Total,155
+314,17,Tocantins,TO,1991,IDH,Life expectancy,Total,589
+315,17,Tocantins,TO,1991,IDH,Gross national income (GNI) per capita,Total,549
 316,17,Tocantins,TO,1991,IDH,Total,Total,369
-317,17,Tocantins,TO,2000,IDH,Educação,Total,348
-318,17,Tocantins,TO,2000,IDH,Longevidade,Total,688
-319,17,Tocantins,TO,2000,IDH,Renda,Total,605
+317,17,Tocantins,TO,2000,IDH,Education,Total,348
+318,17,Tocantins,TO,2000,IDH,Life expectancy,Total,688
+319,17,Tocantins,TO,2000,IDH,Gross national income (GNI) per capita,Total,605
 320,17,Tocantins,TO,2000,IDH,Total,Total,525
-321,17,Tocantins,TO,2010,IDH,Educação,Total,624
-322,17,Tocantins,TO,2010,IDH,Longevidade,Total,793
-323,17,Tocantins,TO,2010,IDH,Renda,Total,690
+321,17,Tocantins,TO,2010,IDH,Education,Total,624
+322,17,Tocantins,TO,2010,IDH,Life expectancy,Total,793
+323,17,Tocantins,TO,2010,IDH,Gross national income (GNI) per capita,Total,690
 324,17,Tocantins,TO,2010,IDH,Total,Total,699
-325,17,Tocantins,TO,2012,IDH,Educação,Total,676
-326,17,Tocantins,TO,2012,IDH,Longevidade,Total,785
-327,17,Tocantins,TO,2012,IDH,Renda,Total,674
+325,17,Tocantins,TO,2012,IDH,Education,Total,676
+326,17,Tocantins,TO,2012,IDH,Life expectancy,Total,785
+327,17,Tocantins,TO,2012,IDH,Gross national income (GNI) per capita,Total,674
 328,17,Tocantins,TO,2012,IDH,Total,Total,710
-329,17,Tocantins,TO,2013,IDH,Educação,Total,691
-330,17,Tocantins,TO,2013,IDH,Longevidade,Total,790
-331,17,Tocantins,TO,2013,IDH,Renda,Total,680
+329,17,Tocantins,TO,2013,IDH,Education,Total,691
+330,17,Tocantins,TO,2013,IDH,Life expectancy,Total,790
+331,17,Tocantins,TO,2013,IDH,Gross national income (GNI) per capita,Total,680
 332,17,Tocantins,TO,2013,IDH,Total,Total,719
-333,17,Tocantins,TO,2014,IDH,Educação,Total,729
-334,17,Tocantins,TO,2014,IDH,Longevidade,Total,795
-335,17,Tocantins,TO,2014,IDH,Renda,Total,692
+333,17,Tocantins,TO,2014,IDH,Education,Total,729
+334,17,Tocantins,TO,2014,IDH,Life expectancy,Total,795
+335,17,Tocantins,TO,2014,IDH,Gross national income (GNI) per capita,Total,692
 336,17,Tocantins,TO,2014,IDH,Total,Total,737
-337,17,Tocantins,TO,2015,IDH,Educação,Total,707
-338,17,Tocantins,TO,2015,IDH,Longevidade,Total,800
-339,17,Tocantins,TO,2015,IDH,Renda,Total,688
+337,17,Tocantins,TO,2015,IDH,Education,Total,707
+338,17,Tocantins,TO,2015,IDH,Life expectancy,Total,800
+339,17,Tocantins,TO,2015,IDH,Gross national income (GNI) per capita,Total,688
 340,17,Tocantins,TO,2015,IDH,Total,Total,730
-341,17,Tocantins,TO,2016,IDH,Educação,Total,723
-342,17,Tocantins,TO,2016,IDH,Longevidade,Total,805
-343,17,Tocantins,TO,2016,IDH,Renda,Total,679
+341,17,Tocantins,TO,2016,IDH,Education,Total,723
+342,17,Tocantins,TO,2016,IDH,Life expectancy,Total,805
+343,17,Tocantins,TO,2016,IDH,Gross national income (GNI) per capita,Total,679
 344,17,Tocantins,TO,2016,IDH,Total,Total,734
-345,17,Tocantins,TO,2017,IDH,Educação,Total,729
-346,17,Tocantins,TO,2017,IDH,Longevidade,Total,809
-347,17,Tocantins,TO,2017,IDH,Renda,Total,687
+345,17,Tocantins,TO,2017,IDH,Education,Total,729
+346,17,Tocantins,TO,2017,IDH,Life expectancy,Total,809
+347,17,Tocantins,TO,2017,IDH,Gross national income (GNI) per capita,Total,687
 348,17,Tocantins,TO,2017,IDH,Total,Total,740
-349,17,Tocantins,TO,2018,IDH,Educação,Total,741
-350,17,Tocantins,TO,2018,IDH,Longevidade,Total,814
-351,17,Tocantins,TO,2018,IDH,Renda,Total,698
+349,17,Tocantins,TO,2018,IDH,Education,Total,741
+350,17,Tocantins,TO,2018,IDH,Life expectancy,Total,814
+351,17,Tocantins,TO,2018,IDH,Gross national income (GNI) per capita,Total,698
 352,17,Tocantins,TO,2018,IDH,Total,Total,749
-353,17,Tocantins,TO,2019,IDH,Educação,Total,747
-354,17,Tocantins,TO,2019,IDH,Longevidade,Total,818
-355,17,Tocantins,TO,2019,IDH,Renda,Total,693
+353,17,Tocantins,TO,2019,IDH,Education,Total,747
+354,17,Tocantins,TO,2019,IDH,Life expectancy,Total,818
+355,17,Tocantins,TO,2019,IDH,Gross national income (GNI) per capita,Total,693
 356,17,Tocantins,TO,2019,IDH,Total,Total,751
-357,17,Tocantins,TO,2020,IDH,Educação,Total,763
-358,17,Tocantins,TO,2020,IDH,Longevidade,Total,817
-359,17,Tocantins,TO,2020,IDH,Renda,Total,691
+357,17,Tocantins,TO,2020,IDH,Education,Total,763
+358,17,Tocantins,TO,2020,IDH,Life expectancy,Total,817
+359,17,Tocantins,TO,2020,IDH,Gross national income (GNI) per capita,Total,691
 360,17,Tocantins,TO,2020,IDH,Total,Total,755
-361,17,Tocantins,TO,2021,IDH,Educação,Total,732
-362,17,Tocantins,TO,2021,IDH,Longevidade,Total,779
-363,17,Tocantins,TO,2021,IDH,Renda,Total,684
+361,17,Tocantins,TO,2021,IDH,Education,Total,732
+362,17,Tocantins,TO,2021,IDH,Life expectancy,Total,779
+363,17,Tocantins,TO,2021,IDH,Gross national income (GNI) per capita,Total,684
 364,17,Tocantins,TO,2021,IDH,Total,Total,731
-365,21,Maranhão,MA,1991,IDH,Educação,Total,173
-366,21,Maranhão,MA,1991,IDH,Longevidade,Total,551
-367,21,Maranhão,MA,1991,IDH,Renda,Total,478
+365,21,Maranhão,MA,1991,IDH,Education,Total,173
+366,21,Maranhão,MA,1991,IDH,Life expectancy,Total,551
+367,21,Maranhão,MA,1991,IDH,Gross national income (GNI) per capita,Total,478
 368,21,Maranhão,MA,1991,IDH,Total,Total,357
-369,21,Maranhão,MA,2000,IDH,Educação,Total,312
-370,21,Maranhão,MA,2000,IDH,Longevidade,Total,649
-371,21,Maranhão,MA,2000,IDH,Renda,Total,531
+369,21,Maranhão,MA,2000,IDH,Education,Total,312
+370,21,Maranhão,MA,2000,IDH,Life expectancy,Total,649
+371,21,Maranhão,MA,2000,IDH,Gross national income (GNI) per capita,Total,531
 372,21,Maranhão,MA,2000,IDH,Total,Total,476
-373,21,Maranhão,MA,2010,IDH,Educação,Total,562
-374,21,Maranhão,MA,2010,IDH,Longevidade,Total,757
-375,21,Maranhão,MA,2010,IDH,Renda,Total,612
+373,21,Maranhão,MA,2010,IDH,Education,Total,562
+374,21,Maranhão,MA,2010,IDH,Life expectancy,Total,757
+375,21,Maranhão,MA,2010,IDH,Gross national income (GNI) per capita,Total,612
 376,21,Maranhão,MA,2010,IDH,Total,Total,639
-377,21,Maranhão,MA,2012,IDH,Educação,Total,611
-378,21,Maranhão,MA,2012,IDH,Longevidade,Total,739
-379,21,Maranhão,MA,2012,IDH,Renda,Total,602
+377,21,Maranhão,MA,2012,IDH,Education,Total,611
+378,21,Maranhão,MA,2012,IDH,Life expectancy,Total,739
+379,21,Maranhão,MA,2012,IDH,Gross national income (GNI) per capita,Total,602
 380,21,Maranhão,MA,2012,IDH,Total,Total,648
-381,21,Maranhão,MA,2013,IDH,Educação,Total,639
-382,21,Maranhão,MA,2013,IDH,Longevidade,Total,744
-383,21,Maranhão,MA,2013,IDH,Renda,Total,607
+381,21,Maranhão,MA,2013,IDH,Education,Total,639
+382,21,Maranhão,MA,2013,IDH,Life expectancy,Total,744
+383,21,Maranhão,MA,2013,IDH,Gross national income (GNI) per capita,Total,607
 384,21,Maranhão,MA,2013,IDH,Total,Total,661
-385,21,Maranhão,MA,2014,IDH,Educação,Total,639
-386,21,Maranhão,MA,2014,IDH,Longevidade,Total,749
-387,21,Maranhão,MA,2014,IDH,Renda,Total,610
+385,21,Maranhão,MA,2014,IDH,Education,Total,639
+386,21,Maranhão,MA,2014,IDH,Life expectancy,Total,749
+387,21,Maranhão,MA,2014,IDH,Gross national income (GNI) per capita,Total,610
 388,21,Maranhão,MA,2014,IDH,Total,Total,663
-389,21,Maranhão,MA,2015,IDH,Educação,Total,649
-390,21,Maranhão,MA,2015,IDH,Longevidade,Total,754
-391,21,Maranhão,MA,2015,IDH,Renda,Total,613
+389,21,Maranhão,MA,2015,IDH,Education,Total,649
+390,21,Maranhão,MA,2015,IDH,Life expectancy,Total,754
+391,21,Maranhão,MA,2015,IDH,Gross national income (GNI) per capita,Total,613
 392,21,Maranhão,MA,2015,IDH,Total,Total,669
-393,21,Maranhão,MA,2016,IDH,Educação,Total,673
-394,21,Maranhão,MA,2016,IDH,Longevidade,Total,759
-395,21,Maranhão,MA,2016,IDH,Renda,Total,615
+393,21,Maranhão,MA,2016,IDH,Education,Total,673
+394,21,Maranhão,MA,2016,IDH,Life expectancy,Total,759
+395,21,Maranhão,MA,2016,IDH,Gross national income (GNI) per capita,Total,615
 396,21,Maranhão,MA,2016,IDH,Total,Total,680
-397,21,Maranhão,MA,2017,IDH,Educação,Total,684
-398,21,Maranhão,MA,2017,IDH,Longevidade,Total,764
-399,21,Maranhão,MA,2017,IDH,Renda,Total,616
+397,21,Maranhão,MA,2017,IDH,Education,Total,684
+398,21,Maranhão,MA,2017,IDH,Life expectancy,Total,764
+399,21,Maranhão,MA,2017,IDH,Gross national income (GNI) per capita,Total,616
 400,21,Maranhão,MA,2017,IDH,Total,Total,685
-401,21,Maranhão,MA,2018,IDH,Educação,Total,685
-402,21,Maranhão,MA,2018,IDH,Longevidade,Total,769
-403,21,Maranhão,MA,2018,IDH,Renda,Total,613
+401,21,Maranhão,MA,2018,IDH,Education,Total,685
+402,21,Maranhão,MA,2018,IDH,Life expectancy,Total,769
+403,21,Maranhão,MA,2018,IDH,Gross national income (GNI) per capita,Total,613
 404,21,Maranhão,MA,2018,IDH,Total,Total,686
-405,21,Maranhão,MA,2019,IDH,Educação,Total,704
-406,21,Maranhão,MA,2019,IDH,Longevidade,Total,773
-407,21,Maranhão,MA,2019,IDH,Renda,Total,614
+405,21,Maranhão,MA,2019,IDH,Education,Total,704
+406,21,Maranhão,MA,2019,IDH,Life expectancy,Total,773
+407,21,Maranhão,MA,2019,IDH,Gross national income (GNI) per capita,Total,614
 408,21,Maranhão,MA,2019,IDH,Total,Total,694
-409,21,Maranhão,MA,2020,IDH,Educação,Total,726
-410,21,Maranhão,MA,2020,IDH,Longevidade,Total,758
-411,21,Maranhão,MA,2020,IDH,Renda,Total,621
+409,21,Maranhão,MA,2020,IDH,Education,Total,726
+410,21,Maranhão,MA,2020,IDH,Life expectancy,Total,758
+411,21,Maranhão,MA,2020,IDH,Gross national income (GNI) per capita,Total,621
 412,21,Maranhão,MA,2020,IDH,Total,Total,699
-413,21,Maranhão,MA,2021,IDH,Educação,Total,716
-414,21,Maranhão,MA,2021,IDH,Longevidade,Total,715
-415,21,Maranhão,MA,2021,IDH,Renda,Total,603
+413,21,Maranhão,MA,2021,IDH,Education,Total,716
+414,21,Maranhão,MA,2021,IDH,Life expectancy,Total,715
+415,21,Maranhão,MA,2021,IDH,Gross national income (GNI) per capita,Total,603
 416,21,Maranhão,MA,2021,IDH,Total,Total,676
-417,22,Piauí,PI,1991,IDH,Educação,Total,164
-418,22,Piauí,PI,1991,IDH,Longevidade,Total,595
-419,22,Piauí,PI,1991,IDH,Renda,Total,488
+417,22,Piauí,PI,1991,IDH,Education,Total,164
+418,22,Piauí,PI,1991,IDH,Life expectancy,Total,595
+419,22,Piauí,PI,1991,IDH,Gross national income (GNI) per capita,Total,488
 420,22,Piauí,PI,1991,IDH,Total,Total,362
-421,22,Piauí,PI,2000,IDH,Educação,Total,301
-422,22,Piauí,PI,2000,IDH,Longevidade,Total,676
-423,22,Piauí,PI,2000,IDH,Renda,Total,556
+421,22,Piauí,PI,2000,IDH,Education,Total,301
+422,22,Piauí,PI,2000,IDH,Life expectancy,Total,676
+423,22,Piauí,PI,2000,IDH,Gross national income (GNI) per capita,Total,556
 424,22,Piauí,PI,2000,IDH,Total,Total,484
-425,22,Piauí,PI,2010,IDH,Educação,Total,547
-426,22,Piauí,PI,2010,IDH,Longevidade,Total,777
-427,22,Piauí,PI,2010,IDH,Renda,Total,635
+425,22,Piauí,PI,2010,IDH,Education,Total,547
+426,22,Piauí,PI,2010,IDH,Life expectancy,Total,777
+427,22,Piauí,PI,2010,IDH,Gross national income (GNI) per capita,Total,635
 428,22,Piauí,PI,2010,IDH,Total,Total,646
-429,22,Piauí,PI,2012,IDH,Educação,Total,600
-430,22,Piauí,PI,2012,IDH,Longevidade,Total,753
-431,22,Piauí,PI,2012,IDH,Renda,Total,635
+429,22,Piauí,PI,2012,IDH,Education,Total,600
+430,22,Piauí,PI,2012,IDH,Life expectancy,Total,753
+431,22,Piauí,PI,2012,IDH,Gross national income (GNI) per capita,Total,635
 432,22,Piauí,PI,2012,IDH,Total,Total,660
-433,22,Piauí,PI,2013,IDH,Educação,Total,623
-434,22,Piauí,PI,2013,IDH,Longevidade,Total,756
-435,22,Piauí,PI,2013,IDH,Renda,Total,666
+433,22,Piauí,PI,2013,IDH,Education,Total,623
+434,22,Piauí,PI,2013,IDH,Life expectancy,Total,756
+435,22,Piauí,PI,2013,IDH,Gross national income (GNI) per capita,Total,666
 436,22,Piauí,PI,2013,IDH,Total,Total,679
-437,22,Piauí,PI,2014,IDH,Educação,Total,639
-438,22,Piauí,PI,2014,IDH,Longevidade,Total,760
-439,22,Piauí,PI,2014,IDH,Renda,Total,665
+437,22,Piauí,PI,2014,IDH,Education,Total,639
+438,22,Piauí,PI,2014,IDH,Life expectancy,Total,760
+439,22,Piauí,PI,2014,IDH,Gross national income (GNI) per capita,Total,665
 440,22,Piauí,PI,2014,IDH,Total,Total,686
-441,22,Piauí,PI,2015,IDH,Educação,Total,643
-442,22,Piauí,PI,2015,IDH,Longevidade,Total,763
-443,22,Piauí,PI,2015,IDH,Renda,Total,668
+441,22,Piauí,PI,2015,IDH,Education,Total,643
+442,22,Piauí,PI,2015,IDH,Life expectancy,Total,763
+443,22,Piauí,PI,2015,IDH,Gross national income (GNI) per capita,Total,668
 444,22,Piauí,PI,2015,IDH,Total,Total,689
-445,22,Piauí,PI,2016,IDH,Educação,Total,642
-446,22,Piauí,PI,2016,IDH,Longevidade,Total,766
-447,22,Piauí,PI,2016,IDH,Renda,Total,655
+445,22,Piauí,PI,2016,IDH,Education,Total,642
+446,22,Piauí,PI,2016,IDH,Life expectancy,Total,766
+447,22,Piauí,PI,2016,IDH,Gross national income (GNI) per capita,Total,655
 448,22,Piauí,PI,2016,IDH,Total,Total,685
-449,22,Piauí,PI,2017,IDH,Educação,Total,665
-450,22,Piauí,PI,2017,IDH,Longevidade,Total,769
-451,22,Piauí,PI,2017,IDH,Renda,Total,653
+449,22,Piauí,PI,2017,IDH,Education,Total,665
+450,22,Piauí,PI,2017,IDH,Life expectancy,Total,769
+451,22,Piauí,PI,2017,IDH,Gross national income (GNI) per capita,Total,653
 452,22,Piauí,PI,2017,IDH,Total,Total,694
-453,22,Piauí,PI,2018,IDH,Educação,Total,671
-454,22,Piauí,PI,2018,IDH,Longevidade,Total,772
-455,22,Piauí,PI,2018,IDH,Renda,Total,658
+453,22,Piauí,PI,2018,IDH,Education,Total,671
+454,22,Piauí,PI,2018,IDH,Life expectancy,Total,772
+455,22,Piauí,PI,2018,IDH,Gross national income (GNI) per capita,Total,658
 456,22,Piauí,PI,2018,IDH,Total,Total,699
-457,22,Piauí,PI,2019,IDH,Educação,Total,692
-458,22,Piauí,PI,2019,IDH,Longevidade,Total,775
-459,22,Piauí,PI,2019,IDH,Renda,Total,657
+457,22,Piauí,PI,2019,IDH,Education,Total,692
+458,22,Piauí,PI,2019,IDH,Life expectancy,Total,775
+459,22,Piauí,PI,2019,IDH,Gross national income (GNI) per capita,Total,657
 460,22,Piauí,PI,2019,IDH,Total,Total,706
-461,22,Piauí,PI,2020,IDH,Educação,Total,700
-462,22,Piauí,PI,2020,IDH,Longevidade,Total,768
-463,22,Piauí,PI,2020,IDH,Renda,Total,659
+461,22,Piauí,PI,2020,IDH,Education,Total,700
+462,22,Piauí,PI,2020,IDH,Life expectancy,Total,768
+463,22,Piauí,PI,2020,IDH,Gross national income (GNI) per capita,Total,659
 464,22,Piauí,PI,2020,IDH,Total,Total,708
-465,22,Piauí,PI,2021,IDH,Educação,Total,698
-466,22,Piauí,PI,2021,IDH,Longevidade,Total,726
-467,22,Piauí,PI,2021,IDH,Renda,Total,649
+465,22,Piauí,PI,2021,IDH,Education,Total,698
+466,22,Piauí,PI,2021,IDH,Life expectancy,Total,726
+467,22,Piauí,PI,2021,IDH,Gross national income (GNI) per capita,Total,649
 468,22,Piauí,PI,2021,IDH,Total,Total,690
-469,23,Ceará,CE,1991,IDH,Educação,Total,204
-470,23,Ceará,CE,1991,IDH,Longevidade,Total,613
-471,23,Ceará,CE,1991,IDH,Renda,Total,532
+469,23,Ceará,CE,1991,IDH,Education,Total,204
+470,23,Ceará,CE,1991,IDH,Life expectancy,Total,613
+471,23,Ceará,CE,1991,IDH,Gross national income (GNI) per capita,Total,532
 472,23,Ceará,CE,1991,IDH,Total,Total,405
-473,23,Ceará,CE,2000,IDH,Educação,Total,377
-474,23,Ceará,CE,2000,IDH,Longevidade,Total,713
-475,23,Ceará,CE,2000,IDH,Renda,Total,588
+473,23,Ceará,CE,2000,IDH,Education,Total,377
+474,23,Ceará,CE,2000,IDH,Life expectancy,Total,713
+475,23,Ceará,CE,2000,IDH,Gross national income (GNI) per capita,Total,588
 476,23,Ceará,CE,2000,IDH,Total,Total,541
-477,23,Ceará,CE,2010,IDH,Educação,Total,615
-478,23,Ceará,CE,2010,IDH,Longevidade,Total,793
-479,23,Ceará,CE,2010,IDH,Renda,Total,651
+477,23,Ceará,CE,2010,IDH,Education,Total,615
+478,23,Ceará,CE,2010,IDH,Life expectancy,Total,793
+479,23,Ceará,CE,2010,IDH,Gross national income (GNI) per capita,Total,651
 480,23,Ceará,CE,2010,IDH,Total,Total,682
-481,23,Ceará,CE,2012,IDH,Educação,Total,667
-482,23,Ceará,CE,2012,IDH,Longevidade,Total,796
-483,23,Ceará,CE,2012,IDH,Renda,Total,648
+481,23,Ceará,CE,2012,IDH,Education,Total,667
+482,23,Ceará,CE,2012,IDH,Life expectancy,Total,796
+483,23,Ceará,CE,2012,IDH,Gross national income (GNI) per capita,Total,648
 484,23,Ceará,CE,2012,IDH,Total,Total,701
-485,23,Ceará,CE,2013,IDH,Educação,Total,667
-486,23,Ceará,CE,2013,IDH,Longevidade,Total,801
-487,23,Ceará,CE,2013,IDH,Renda,Total,656
+485,23,Ceará,CE,2013,IDH,Education,Total,667
+486,23,Ceará,CE,2013,IDH,Life expectancy,Total,801
+487,23,Ceará,CE,2013,IDH,Gross national income (GNI) per capita,Total,656
 488,23,Ceará,CE,2013,IDH,Total,Total,705
-489,23,Ceará,CE,2014,IDH,Educação,Total,679
-490,23,Ceará,CE,2014,IDH,Longevidade,Total,804
-491,23,Ceará,CE,2014,IDH,Renda,Total,656
+489,23,Ceará,CE,2014,IDH,Education,Total,679
+490,23,Ceará,CE,2014,IDH,Life expectancy,Total,804
+491,23,Ceará,CE,2014,IDH,Gross national income (GNI) per capita,Total,656
 492,23,Ceará,CE,2014,IDH,Total,Total,710
-493,23,Ceará,CE,2015,IDH,Educação,Total,689
-494,23,Ceará,CE,2015,IDH,Longevidade,Total,808
-495,23,Ceará,CE,2015,IDH,Renda,Total,657
+493,23,Ceará,CE,2015,IDH,Education,Total,689
+494,23,Ceará,CE,2015,IDH,Life expectancy,Total,808
+495,23,Ceará,CE,2015,IDH,Gross national income (GNI) per capita,Total,657
 496,23,Ceará,CE,2015,IDH,Total,Total,715
-497,23,Ceará,CE,2016,IDH,Educação,Total,708
-498,23,Ceará,CE,2016,IDH,Longevidade,Total,812
-499,23,Ceará,CE,2016,IDH,Renda,Total,656
+497,23,Ceará,CE,2016,IDH,Education,Total,708
+498,23,Ceará,CE,2016,IDH,Life expectancy,Total,812
+499,23,Ceará,CE,2016,IDH,Gross national income (GNI) per capita,Total,656
 500,23,Ceará,CE,2016,IDH,Total,Total,722
-501,23,Ceará,CE,2017,IDH,Educação,Total,715
-502,23,Ceará,CE,2017,IDH,Longevidade,Total,816
-503,23,Ceará,CE,2017,IDH,Renda,Total,666
+501,23,Ceará,CE,2017,IDH,Education,Total,715
+502,23,Ceará,CE,2017,IDH,Life expectancy,Total,816
+503,23,Ceará,CE,2017,IDH,Gross national income (GNI) per capita,Total,666
 504,23,Ceará,CE,2017,IDH,Total,Total,730
-505,23,Ceará,CE,2018,IDH,Educação,Total,740
-506,23,Ceará,CE,2018,IDH,Longevidade,Total,819
-507,23,Ceará,CE,2018,IDH,Renda,Total,666
+505,23,Ceará,CE,2018,IDH,Education,Total,740
+506,23,Ceará,CE,2018,IDH,Life expectancy,Total,819
+507,23,Ceará,CE,2018,IDH,Gross national income (GNI) per capita,Total,666
 508,23,Ceará,CE,2018,IDH,Total,Total,739
-509,23,Ceará,CE,2019,IDH,Educação,Total,740
-510,23,Ceará,CE,2019,IDH,Longevidade,Total,823
-511,23,Ceará,CE,2019,IDH,Renda,Total,677
+509,23,Ceará,CE,2019,IDH,Education,Total,740
+510,23,Ceará,CE,2019,IDH,Life expectancy,Total,823
+511,23,Ceará,CE,2019,IDH,Gross national income (GNI) per capita,Total,677
 512,23,Ceará,CE,2019,IDH,Total,Total,744
-513,23,Ceará,CE,2020,IDH,Educação,Total,766
-514,23,Ceará,CE,2020,IDH,Longevidade,Total,822
-515,23,Ceará,CE,2020,IDH,Renda,Total,684
+513,23,Ceará,CE,2020,IDH,Education,Total,766
+514,23,Ceará,CE,2020,IDH,Life expectancy,Total,822
+515,23,Ceará,CE,2020,IDH,Gross national income (GNI) per capita,Total,684
 516,23,Ceará,CE,2020,IDH,Total,Total,755
-517,23,Ceará,CE,2021,IDH,Educação,Total,766
-518,23,Ceará,CE,2021,IDH,Longevidade,Total,784
-519,23,Ceará,CE,2021,IDH,Renda,Total,658
+517,23,Ceará,CE,2021,IDH,Education,Total,766
+518,23,Ceará,CE,2021,IDH,Life expectancy,Total,784
+519,23,Ceará,CE,2021,IDH,Gross national income (GNI) per capita,Total,658
 520,23,Ceará,CE,2021,IDH,Total,Total,734
-521,24,Rio Grande do Norte,RN,1991,IDH,Educação,Total,242
-522,24,Rio Grande do Norte,RN,1991,IDH,Longevidade,Total,591
-523,24,Rio Grande do Norte,RN,1991,IDH,Renda,Total,547
+521,24,Rio Grande do Norte,RN,1991,IDH,Education,Total,242
+522,24,Rio Grande do Norte,RN,1991,IDH,Life expectancy,Total,591
+523,24,Rio Grande do Norte,RN,1991,IDH,Gross national income (GNI) per capita,Total,547
 524,24,Rio Grande do Norte,RN,1991,IDH,Total,Total,428
-525,24,Rio Grande do Norte,RN,2000,IDH,Educação,Total,396
-526,24,Rio Grande do Norte,RN,2000,IDH,Longevidade,Total,700
-527,24,Rio Grande do Norte,RN,2000,IDH,Renda,Total,608
+525,24,Rio Grande do Norte,RN,2000,IDH,Education,Total,396
+526,24,Rio Grande do Norte,RN,2000,IDH,Life expectancy,Total,700
+527,24,Rio Grande do Norte,RN,2000,IDH,Gross national income (GNI) per capita,Total,608
 528,24,Rio Grande do Norte,RN,2000,IDH,Total,Total,552
-529,24,Rio Grande do Norte,RN,2010,IDH,Educação,Total,597
-530,24,Rio Grande do Norte,RN,2010,IDH,Longevidade,Total,792
-531,24,Rio Grande do Norte,RN,2010,IDH,Renda,Total,678
+529,24,Rio Grande do Norte,RN,2010,IDH,Education,Total,597
+530,24,Rio Grande do Norte,RN,2010,IDH,Life expectancy,Total,792
+531,24,Rio Grande do Norte,RN,2010,IDH,Gross national income (GNI) per capita,Total,678
 532,24,Rio Grande do Norte,RN,2010,IDH,Total,Total,684
-533,24,Rio Grande do Norte,RN,2012,IDH,Educação,Total,617
-534,24,Rio Grande do Norte,RN,2012,IDH,Longevidade,Total,827
-535,24,Rio Grande do Norte,RN,2012,IDH,Renda,Total,658
+533,24,Rio Grande do Norte,RN,2012,IDH,Education,Total,617
+534,24,Rio Grande do Norte,RN,2012,IDH,Life expectancy,Total,827
+535,24,Rio Grande do Norte,RN,2012,IDH,Gross national income (GNI) per capita,Total,658
 536,24,Rio Grande do Norte,RN,2012,IDH,Total,Total,695
-537,24,Rio Grande do Norte,RN,2013,IDH,Educação,Total,642
-538,24,Rio Grande do Norte,RN,2013,IDH,Longevidade,Total,831
-539,24,Rio Grande do Norte,RN,2013,IDH,Renda,Total,670
+537,24,Rio Grande do Norte,RN,2013,IDH,Education,Total,642
+538,24,Rio Grande do Norte,RN,2013,IDH,Life expectancy,Total,831
+539,24,Rio Grande do Norte,RN,2013,IDH,Gross national income (GNI) per capita,Total,670
 540,24,Rio Grande do Norte,RN,2013,IDH,Total,Total,710
-541,24,Rio Grande do Norte,RN,2014,IDH,Educação,Total,668
-542,24,Rio Grande do Norte,RN,2014,IDH,Longevidade,Total,836
-543,24,Rio Grande do Norte,RN,2014,IDH,Renda,Total,676
+541,24,Rio Grande do Norte,RN,2014,IDH,Education,Total,668
+542,24,Rio Grande do Norte,RN,2014,IDH,Life expectancy,Total,836
+543,24,Rio Grande do Norte,RN,2014,IDH,Gross national income (GNI) per capita,Total,676
 544,24,Rio Grande do Norte,RN,2014,IDH,Total,Total,723
-545,24,Rio Grande do Norte,RN,2015,IDH,Educação,Total,683
-546,24,Rio Grande do Norte,RN,2015,IDH,Longevidade,Total,840
-547,24,Rio Grande do Norte,RN,2015,IDH,Renda,Total,687
+545,24,Rio Grande do Norte,RN,2015,IDH,Education,Total,683
+546,24,Rio Grande do Norte,RN,2015,IDH,Life expectancy,Total,840
+547,24,Rio Grande do Norte,RN,2015,IDH,Gross national income (GNI) per capita,Total,687
 548,24,Rio Grande do Norte,RN,2015,IDH,Total,Total,733
-549,24,Rio Grande do Norte,RN,2016,IDH,Educação,Total,676
-550,24,Rio Grande do Norte,RN,2016,IDH,Longevidade,Total,844
-551,24,Rio Grande do Norte,RN,2016,IDH,Renda,Total,687
+549,24,Rio Grande do Norte,RN,2016,IDH,Education,Total,676
+550,24,Rio Grande do Norte,RN,2016,IDH,Life expectancy,Total,844
+551,24,Rio Grande do Norte,RN,2016,IDH,Gross national income (GNI) per capita,Total,687
 552,24,Rio Grande do Norte,RN,2016,IDH,Total,Total,732
-553,24,Rio Grande do Norte,RN,2017,IDH,Educação,Total,677
-554,24,Rio Grande do Norte,RN,2017,IDH,Longevidade,Total,848
-555,24,Rio Grande do Norte,RN,2017,IDH,Renda,Total,672
+553,24,Rio Grande do Norte,RN,2017,IDH,Education,Total,677
+554,24,Rio Grande do Norte,RN,2017,IDH,Life expectancy,Total,848
+555,24,Rio Grande do Norte,RN,2017,IDH,Gross national income (GNI) per capita,Total,672
 556,24,Rio Grande do Norte,RN,2017,IDH,Total,Total,728
-557,24,Rio Grande do Norte,RN,2018,IDH,Educação,Total,690
-558,24,Rio Grande do Norte,RN,2018,IDH,Longevidade,Total,851
-559,24,Rio Grande do Norte,RN,2018,IDH,Renda,Total,686
+557,24,Rio Grande do Norte,RN,2018,IDH,Education,Total,690
+558,24,Rio Grande do Norte,RN,2018,IDH,Life expectancy,Total,851
+559,24,Rio Grande do Norte,RN,2018,IDH,Gross national income (GNI) per capita,Total,686
 560,24,Rio Grande do Norte,RN,2018,IDH,Total,Total,739
-561,24,Rio Grande do Norte,RN,2019,IDH,Educação,Total,689
-562,24,Rio Grande do Norte,RN,2019,IDH,Longevidade,Total,855
-563,24,Rio Grande do Norte,RN,2019,IDH,Renda,Total,693
+561,24,Rio Grande do Norte,RN,2019,IDH,Education,Total,689
+562,24,Rio Grande do Norte,RN,2019,IDH,Life expectancy,Total,855
+563,24,Rio Grande do Norte,RN,2019,IDH,Gross national income (GNI) per capita,Total,693
 564,24,Rio Grande do Norte,RN,2019,IDH,Total,Total,742
-565,24,Rio Grande do Norte,RN,2020,IDH,Educação,Total,710
-566,24,Rio Grande do Norte,RN,2020,IDH,Longevidade,Total,855
-567,24,Rio Grande do Norte,RN,2020,IDH,Renda,Total,695
+565,24,Rio Grande do Norte,RN,2020,IDH,Education,Total,710
+566,24,Rio Grande do Norte,RN,2020,IDH,Life expectancy,Total,855
+567,24,Rio Grande do Norte,RN,2020,IDH,Gross national income (GNI) per capita,Total,695
 568,24,Rio Grande do Norte,RN,2020,IDH,Total,Total,750
-569,24,Rio Grande do Norte,RN,2021,IDH,Educação,Total,680
-570,24,Rio Grande do Norte,RN,2021,IDH,Longevidade,Total,819
-571,24,Rio Grande do Norte,RN,2021,IDH,Renda,Total,692
+569,24,Rio Grande do Norte,RN,2021,IDH,Education,Total,680
+570,24,Rio Grande do Norte,RN,2021,IDH,Life expectancy,Total,819
+571,24,Rio Grande do Norte,RN,2021,IDH,Gross national income (GNI) per capita,Total,692
 572,24,Rio Grande do Norte,RN,2021,IDH,Total,Total,728
-573,25,Paraíba,PB,1991,IDH,Educação,Total,191
-574,25,Paraíba,PB,1991,IDH,Longevidade,Total,565
-575,25,Paraíba,PB,1991,IDH,Renda,Total,515
+573,25,Paraíba,PB,1991,IDH,Education,Total,191
+574,25,Paraíba,PB,1991,IDH,Life expectancy,Total,565
+575,25,Paraíba,PB,1991,IDH,Gross national income (GNI) per capita,Total,515
 576,25,Paraíba,PB,1991,IDH,Total,Total,382
-577,25,Paraíba,PB,2000,IDH,Educação,Total,331
-578,25,Paraíba,PB,2000,IDH,Longevidade,Total,672
-579,25,Paraíba,PB,2000,IDH,Renda,Total,582
+577,25,Paraíba,PB,2000,IDH,Education,Total,331
+578,25,Paraíba,PB,2000,IDH,Life expectancy,Total,672
+579,25,Paraíba,PB,2000,IDH,Gross national income (GNI) per capita,Total,582
 580,25,Paraíba,PB,2000,IDH,Total,Total,506
-581,25,Paraíba,PB,2010,IDH,Educação,Total,555
-582,25,Paraíba,PB,2010,IDH,Longevidade,Total,783
-583,25,Paraíba,PB,2010,IDH,Renda,Total,656
+581,25,Paraíba,PB,2010,IDH,Education,Total,555
+582,25,Paraíba,PB,2010,IDH,Life expectancy,Total,783
+583,25,Paraíba,PB,2010,IDH,Gross national income (GNI) per capita,Total,656
 584,25,Paraíba,PB,2010,IDH,Total,Total,658
-585,25,Paraíba,PB,2012,IDH,Educação,Total,601
-586,25,Paraíba,PB,2012,IDH,Longevidade,Total,780
-587,25,Paraíba,PB,2012,IDH,Renda,Total,649
+585,25,Paraíba,PB,2012,IDH,Education,Total,601
+586,25,Paraíba,PB,2012,IDH,Life expectancy,Total,780
+587,25,Paraíba,PB,2012,IDH,Gross national income (GNI) per capita,Total,649
 588,25,Paraíba,PB,2012,IDH,Total,Total,673
-589,25,Paraíba,PB,2013,IDH,Educação,Total,584
-590,25,Paraíba,PB,2013,IDH,Longevidade,Total,786
-591,25,Paraíba,PB,2013,IDH,Renda,Total,655
+589,25,Paraíba,PB,2013,IDH,Education,Total,584
+590,25,Paraíba,PB,2013,IDH,Life expectancy,Total,786
+591,25,Paraíba,PB,2013,IDH,Gross national income (GNI) per capita,Total,655
 592,25,Paraíba,PB,2013,IDH,Total,Total,670
-593,25,Paraíba,PB,2014,IDH,Educação,Total,619
-594,25,Paraíba,PB,2014,IDH,Longevidade,Total,791
-595,25,Paraíba,PB,2014,IDH,Renda,Total,671
+593,25,Paraíba,PB,2014,IDH,Education,Total,619
+594,25,Paraíba,PB,2014,IDH,Life expectancy,Total,791
+595,25,Paraíba,PB,2014,IDH,Gross national income (GNI) per capita,Total,671
 596,25,Paraíba,PB,2014,IDH,Total,Total,690
-597,25,Paraíba,PB,2015,IDH,Educação,Total,644
-598,25,Paraíba,PB,2015,IDH,Longevidade,Total,797
-599,25,Paraíba,PB,2015,IDH,Renda,Total,678
+597,25,Paraíba,PB,2015,IDH,Education,Total,644
+598,25,Paraíba,PB,2015,IDH,Life expectancy,Total,797
+599,25,Paraíba,PB,2015,IDH,Gross national income (GNI) per capita,Total,678
 600,25,Paraíba,PB,2015,IDH,Total,Total,703
-601,25,Paraíba,PB,2016,IDH,Educação,Total,657
-602,25,Paraíba,PB,2016,IDH,Longevidade,Total,802
-603,25,Paraíba,PB,2016,IDH,Renda,Total,663
+601,25,Paraíba,PB,2016,IDH,Education,Total,657
+602,25,Paraíba,PB,2016,IDH,Life expectancy,Total,802
+603,25,Paraíba,PB,2016,IDH,Gross national income (GNI) per capita,Total,663
 604,25,Paraíba,PB,2016,IDH,Total,Total,704
-605,25,Paraíba,PB,2017,IDH,Educação,Total,671
-606,25,Paraíba,PB,2017,IDH,Longevidade,Total,807
-607,25,Paraíba,PB,2017,IDH,Renda,Total,682
+605,25,Paraíba,PB,2017,IDH,Education,Total,671
+606,25,Paraíba,PB,2017,IDH,Life expectancy,Total,807
+607,25,Paraíba,PB,2017,IDH,Gross national income (GNI) per capita,Total,682
 608,25,Paraíba,PB,2017,IDH,Total,Total,717
-609,25,Paraíba,PB,2018,IDH,Educação,Total,658
-610,25,Paraíba,PB,2018,IDH,Longevidade,Total,812
-611,25,Paraíba,PB,2018,IDH,Renda,Total,672
+609,25,Paraíba,PB,2018,IDH,Education,Total,658
+610,25,Paraíba,PB,2018,IDH,Life expectancy,Total,812
+611,25,Paraíba,PB,2018,IDH,Gross national income (GNI) per capita,Total,672
 612,25,Paraíba,PB,2018,IDH,Total,Total,711
-613,25,Paraíba,PB,2019,IDH,Educação,Total,660
-614,25,Paraíba,PB,2019,IDH,Longevidade,Total,816
-615,25,Paraíba,PB,2019,IDH,Renda,Total,672
+613,25,Paraíba,PB,2019,IDH,Education,Total,660
+614,25,Paraíba,PB,2019,IDH,Life expectancy,Total,816
+615,25,Paraíba,PB,2019,IDH,Gross national income (GNI) per capita,Total,672
 616,25,Paraíba,PB,2019,IDH,Total,Total,713
-617,25,Paraíba,PB,2020,IDH,Educação,Total,673
-618,25,Paraíba,PB,2020,IDH,Longevidade,Total,816
-619,25,Paraíba,PB,2020,IDH,Renda,Total,664
+617,25,Paraíba,PB,2020,IDH,Education,Total,673
+618,25,Paraíba,PB,2020,IDH,Life expectancy,Total,816
+619,25,Paraíba,PB,2020,IDH,Gross national income (GNI) per capita,Total,664
 620,25,Paraíba,PB,2020,IDH,Total,Total,714
-621,25,Paraíba,PB,2021,IDH,Educação,Total,669
-622,25,Paraíba,PB,2021,IDH,Longevidade,Total,779
-623,25,Paraíba,PB,2021,IDH,Renda,Total,653
+621,25,Paraíba,PB,2021,IDH,Education,Total,669
+622,25,Paraíba,PB,2021,IDH,Life expectancy,Total,779
+623,25,Paraíba,PB,2021,IDH,Gross national income (GNI) per capita,Total,653
 624,25,Paraíba,PB,2021,IDH,Total,Total,698
-625,26,Pernambuco,PE,1991,IDH,Educação,Total,242
-626,26,Pernambuco,PE,1991,IDH,Longevidade,Total,617
-627,26,Pernambuco,PE,1991,IDH,Renda,Total,569
+625,26,Pernambuco,PE,1991,IDH,Education,Total,242
+626,26,Pernambuco,PE,1991,IDH,Life expectancy,Total,617
+627,26,Pernambuco,PE,1991,IDH,Gross national income (GNI) per capita,Total,569
 628,26,Pernambuco,PE,1991,IDH,Total,Total,440
-629,26,Pernambuco,PE,2000,IDH,Educação,Total,372
-630,26,Pernambuco,PE,2000,IDH,Longevidade,Total,705
-631,26,Pernambuco,PE,2000,IDH,Renda,Total,615
+629,26,Pernambuco,PE,2000,IDH,Education,Total,372
+630,26,Pernambuco,PE,2000,IDH,Life expectancy,Total,705
+631,26,Pernambuco,PE,2000,IDH,Gross national income (GNI) per capita,Total,615
 632,26,Pernambuco,PE,2000,IDH,Total,Total,544
-633,26,Pernambuco,PE,2010,IDH,Educação,Total,574
-634,26,Pernambuco,PE,2010,IDH,Longevidade,Total,789
-635,26,Pernambuco,PE,2010,IDH,Renda,Total,673
+633,26,Pernambuco,PE,2010,IDH,Education,Total,574
+634,26,Pernambuco,PE,2010,IDH,Life expectancy,Total,789
+635,26,Pernambuco,PE,2010,IDH,Gross national income (GNI) per capita,Total,673
 636,26,Pernambuco,PE,2010,IDH,Total,Total,673
-637,26,Pernambuco,PE,2012,IDH,Educação,Total,616
-638,26,Pernambuco,PE,2012,IDH,Longevidade,Total,784
-639,26,Pernambuco,PE,2012,IDH,Renda,Total,673
+637,26,Pernambuco,PE,2012,IDH,Education,Total,616
+638,26,Pernambuco,PE,2012,IDH,Life expectancy,Total,784
+639,26,Pernambuco,PE,2012,IDH,Gross national income (GNI) per capita,Total,673
 640,26,Pernambuco,PE,2012,IDH,Total,Total,688
-641,26,Pernambuco,PE,2013,IDH,Educação,Total,641
-642,26,Pernambuco,PE,2013,IDH,Longevidade,Total,792
-643,26,Pernambuco,PE,2013,IDH,Renda,Total,685
+641,26,Pernambuco,PE,2013,IDH,Education,Total,641
+642,26,Pernambuco,PE,2013,IDH,Life expectancy,Total,792
+643,26,Pernambuco,PE,2013,IDH,Gross national income (GNI) per capita,Total,685
 644,26,Pernambuco,PE,2013,IDH,Total,Total,703
-645,26,Pernambuco,PE,2014,IDH,Educação,Total,656
-646,26,Pernambuco,PE,2014,IDH,Longevidade,Total,799
-647,26,Pernambuco,PE,2014,IDH,Renda,Total,698
+645,26,Pernambuco,PE,2014,IDH,Education,Total,656
+646,26,Pernambuco,PE,2014,IDH,Life expectancy,Total,799
+647,26,Pernambuco,PE,2014,IDH,Gross national income (GNI) per capita,Total,698
 648,26,Pernambuco,PE,2014,IDH,Total,Total,715
-649,26,Pernambuco,PE,2015,IDH,Educação,Total,678
-650,26,Pernambuco,PE,2015,IDH,Longevidade,Total,806
-651,26,Pernambuco,PE,2015,IDH,Renda,Total,688
+649,26,Pernambuco,PE,2015,IDH,Education,Total,678
+650,26,Pernambuco,PE,2015,IDH,Life expectancy,Total,806
+651,26,Pernambuco,PE,2015,IDH,Gross national income (GNI) per capita,Total,688
 652,26,Pernambuco,PE,2015,IDH,Total,Total,722
-653,26,Pernambuco,PE,2016,IDH,Educação,Total,690
-654,26,Pernambuco,PE,2016,IDH,Longevidade,Total,813
-655,26,Pernambuco,PE,2016,IDH,Renda,Total,677
+653,26,Pernambuco,PE,2016,IDH,Education,Total,690
+654,26,Pernambuco,PE,2016,IDH,Life expectancy,Total,813
+655,26,Pernambuco,PE,2016,IDH,Gross national income (GNI) per capita,Total,677
 656,26,Pernambuco,PE,2016,IDH,Total,Total,724
-657,26,Pernambuco,PE,2017,IDH,Educação,Total,684
-658,26,Pernambuco,PE,2017,IDH,Longevidade,Total,819
-659,26,Pernambuco,PE,2017,IDH,Renda,Total,671
+657,26,Pernambuco,PE,2017,IDH,Education,Total,684
+658,26,Pernambuco,PE,2017,IDH,Life expectancy,Total,819
+659,26,Pernambuco,PE,2017,IDH,Gross national income (GNI) per capita,Total,671
 660,26,Pernambuco,PE,2017,IDH,Total,Total,722
-661,26,Pernambuco,PE,2018,IDH,Educação,Total,719
-662,26,Pernambuco,PE,2018,IDH,Longevidade,Total,826
-663,26,Pernambuco,PE,2018,IDH,Renda,Total,669
+661,26,Pernambuco,PE,2018,IDH,Education,Total,719
+662,26,Pernambuco,PE,2018,IDH,Life expectancy,Total,826
+663,26,Pernambuco,PE,2018,IDH,Gross national income (GNI) per capita,Total,669
 664,26,Pernambuco,PE,2018,IDH,Total,Total,735
-665,26,Pernambuco,PE,2019,IDH,Educação,Total,718
-666,26,Pernambuco,PE,2019,IDH,Longevidade,Total,831
-667,26,Pernambuco,PE,2019,IDH,Renda,Total,680
+665,26,Pernambuco,PE,2019,IDH,Education,Total,718
+666,26,Pernambuco,PE,2019,IDH,Life expectancy,Total,831
+667,26,Pernambuco,PE,2019,IDH,Gross national income (GNI) per capita,Total,680
 668,26,Pernambuco,PE,2019,IDH,Total,Total,740
-669,26,Pernambuco,PE,2020,IDH,Educação,Total,729
-670,26,Pernambuco,PE,2020,IDH,Longevidade,Total,831
-671,26,Pernambuco,PE,2020,IDH,Renda,Total,667
+669,26,Pernambuco,PE,2020,IDH,Education,Total,729
+670,26,Pernambuco,PE,2020,IDH,Life expectancy,Total,831
+671,26,Pernambuco,PE,2020,IDH,Gross national income (GNI) per capita,Total,667
 672,26,Pernambuco,PE,2020,IDH,Total,Total,739
-673,26,Pernambuco,PE,2021,IDH,Educação,Total,721
-674,26,Pernambuco,PE,2021,IDH,Longevidade,Total,797
-675,26,Pernambuco,PE,2021,IDH,Renda,Total,647
+673,26,Pernambuco,PE,2021,IDH,Education,Total,721
+674,26,Pernambuco,PE,2021,IDH,Life expectancy,Total,797
+675,26,Pernambuco,PE,2021,IDH,Gross national income (GNI) per capita,Total,647
 676,26,Pernambuco,PE,2021,IDH,Total,Total,719
-677,27,Alagoas,AL,1991,IDH,Educação,Total,174
-678,27,Alagoas,AL,1991,IDH,Longevidade,Total,552
-679,27,Alagoas,AL,1991,IDH,Renda,Total,527
+677,27,Alagoas,AL,1991,IDH,Education,Total,174
+678,27,Alagoas,AL,1991,IDH,Life expectancy,Total,552
+679,27,Alagoas,AL,1991,IDH,Gross national income (GNI) per capita,Total,527
 680,27,Alagoas,AL,1991,IDH,Total,Total,370
-681,27,Alagoas,AL,2000,IDH,Educação,Total,282
-682,27,Alagoas,AL,2000,IDH,Longevidade,Total,647
-683,27,Alagoas,AL,2000,IDH,Renda,Total,574
+681,27,Alagoas,AL,2000,IDH,Education,Total,282
+682,27,Alagoas,AL,2000,IDH,Life expectancy,Total,647
+683,27,Alagoas,AL,2000,IDH,Gross national income (GNI) per capita,Total,574
 684,27,Alagoas,AL,2000,IDH,Total,Total,471
-685,27,Alagoas,AL,2010,IDH,Educação,Total,520
-686,27,Alagoas,AL,2010,IDH,Longevidade,Total,755
-687,27,Alagoas,AL,2010,IDH,Renda,Total,641
+685,27,Alagoas,AL,2010,IDH,Education,Total,520
+686,27,Alagoas,AL,2010,IDH,Life expectancy,Total,755
+687,27,Alagoas,AL,2010,IDH,Gross national income (GNI) per capita,Total,641
 688,27,Alagoas,AL,2010,IDH,Total,Total,631
-689,27,Alagoas,AL,2012,IDH,Educação,Total,587
-690,27,Alagoas,AL,2012,IDH,Longevidade,Total,749
-691,27,Alagoas,AL,2012,IDH,Renda,Total,627
+689,27,Alagoas,AL,2012,IDH,Education,Total,587
+690,27,Alagoas,AL,2012,IDH,Life expectancy,Total,749
+691,27,Alagoas,AL,2012,IDH,Gross national income (GNI) per capita,Total,627
 692,27,Alagoas,AL,2012,IDH,Total,Total,651
-693,27,Alagoas,AL,2013,IDH,Educação,Total,573
-694,27,Alagoas,AL,2013,IDH,Longevidade,Total,756
-695,27,Alagoas,AL,2013,IDH,Renda,Total,629
+693,27,Alagoas,AL,2013,IDH,Education,Total,573
+694,27,Alagoas,AL,2013,IDH,Life expectancy,Total,756
+695,27,Alagoas,AL,2013,IDH,Gross national income (GNI) per capita,Total,629
 696,27,Alagoas,AL,2013,IDH,Total,Total,648
-697,27,Alagoas,AL,2014,IDH,Educação,Total,599
-698,27,Alagoas,AL,2014,IDH,Longevidade,Total,763
-699,27,Alagoas,AL,2014,IDH,Renda,Total,645
+697,27,Alagoas,AL,2014,IDH,Education,Total,599
+698,27,Alagoas,AL,2014,IDH,Life expectancy,Total,763
+699,27,Alagoas,AL,2014,IDH,Gross national income (GNI) per capita,Total,645
 700,27,Alagoas,AL,2014,IDH,Total,Total,666
-701,27,Alagoas,AL,2015,IDH,Educação,Total,605
-702,27,Alagoas,AL,2015,IDH,Longevidade,Total,769
-703,27,Alagoas,AL,2015,IDH,Renda,Total,636
+701,27,Alagoas,AL,2015,IDH,Education,Total,605
+702,27,Alagoas,AL,2015,IDH,Life expectancy,Total,769
+703,27,Alagoas,AL,2015,IDH,Gross national income (GNI) per capita,Total,636
 704,27,Alagoas,AL,2015,IDH,Total,Total,666
-705,27,Alagoas,AL,2016,IDH,Educação,Total,635
-706,27,Alagoas,AL,2016,IDH,Longevidade,Total,776
-707,27,Alagoas,AL,2016,IDH,Renda,Total,637
+705,27,Alagoas,AL,2016,IDH,Education,Total,635
+706,27,Alagoas,AL,2016,IDH,Life expectancy,Total,776
+707,27,Alagoas,AL,2016,IDH,Gross national income (GNI) per capita,Total,637
 708,27,Alagoas,AL,2016,IDH,Total,Total,680
-709,27,Alagoas,AL,2017,IDH,Educação,Total,634
-710,27,Alagoas,AL,2017,IDH,Longevidade,Total,782
-711,27,Alagoas,AL,2017,IDH,Renda,Total,631
+709,27,Alagoas,AL,2017,IDH,Education,Total,634
+710,27,Alagoas,AL,2017,IDH,Life expectancy,Total,782
+711,27,Alagoas,AL,2017,IDH,Gross national income (GNI) per capita,Total,631
 712,27,Alagoas,AL,2017,IDH,Total,Total,679
-713,27,Alagoas,AL,2018,IDH,Educação,Total,651
-714,27,Alagoas,AL,2018,IDH,Longevidade,Total,788
-715,27,Alagoas,AL,2018,IDH,Renda,Total,637
+713,27,Alagoas,AL,2018,IDH,Education,Total,651
+714,27,Alagoas,AL,2018,IDH,Life expectancy,Total,788
+715,27,Alagoas,AL,2018,IDH,Gross national income (GNI) per capita,Total,637
 716,27,Alagoas,AL,2018,IDH,Total,Total,689
-717,27,Alagoas,AL,2019,IDH,Educação,Total,643
-718,27,Alagoas,AL,2019,IDH,Longevidade,Total,793
-719,27,Alagoas,AL,2019,IDH,Renda,Total,636
+717,27,Alagoas,AL,2019,IDH,Education,Total,643
+718,27,Alagoas,AL,2019,IDH,Life expectancy,Total,793
+719,27,Alagoas,AL,2019,IDH,Gross national income (GNI) per capita,Total,636
 720,27,Alagoas,AL,2019,IDH,Total,Total,687
-721,27,Alagoas,AL,2020,IDH,Educação,Total,660
-722,27,Alagoas,AL,2020,IDH,Longevidade,Total,786
-723,27,Alagoas,AL,2020,IDH,Renda,Total,645
+721,27,Alagoas,AL,2020,IDH,Education,Total,660
+722,27,Alagoas,AL,2020,IDH,Life expectancy,Total,786
+723,27,Alagoas,AL,2020,IDH,Gross national income (GNI) per capita,Total,645
 724,27,Alagoas,AL,2020,IDH,Total,Total,694
-725,27,Alagoas,AL,2021,IDH,Educação,Total,679
-726,27,Alagoas,AL,2021,IDH,Longevidade,Total,748
-727,27,Alagoas,AL,2021,IDH,Renda,Total,630
+725,27,Alagoas,AL,2021,IDH,Education,Total,679
+726,27,Alagoas,AL,2021,IDH,Life expectancy,Total,748
+727,27,Alagoas,AL,2021,IDH,Gross national income (GNI) per capita,Total,630
 728,27,Alagoas,AL,2021,IDH,Total,Total,684
-729,28,Sergipe,SE,1991,IDH,Educação,Total,211
-730,28,Sergipe,SE,1991,IDH,Longevidade,Total,581
-731,28,Sergipe,SE,1991,IDH,Renda,Total,552
+729,28,Sergipe,SE,1991,IDH,Education,Total,211
+730,28,Sergipe,SE,1991,IDH,Life expectancy,Total,581
+731,28,Sergipe,SE,1991,IDH,Gross national income (GNI) per capita,Total,552
 732,28,Sergipe,SE,1991,IDH,Total,Total,408
-733,28,Sergipe,SE,2000,IDH,Educação,Total,343
-734,28,Sergipe,SE,2000,IDH,Longevidade,Total,678
-735,28,Sergipe,SE,2000,IDH,Renda,Total,596
+733,28,Sergipe,SE,2000,IDH,Education,Total,343
+734,28,Sergipe,SE,2000,IDH,Life expectancy,Total,678
+735,28,Sergipe,SE,2000,IDH,Gross national income (GNI) per capita,Total,596
 736,28,Sergipe,SE,2000,IDH,Total,Total,518
-737,28,Sergipe,SE,2010,IDH,Educação,Total,560
-738,28,Sergipe,SE,2010,IDH,Longevidade,Total,781
-739,28,Sergipe,SE,2010,IDH,Renda,Total,672
+737,28,Sergipe,SE,2010,IDH,Education,Total,560
+738,28,Sergipe,SE,2010,IDH,Life expectancy,Total,781
+739,28,Sergipe,SE,2010,IDH,Gross national income (GNI) per capita,Total,672
 740,28,Sergipe,SE,2010,IDH,Total,Total,665
-741,28,Sergipe,SE,2012,IDH,Educação,Total,607
-742,28,Sergipe,SE,2012,IDH,Longevidade,Total,775
-743,28,Sergipe,SE,2012,IDH,Renda,Total,679
+741,28,Sergipe,SE,2012,IDH,Education,Total,607
+742,28,Sergipe,SE,2012,IDH,Life expectancy,Total,775
+743,28,Sergipe,SE,2012,IDH,Gross national income (GNI) per capita,Total,679
 744,28,Sergipe,SE,2012,IDH,Total,Total,684
-745,28,Sergipe,SE,2013,IDH,Educação,Total,598
-746,28,Sergipe,SE,2013,IDH,Longevidade,Total,779
-747,28,Sergipe,SE,2013,IDH,Renda,Total,685
+745,28,Sergipe,SE,2013,IDH,Education,Total,598
+746,28,Sergipe,SE,2013,IDH,Life expectancy,Total,779
+747,28,Sergipe,SE,2013,IDH,Gross national income (GNI) per capita,Total,685
 748,28,Sergipe,SE,2013,IDH,Total,Total,683
-749,28,Sergipe,SE,2014,IDH,Educação,Total,625
-750,28,Sergipe,SE,2014,IDH,Longevidade,Total,784
-751,28,Sergipe,SE,2014,IDH,Renda,Total,688
+749,28,Sergipe,SE,2014,IDH,Education,Total,625
+750,28,Sergipe,SE,2014,IDH,Life expectancy,Total,784
+751,28,Sergipe,SE,2014,IDH,Gross national income (GNI) per capita,Total,688
 752,28,Sergipe,SE,2014,IDH,Total,Total,696
-753,28,Sergipe,SE,2015,IDH,Educação,Total,633
-754,28,Sergipe,SE,2015,IDH,Longevidade,Total,788
-755,28,Sergipe,SE,2015,IDH,Renda,Total,680
+753,28,Sergipe,SE,2015,IDH,Education,Total,633
+754,28,Sergipe,SE,2015,IDH,Life expectancy,Total,788
+755,28,Sergipe,SE,2015,IDH,Gross national income (GNI) per capita,Total,680
 756,28,Sergipe,SE,2015,IDH,Total,Total,697
-757,28,Sergipe,SE,2016,IDH,Educação,Total,625
-758,28,Sergipe,SE,2016,IDH,Longevidade,Total,793
-759,28,Sergipe,SE,2016,IDH,Renda,Total,683
+757,28,Sergipe,SE,2016,IDH,Education,Total,625
+758,28,Sergipe,SE,2016,IDH,Life expectancy,Total,793
+759,28,Sergipe,SE,2016,IDH,Gross national income (GNI) per capita,Total,683
 760,28,Sergipe,SE,2016,IDH,Total,Total,697
-761,28,Sergipe,SE,2017,IDH,Educação,Total,639
-762,28,Sergipe,SE,2017,IDH,Longevidade,Total,797
-763,28,Sergipe,SE,2017,IDH,Renda,Total,670
+761,28,Sergipe,SE,2017,IDH,Education,Total,639
+762,28,Sergipe,SE,2017,IDH,Life expectancy,Total,797
+763,28,Sergipe,SE,2017,IDH,Gross national income (GNI) per capita,Total,670
 764,28,Sergipe,SE,2017,IDH,Total,Total,699
-765,28,Sergipe,SE,2018,IDH,Educação,Total,660
-766,28,Sergipe,SE,2018,IDH,Longevidade,Total,801
-767,28,Sergipe,SE,2018,IDH,Renda,Total,676
+765,28,Sergipe,SE,2018,IDH,Education,Total,660
+766,28,Sergipe,SE,2018,IDH,Life expectancy,Total,801
+767,28,Sergipe,SE,2018,IDH,Gross national income (GNI) per capita,Total,676
 768,28,Sergipe,SE,2018,IDH,Total,Total,710
-769,28,Sergipe,SE,2019,IDH,Educação,Total,639
-770,28,Sergipe,SE,2019,IDH,Longevidade,Total,805
-771,28,Sergipe,SE,2019,IDH,Renda,Total,682
+769,28,Sergipe,SE,2019,IDH,Education,Total,639
+770,28,Sergipe,SE,2019,IDH,Life expectancy,Total,805
+771,28,Sergipe,SE,2019,IDH,Gross national income (GNI) per capita,Total,682
 772,28,Sergipe,SE,2019,IDH,Total,Total,705
-773,28,Sergipe,SE,2020,IDH,Educação,Total,682
-774,28,Sergipe,SE,2020,IDH,Longevidade,Total,803
-775,28,Sergipe,SE,2020,IDH,Renda,Total,687
+773,28,Sergipe,SE,2020,IDH,Education,Total,682
+774,28,Sergipe,SE,2020,IDH,Life expectancy,Total,803
+775,28,Sergipe,SE,2020,IDH,Gross national income (GNI) per capita,Total,687
 776,28,Sergipe,SE,2020,IDH,Total,Total,722
-777,28,Sergipe,SE,2021,IDH,Educação,Total,684
-778,28,Sergipe,SE,2021,IDH,Longevidade,Total,764
-779,28,Sergipe,SE,2021,IDH,Renda,Total,662
+777,28,Sergipe,SE,2021,IDH,Education,Total,684
+778,28,Sergipe,SE,2021,IDH,Life expectancy,Total,764
+779,28,Sergipe,SE,2021,IDH,Gross national income (GNI) per capita,Total,662
 780,28,Sergipe,SE,2021,IDH,Total,Total,702
-781,29,Bahia,BA,1991,IDH,Educação,Total,182
-782,29,Bahia,BA,1991,IDH,Longevidade,Total,582
-783,29,Bahia,BA,1991,IDH,Renda,Total,543
+781,29,Bahia,BA,1991,IDH,Education,Total,182
+782,29,Bahia,BA,1991,IDH,Life expectancy,Total,582
+783,29,Bahia,BA,1991,IDH,Gross national income (GNI) per capita,Total,543
 784,29,Bahia,BA,1991,IDH,Total,Total,386
-785,29,Bahia,BA,2000,IDH,Educação,Total,332
-786,29,Bahia,BA,2000,IDH,Longevidade,Total,680
-787,29,Bahia,BA,2000,IDH,Renda,Total,594
+785,29,Bahia,BA,2000,IDH,Education,Total,332
+786,29,Bahia,BA,2000,IDH,Life expectancy,Total,680
+787,29,Bahia,BA,2000,IDH,Gross national income (GNI) per capita,Total,594
 788,29,Bahia,BA,2000,IDH,Total,Total,512
-789,29,Bahia,BA,2010,IDH,Educação,Total,555
-790,29,Bahia,BA,2010,IDH,Longevidade,Total,783
-791,29,Bahia,BA,2010,IDH,Renda,Total,663
+789,29,Bahia,BA,2010,IDH,Education,Total,555
+790,29,Bahia,BA,2010,IDH,Life expectancy,Total,783
+791,29,Bahia,BA,2010,IDH,Gross national income (GNI) per capita,Total,663
 792,29,Bahia,BA,2010,IDH,Total,Total,660
-793,29,Bahia,BA,2012,IDH,Educação,Total,593
-794,29,Bahia,BA,2012,IDH,Longevidade,Total,790
-795,29,Bahia,BA,2012,IDH,Renda,Total,666
+793,29,Bahia,BA,2012,IDH,Education,Total,593
+794,29,Bahia,BA,2012,IDH,Life expectancy,Total,790
+795,29,Bahia,BA,2012,IDH,Gross national income (GNI) per capita,Total,666
 796,29,Bahia,BA,2012,IDH,Total,Total,678
-797,29,Bahia,BA,2013,IDH,Educação,Total,594
-798,29,Bahia,BA,2013,IDH,Longevidade,Total,794
-799,29,Bahia,BA,2013,IDH,Renda,Total,667
+797,29,Bahia,BA,2013,IDH,Education,Total,594
+798,29,Bahia,BA,2013,IDH,Life expectancy,Total,794
+799,29,Bahia,BA,2013,IDH,Gross national income (GNI) per capita,Total,667
 800,29,Bahia,BA,2013,IDH,Total,Total,680
-801,29,Bahia,BA,2014,IDH,Educação,Total,619
-802,29,Bahia,BA,2014,IDH,Longevidade,Total,799
-803,29,Bahia,BA,2014,IDH,Renda,Total,676
+801,29,Bahia,BA,2014,IDH,Education,Total,619
+802,29,Bahia,BA,2014,IDH,Life expectancy,Total,799
+803,29,Bahia,BA,2014,IDH,Gross national income (GNI) per capita,Total,676
 804,29,Bahia,BA,2014,IDH,Total,Total,694
-805,29,Bahia,BA,2015,IDH,Educação,Total,640
-806,29,Bahia,BA,2015,IDH,Longevidade,Total,803
-807,29,Bahia,BA,2015,IDH,Renda,Total,671
+805,29,Bahia,BA,2015,IDH,Education,Total,640
+806,29,Bahia,BA,2015,IDH,Life expectancy,Total,803
+807,29,Bahia,BA,2015,IDH,Gross national income (GNI) per capita,Total,671
 808,29,Bahia,BA,2015,IDH,Total,Total,701
-809,29,Bahia,BA,2016,IDH,Educação,Total,656
-810,29,Bahia,BA,2016,IDH,Longevidade,Total,807
-811,29,Bahia,BA,2016,IDH,Renda,Total,662
+809,29,Bahia,BA,2016,IDH,Education,Total,656
+810,29,Bahia,BA,2016,IDH,Life expectancy,Total,807
+811,29,Bahia,BA,2016,IDH,Gross national income (GNI) per capita,Total,662
 812,29,Bahia,BA,2016,IDH,Total,Total,705
-813,29,Bahia,BA,2017,IDH,Educação,Total,655
-814,29,Bahia,BA,2017,IDH,Longevidade,Total,811
-815,29,Bahia,BA,2017,IDH,Renda,Total,675
+813,29,Bahia,BA,2017,IDH,Education,Total,655
+814,29,Bahia,BA,2017,IDH,Life expectancy,Total,811
+815,29,Bahia,BA,2017,IDH,Gross national income (GNI) per capita,Total,675
 816,29,Bahia,BA,2017,IDH,Total,Total,710
-817,29,Bahia,BA,2018,IDH,Educação,Total,660
-818,29,Bahia,BA,2018,IDH,Longevidade,Total,815
-819,29,Bahia,BA,2018,IDH,Renda,Total,664
+817,29,Bahia,BA,2018,IDH,Education,Total,660
+818,29,Bahia,BA,2018,IDH,Life expectancy,Total,815
+819,29,Bahia,BA,2018,IDH,Gross national income (GNI) per capita,Total,664
 820,29,Bahia,BA,2018,IDH,Total,Total,710
-821,29,Bahia,BA,2019,IDH,Educação,Total,672
-822,29,Bahia,BA,2019,IDH,Longevidade,Total,818
-823,29,Bahia,BA,2019,IDH,Renda,Total,673
+821,29,Bahia,BA,2019,IDH,Education,Total,672
+822,29,Bahia,BA,2019,IDH,Life expectancy,Total,818
+823,29,Bahia,BA,2019,IDH,Gross national income (GNI) per capita,Total,673
 824,29,Bahia,BA,2019,IDH,Total,Total,718
-825,29,Bahia,BA,2020,IDH,Educação,Total,690
-826,29,Bahia,BA,2020,IDH,Longevidade,Total,811
-827,29,Bahia,BA,2020,IDH,Renda,Total,679
+825,29,Bahia,BA,2020,IDH,Education,Total,690
+826,29,Bahia,BA,2020,IDH,Life expectancy,Total,811
+827,29,Bahia,BA,2020,IDH,Gross national income (GNI) per capita,Total,679
 828,29,Bahia,BA,2020,IDH,Total,Total,724
-829,29,Bahia,BA,2021,IDH,Educação,Total,659
-830,29,Bahia,BA,2021,IDH,Longevidade,Total,772
-831,29,Bahia,BA,2021,IDH,Renda,Total,648
+829,29,Bahia,BA,2021,IDH,Education,Total,659
+830,29,Bahia,BA,2021,IDH,Life expectancy,Total,772
+831,29,Bahia,BA,2021,IDH,Gross national income (GNI) per capita,Total,648
 832,29,Bahia,BA,2021,IDH,Total,Total,691
-833,31,Minas Gerais,MG,1991,IDH,Educação,Total,257
-834,31,Minas Gerais,MG,1991,IDH,Longevidade,Total,689
-835,31,Minas Gerais,MG,1991,IDH,Renda,Total,618
+833,31,Minas Gerais,MG,1991,IDH,Education,Total,257
+834,31,Minas Gerais,MG,1991,IDH,Life expectancy,Total,689
+835,31,Minas Gerais,MG,1991,IDH,Gross national income (GNI) per capita,Total,618
 836,31,Minas Gerais,MG,1991,IDH,Total,Total,478
-837,31,Minas Gerais,MG,2000,IDH,Educação,Total,470
-838,31,Minas Gerais,MG,2000,IDH,Longevidade,Total,759
-839,31,Minas Gerais,MG,2000,IDH,Renda,Total,680
+837,31,Minas Gerais,MG,2000,IDH,Education,Total,470
+838,31,Minas Gerais,MG,2000,IDH,Life expectancy,Total,759
+839,31,Minas Gerais,MG,2000,IDH,Gross national income (GNI) per capita,Total,680
 840,31,Minas Gerais,MG,2000,IDH,Total,Total,624
-841,31,Minas Gerais,MG,2010,IDH,Educação,Total,638
-842,31,Minas Gerais,MG,2010,IDH,Longevidade,Total,838
-843,31,Minas Gerais,MG,2010,IDH,Renda,Total,730
+841,31,Minas Gerais,MG,2010,IDH,Education,Total,638
+842,31,Minas Gerais,MG,2010,IDH,Life expectancy,Total,838
+843,31,Minas Gerais,MG,2010,IDH,Gross national income (GNI) per capita,Total,730
 844,31,Minas Gerais,MG,2010,IDH,Total,Total,731
-845,31,Minas Gerais,MG,2012,IDH,Educação,Total,683
-846,31,Minas Gerais,MG,2012,IDH,Longevidade,Total,852
-847,31,Minas Gerais,MG,2012,IDH,Renda,Total,726
+845,31,Minas Gerais,MG,2012,IDH,Education,Total,683
+846,31,Minas Gerais,MG,2012,IDH,Life expectancy,Total,852
+847,31,Minas Gerais,MG,2012,IDH,Gross national income (GNI) per capita,Total,726
 848,31,Minas Gerais,MG,2012,IDH,Total,Total,750
-849,31,Minas Gerais,MG,2013,IDH,Educação,Total,692
-850,31,Minas Gerais,MG,2013,IDH,Longevidade,Total,857
-851,31,Minas Gerais,MG,2013,IDH,Renda,Total,733
+849,31,Minas Gerais,MG,2013,IDH,Education,Total,692
+850,31,Minas Gerais,MG,2013,IDH,Life expectancy,Total,857
+851,31,Minas Gerais,MG,2013,IDH,Gross national income (GNI) per capita,Total,733
 852,31,Minas Gerais,MG,2013,IDH,Total,Total,758
-853,31,Minas Gerais,MG,2014,IDH,Educação,Total,718
-854,31,Minas Gerais,MG,2014,IDH,Longevidade,Total,862
-855,31,Minas Gerais,MG,2014,IDH,Renda,Total,739
+853,31,Minas Gerais,MG,2014,IDH,Education,Total,718
+854,31,Minas Gerais,MG,2014,IDH,Life expectancy,Total,862
+855,31,Minas Gerais,MG,2014,IDH,Gross national income (GNI) per capita,Total,739
 856,31,Minas Gerais,MG,2014,IDH,Total,Total,770
-857,31,Minas Gerais,MG,2015,IDH,Educação,Total,727
-858,31,Minas Gerais,MG,2015,IDH,Longevidade,Total,866
-859,31,Minas Gerais,MG,2015,IDH,Renda,Total,736
+857,31,Minas Gerais,MG,2015,IDH,Education,Total,727
+858,31,Minas Gerais,MG,2015,IDH,Life expectancy,Total,866
+859,31,Minas Gerais,MG,2015,IDH,Gross national income (GNI) per capita,Total,736
 860,31,Minas Gerais,MG,2015,IDH,Total,Total,774
-861,31,Minas Gerais,MG,2016,IDH,Educação,Total,739
-862,31,Minas Gerais,MG,2016,IDH,Longevidade,Total,871
-863,31,Minas Gerais,MG,2016,IDH,Renda,Total,725
+861,31,Minas Gerais,MG,2016,IDH,Education,Total,739
+862,31,Minas Gerais,MG,2016,IDH,Life expectancy,Total,871
+863,31,Minas Gerais,MG,2016,IDH,Gross national income (GNI) per capita,Total,725
 864,31,Minas Gerais,MG,2016,IDH,Total,Total,776
-865,31,Minas Gerais,MG,2017,IDH,Educação,Total,752
-866,31,Minas Gerais,MG,2017,IDH,Longevidade,Total,875
-867,31,Minas Gerais,MG,2017,IDH,Renda,Total,731
+865,31,Minas Gerais,MG,2017,IDH,Education,Total,752
+866,31,Minas Gerais,MG,2017,IDH,Life expectancy,Total,875
+867,31,Minas Gerais,MG,2017,IDH,Gross national income (GNI) per capita,Total,731
 868,31,Minas Gerais,MG,2017,IDH,Total,Total,784
-869,31,Minas Gerais,MG,2018,IDH,Educação,Total,748
-870,31,Minas Gerais,MG,2018,IDH,Longevidade,Total,879
-871,31,Minas Gerais,MG,2018,IDH,Renda,Total,733
+869,31,Minas Gerais,MG,2018,IDH,Education,Total,748
+870,31,Minas Gerais,MG,2018,IDH,Life expectancy,Total,879
+871,31,Minas Gerais,MG,2018,IDH,Gross national income (GNI) per capita,Total,733
 872,31,Minas Gerais,MG,2018,IDH,Total,Total,784
-873,31,Minas Gerais,MG,2019,IDH,Educação,Total,770
-874,31,Minas Gerais,MG,2019,IDH,Longevidade,Total,883
-875,31,Minas Gerais,MG,2019,IDH,Renda,Total,734
+873,31,Minas Gerais,MG,2019,IDH,Education,Total,770
+874,31,Minas Gerais,MG,2019,IDH,Life expectancy,Total,883
+875,31,Minas Gerais,MG,2019,IDH,Gross national income (GNI) per capita,Total,734
 876,31,Minas Gerais,MG,2019,IDH,Total,Total,793
-877,31,Minas Gerais,MG,2020,IDH,Educação,Total,767
-878,31,Minas Gerais,MG,2020,IDH,Longevidade,Total,878
-879,31,Minas Gerais,MG,2020,IDH,Renda,Total,729
+877,31,Minas Gerais,MG,2020,IDH,Education,Total,767
+878,31,Minas Gerais,MG,2020,IDH,Life expectancy,Total,878
+879,31,Minas Gerais,MG,2020,IDH,Gross national income (GNI) per capita,Total,729
 880,31,Minas Gerais,MG,2020,IDH,Total,Total,789
-881,31,Minas Gerais,MG,2021,IDH,Educação,Total,762
-882,31,Minas Gerais,MG,2021,IDH,Longevidade,Total,846
-883,31,Minas Gerais,MG,2021,IDH,Renda,Total,718
+881,31,Minas Gerais,MG,2021,IDH,Education,Total,762
+882,31,Minas Gerais,MG,2021,IDH,Life expectancy,Total,846
+883,31,Minas Gerais,MG,2021,IDH,Gross national income (GNI) per capita,Total,718
 884,31,Minas Gerais,MG,2021,IDH,Total,Total,774
-885,32,Espírito Santo,ES,1991,IDH,Educação,Total,304
-886,32,Espírito Santo,ES,1991,IDH,Longevidade,Total,686
-887,32,Espírito Santo,ES,1991,IDH,Renda,Total,619
+885,32,Espírito Santo,ES,1991,IDH,Education,Total,304
+886,32,Espírito Santo,ES,1991,IDH,Life expectancy,Total,686
+887,32,Espírito Santo,ES,1991,IDH,Gross national income (GNI) per capita,Total,619
 888,32,Espírito Santo,ES,1991,IDH,Total,Total,505
-889,32,Espírito Santo,ES,2000,IDH,Educação,Total,491
-890,32,Espírito Santo,ES,2000,IDH,Longevidade,Total,777
-891,32,Espírito Santo,ES,2000,IDH,Renda,Total,687
+889,32,Espírito Santo,ES,2000,IDH,Education,Total,491
+890,32,Espírito Santo,ES,2000,IDH,Life expectancy,Total,777
+891,32,Espírito Santo,ES,2000,IDH,Gross national income (GNI) per capita,Total,687
 892,32,Espírito Santo,ES,2000,IDH,Total,Total,640
-893,32,Espírito Santo,ES,2010,IDH,Educação,Total,653
-894,32,Espírito Santo,ES,2010,IDH,Longevidade,Total,835
-895,32,Espírito Santo,ES,2010,IDH,Renda,Total,743
+893,32,Espírito Santo,ES,2010,IDH,Education,Total,653
+894,32,Espírito Santo,ES,2010,IDH,Life expectancy,Total,835
+895,32,Espírito Santo,ES,2010,IDH,Gross national income (GNI) per capita,Total,743
 896,32,Espírito Santo,ES,2010,IDH,Total,Total,740
-897,32,Espírito Santo,ES,2012,IDH,Educação,Total,692
-898,32,Espírito Santo,ES,2012,IDH,Longevidade,Total,863
-899,32,Espírito Santo,ES,2012,IDH,Renda,Total,730
+897,32,Espírito Santo,ES,2012,IDH,Education,Total,692
+898,32,Espírito Santo,ES,2012,IDH,Life expectancy,Total,863
+899,32,Espírito Santo,ES,2012,IDH,Gross national income (GNI) per capita,Total,730
 900,32,Espírito Santo,ES,2012,IDH,Total,Total,758
-901,32,Espírito Santo,ES,2013,IDH,Educação,Total,701
-902,32,Espírito Santo,ES,2013,IDH,Longevidade,Total,870
-903,32,Espírito Santo,ES,2013,IDH,Renda,Total,734
+901,32,Espírito Santo,ES,2013,IDH,Education,Total,701
+902,32,Espírito Santo,ES,2013,IDH,Life expectancy,Total,870
+903,32,Espírito Santo,ES,2013,IDH,Gross national income (GNI) per capita,Total,734
 904,32,Espírito Santo,ES,2013,IDH,Total,Total,765
-905,32,Espírito Santo,ES,2014,IDH,Educação,Total,709
-906,32,Espírito Santo,ES,2014,IDH,Longevidade,Total,876
-907,32,Espírito Santo,ES,2014,IDH,Renda,Total,742
+905,32,Espírito Santo,ES,2014,IDH,Education,Total,709
+906,32,Espírito Santo,ES,2014,IDH,Life expectancy,Total,876
+907,32,Espírito Santo,ES,2014,IDH,Gross national income (GNI) per capita,Total,742
 908,32,Espírito Santo,ES,2014,IDH,Total,Total,772
-909,32,Espírito Santo,ES,2015,IDH,Educação,Total,726
-910,32,Espírito Santo,ES,2015,IDH,Longevidade,Total,882
-911,32,Espírito Santo,ES,2015,IDH,Renda,Total,731
+909,32,Espírito Santo,ES,2015,IDH,Education,Total,726
+910,32,Espírito Santo,ES,2015,IDH,Life expectancy,Total,882
+911,32,Espírito Santo,ES,2015,IDH,Gross national income (GNI) per capita,Total,731
 912,32,Espírito Santo,ES,2015,IDH,Total,Total,776
-913,32,Espírito Santo,ES,2016,IDH,Educação,Total,732
-914,32,Espírito Santo,ES,2016,IDH,Longevidade,Total,887
-915,32,Espírito Santo,ES,2016,IDH,Renda,Total,727
+913,32,Espírito Santo,ES,2016,IDH,Education,Total,732
+914,32,Espírito Santo,ES,2016,IDH,Life expectancy,Total,887
+915,32,Espírito Santo,ES,2016,IDH,Gross national income (GNI) per capita,Total,727
 916,32,Espírito Santo,ES,2016,IDH,Total,Total,779
-917,32,Espírito Santo,ES,2017,IDH,Educação,Total,731
-918,32,Espírito Santo,ES,2017,IDH,Longevidade,Total,892
-919,32,Espírito Santo,ES,2017,IDH,Renda,Total,727
+917,32,Espírito Santo,ES,2017,IDH,Education,Total,731
+918,32,Espírito Santo,ES,2017,IDH,Life expectancy,Total,892
+919,32,Espírito Santo,ES,2017,IDH,Gross national income (GNI) per capita,Total,727
 920,32,Espírito Santo,ES,2017,IDH,Total,Total,780
-921,32,Espírito Santo,ES,2018,IDH,Educação,Total,743
-922,32,Espírito Santo,ES,2018,IDH,Longevidade,Total,897
-923,32,Espírito Santo,ES,2018,IDH,Renda,Total,735
+921,32,Espírito Santo,ES,2018,IDH,Education,Total,743
+922,32,Espírito Santo,ES,2018,IDH,Life expectancy,Total,897
+923,32,Espírito Santo,ES,2018,IDH,Gross national income (GNI) per capita,Total,735
 924,32,Espírito Santo,ES,2018,IDH,Total,Total,788
-925,32,Espírito Santo,ES,2019,IDH,Educação,Total,741
-926,32,Espírito Santo,ES,2019,IDH,Longevidade,Total,902
-927,32,Espírito Santo,ES,2019,IDH,Renda,Total,747
+925,32,Espírito Santo,ES,2019,IDH,Education,Total,741
+926,32,Espírito Santo,ES,2019,IDH,Life expectancy,Total,902
+927,32,Espírito Santo,ES,2019,IDH,Gross national income (GNI) per capita,Total,747
 928,32,Espírito Santo,ES,2019,IDH,Total,Total,793
-929,32,Espírito Santo,ES,2020,IDH,Educação,Total,758
-930,32,Espírito Santo,ES,2020,IDH,Longevidade,Total,895
-931,32,Espírito Santo,ES,2020,IDH,Renda,Total,733
+929,32,Espírito Santo,ES,2020,IDH,Education,Total,758
+930,32,Espírito Santo,ES,2020,IDH,Life expectancy,Total,895
+931,32,Espírito Santo,ES,2020,IDH,Gross national income (GNI) per capita,Total,733
 932,32,Espírito Santo,ES,2020,IDH,Total,Total,792
-933,32,Espírito Santo,ES,2021,IDH,Educação,Total,742
-934,32,Espírito Santo,ES,2021,IDH,Longevidade,Total,864
-935,32,Espírito Santo,ES,2021,IDH,Renda,Total,715
+933,32,Espírito Santo,ES,2021,IDH,Education,Total,742
+934,32,Espírito Santo,ES,2021,IDH,Life expectancy,Total,864
+935,32,Espírito Santo,ES,2021,IDH,Gross national income (GNI) per capita,Total,715
 936,32,Espírito Santo,ES,2021,IDH,Total,Total,771
-937,33,Rio de Janeiro,RJ,1991,IDH,Educação,Total,392
-938,33,Rio de Janeiro,RJ,1991,IDH,Longevidade,Total,690
-939,33,Rio de Janeiro,RJ,1991,IDH,Renda,Total,696
+937,33,Rio de Janeiro,RJ,1991,IDH,Education,Total,392
+938,33,Rio de Janeiro,RJ,1991,IDH,Life expectancy,Total,690
+939,33,Rio de Janeiro,RJ,1991,IDH,Gross national income (GNI) per capita,Total,696
 940,33,Rio de Janeiro,RJ,1991,IDH,Total,Total,573
-941,33,Rio de Janeiro,RJ,2000,IDH,Educação,Total,530
-942,33,Rio de Janeiro,RJ,2000,IDH,Longevidade,Total,740
-943,33,Rio de Janeiro,RJ,2000,IDH,Renda,Total,745
+941,33,Rio de Janeiro,RJ,2000,IDH,Education,Total,530
+942,33,Rio de Janeiro,RJ,2000,IDH,Life expectancy,Total,740
+943,33,Rio de Janeiro,RJ,2000,IDH,Gross national income (GNI) per capita,Total,745
 944,33,Rio de Janeiro,RJ,2000,IDH,Total,Total,664
-945,33,Rio de Janeiro,RJ,2010,IDH,Educação,Total,675
-946,33,Rio de Janeiro,RJ,2010,IDH,Longevidade,Total,835
-947,33,Rio de Janeiro,RJ,2010,IDH,Renda,Total,782
+945,33,Rio de Janeiro,RJ,2010,IDH,Education,Total,675
+946,33,Rio de Janeiro,RJ,2010,IDH,Life expectancy,Total,835
+947,33,Rio de Janeiro,RJ,2010,IDH,Gross national income (GNI) per capita,Total,782
 948,33,Rio de Janeiro,RJ,2010,IDH,Total,Total,761
-949,33,Rio de Janeiro,RJ,2012,IDH,Educação,Total,703
-950,33,Rio de Janeiro,RJ,2012,IDH,Longevidade,Total,832
-951,33,Rio de Janeiro,RJ,2012,IDH,Renda,Total,756
+949,33,Rio de Janeiro,RJ,2012,IDH,Education,Total,703
+950,33,Rio de Janeiro,RJ,2012,IDH,Life expectancy,Total,832
+951,33,Rio de Janeiro,RJ,2012,IDH,Gross national income (GNI) per capita,Total,756
 952,33,Rio de Janeiro,RJ,2012,IDH,Total,Total,762
-953,33,Rio de Janeiro,RJ,2013,IDH,Educação,Total,715
-954,33,Rio de Janeiro,RJ,2013,IDH,Longevidade,Total,837
-955,33,Rio de Janeiro,RJ,2013,IDH,Renda,Total,757
+953,33,Rio de Janeiro,RJ,2013,IDH,Education,Total,715
+954,33,Rio de Janeiro,RJ,2013,IDH,Life expectancy,Total,837
+955,33,Rio de Janeiro,RJ,2013,IDH,Gross national income (GNI) per capita,Total,757
 956,33,Rio de Janeiro,RJ,2013,IDH,Total,Total,768
-957,33,Rio de Janeiro,RJ,2014,IDH,Educação,Total,736
-958,33,Rio de Janeiro,RJ,2014,IDH,Longevidade,Total,843
-959,33,Rio de Janeiro,RJ,2014,IDH,Renda,Total,764
+957,33,Rio de Janeiro,RJ,2014,IDH,Education,Total,736
+958,33,Rio de Janeiro,RJ,2014,IDH,Life expectancy,Total,843
+959,33,Rio de Janeiro,RJ,2014,IDH,Gross national income (GNI) per capita,Total,764
 960,33,Rio de Janeiro,RJ,2014,IDH,Total,Total,780
-961,33,Rio de Janeiro,RJ,2015,IDH,Educação,Total,752
-962,33,Rio de Janeiro,RJ,2015,IDH,Longevidade,Total,848
-963,33,Rio de Janeiro,RJ,2015,IDH,Renda,Total,758
+961,33,Rio de Janeiro,RJ,2015,IDH,Education,Total,752
+962,33,Rio de Janeiro,RJ,2015,IDH,Life expectancy,Total,848
+963,33,Rio de Janeiro,RJ,2015,IDH,Gross national income (GNI) per capita,Total,758
 964,33,Rio de Janeiro,RJ,2015,IDH,Total,Total,785
-965,33,Rio de Janeiro,RJ,2016,IDH,Educação,Total,757
-966,33,Rio de Janeiro,RJ,2016,IDH,Longevidade,Total,853
-967,33,Rio de Janeiro,RJ,2016,IDH,Renda,Total,761
+965,33,Rio de Janeiro,RJ,2016,IDH,Education,Total,757
+966,33,Rio de Janeiro,RJ,2016,IDH,Life expectancy,Total,853
+967,33,Rio de Janeiro,RJ,2016,IDH,Gross national income (GNI) per capita,Total,761
 968,33,Rio de Janeiro,RJ,2016,IDH,Total,Total,789
-969,33,Rio de Janeiro,RJ,2017,IDH,Educação,Total,762
-970,33,Rio de Janeiro,RJ,2017,IDH,Longevidade,Total,858
-971,33,Rio de Janeiro,RJ,2017,IDH,Renda,Total,757
+969,33,Rio de Janeiro,RJ,2017,IDH,Education,Total,762
+970,33,Rio de Janeiro,RJ,2017,IDH,Life expectancy,Total,858
+971,33,Rio de Janeiro,RJ,2017,IDH,Gross national income (GNI) per capita,Total,757
 972,33,Rio de Janeiro,RJ,2017,IDH,Total,Total,791
-973,33,Rio de Janeiro,RJ,2018,IDH,Educação,Total,781
-974,33,Rio de Janeiro,RJ,2018,IDH,Longevidade,Total,863
-975,33,Rio de Janeiro,RJ,2018,IDH,Renda,Total,774
+973,33,Rio de Janeiro,RJ,2018,IDH,Education,Total,781
+974,33,Rio de Janeiro,RJ,2018,IDH,Life expectancy,Total,863
+975,33,Rio de Janeiro,RJ,2018,IDH,Gross national income (GNI) per capita,Total,774
 976,33,Rio de Janeiro,RJ,2018,IDH,Total,Total,805
-977,33,Rio de Janeiro,RJ,2019,IDH,Educação,Total,780
-978,33,Rio de Janeiro,RJ,2019,IDH,Longevidade,Total,867
-979,33,Rio de Janeiro,RJ,2019,IDH,Renda,Total,783
+977,33,Rio de Janeiro,RJ,2019,IDH,Education,Total,780
+978,33,Rio de Janeiro,RJ,2019,IDH,Life expectancy,Total,867
+979,33,Rio de Janeiro,RJ,2019,IDH,Gross national income (GNI) per capita,Total,783
 980,33,Rio de Janeiro,RJ,2019,IDH,Total,Total,809
-981,33,Rio de Janeiro,RJ,2020,IDH,Educação,Total,781
-982,33,Rio de Janeiro,RJ,2020,IDH,Longevidade,Total,804
-983,33,Rio de Janeiro,RJ,2020,IDH,Renda,Total,770
+981,33,Rio de Janeiro,RJ,2020,IDH,Education,Total,781
+982,33,Rio de Janeiro,RJ,2020,IDH,Life expectancy,Total,804
+983,33,Rio de Janeiro,RJ,2020,IDH,Gross national income (GNI) per capita,Total,770
 984,33,Rio de Janeiro,RJ,2020,IDH,Total,Total,785
-985,33,Rio de Janeiro,RJ,2021,IDH,Educação,Total,758
-986,33,Rio de Janeiro,RJ,2021,IDH,Longevidade,Total,769
-987,33,Rio de Janeiro,RJ,2021,IDH,Renda,Total,759
+985,33,Rio de Janeiro,RJ,2021,IDH,Education,Total,758
+986,33,Rio de Janeiro,RJ,2021,IDH,Life expectancy,Total,769
+987,33,Rio de Janeiro,RJ,2021,IDH,Gross national income (GNI) per capita,Total,759
 988,33,Rio de Janeiro,RJ,2021,IDH,Total,Total,762
-989,35,São Paulo,SP,1991,IDH,Educação,Total,363
-990,35,São Paulo,SP,1991,IDH,Longevidade,Total,730
-991,35,São Paulo,SP,1991,IDH,Renda,Total,729
+989,35,São Paulo,SP,1991,IDH,Education,Total,363
+990,35,São Paulo,SP,1991,IDH,Life expectancy,Total,730
+991,35,São Paulo,SP,1991,IDH,Gross national income (GNI) per capita,Total,729
 992,35,São Paulo,SP,1991,IDH,Total,Total,578
-993,35,São Paulo,SP,2000,IDH,Educação,Total,581
-994,35,São Paulo,SP,2000,IDH,Longevidade,Total,786
-995,35,São Paulo,SP,2000,IDH,Renda,Total,756
+993,35,São Paulo,SP,2000,IDH,Education,Total,581
+994,35,São Paulo,SP,2000,IDH,Life expectancy,Total,786
+995,35,São Paulo,SP,2000,IDH,Gross national income (GNI) per capita,Total,756
 996,35,São Paulo,SP,2000,IDH,Total,Total,702
-997,35,São Paulo,SP,2010,IDH,Educação,Total,719
-998,35,São Paulo,SP,2010,IDH,Longevidade,Total,845
-999,35,São Paulo,SP,2010,IDH,Renda,Total,789
+997,35,São Paulo,SP,2010,IDH,Education,Total,719
+998,35,São Paulo,SP,2010,IDH,Life expectancy,Total,845
+999,35,São Paulo,SP,2010,IDH,Gross national income (GNI) per capita,Total,789
 1000,35,São Paulo,SP,2010,IDH,Total,Total,783
-1001,35,São Paulo,SP,2012,IDH,Educação,Total,792
-1002,35,São Paulo,SP,2012,IDH,Longevidade,Total,863
-1003,35,São Paulo,SP,2012,IDH,Renda,Total,782
+1001,35,São Paulo,SP,2012,IDH,Education,Total,792
+1002,35,São Paulo,SP,2012,IDH,Life expectancy,Total,863
+1003,35,São Paulo,SP,2012,IDH,Gross national income (GNI) per capita,Total,782
 1004,35,São Paulo,SP,2012,IDH,Total,Total,812
-1005,35,São Paulo,SP,2013,IDH,Educação,Total,800
-1006,35,São Paulo,SP,2013,IDH,Longevidade,Total,869
-1007,35,São Paulo,SP,2013,IDH,Renda,Total,787
+1005,35,São Paulo,SP,2013,IDH,Education,Total,800
+1006,35,São Paulo,SP,2013,IDH,Life expectancy,Total,869
+1007,35,São Paulo,SP,2013,IDH,Gross national income (GNI) per capita,Total,787
 1008,35,São Paulo,SP,2013,IDH,Total,Total,818
-1009,35,São Paulo,SP,2014,IDH,Educação,Total,813
-1010,35,São Paulo,SP,2014,IDH,Longevidade,Total,875
-1011,35,São Paulo,SP,2014,IDH,Renda,Total,790
+1009,35,São Paulo,SP,2014,IDH,Education,Total,813
+1010,35,São Paulo,SP,2014,IDH,Life expectancy,Total,875
+1011,35,São Paulo,SP,2014,IDH,Gross national income (GNI) per capita,Total,790
 1012,35,São Paulo,SP,2014,IDH,Total,Total,825
-1013,35,São Paulo,SP,2015,IDH,Educação,Total,811
-1014,35,São Paulo,SP,2015,IDH,Longevidade,Total,880
-1015,35,São Paulo,SP,2015,IDH,Renda,Total,782
+1013,35,São Paulo,SP,2015,IDH,Education,Total,811
+1014,35,São Paulo,SP,2015,IDH,Life expectancy,Total,880
+1015,35,São Paulo,SP,2015,IDH,Gross national income (GNI) per capita,Total,782
 1016,35,São Paulo,SP,2015,IDH,Total,Total,823
-1017,35,São Paulo,SP,2016,IDH,Educação,Total,837
-1018,35,São Paulo,SP,2016,IDH,Longevidade,Total,885
-1019,35,São Paulo,SP,2016,IDH,Renda,Total,787
+1017,35,São Paulo,SP,2016,IDH,Education,Total,837
+1018,35,São Paulo,SP,2016,IDH,Life expectancy,Total,885
+1019,35,São Paulo,SP,2016,IDH,Gross national income (GNI) per capita,Total,787
 1020,35,São Paulo,SP,2016,IDH,Total,Total,835
-1021,35,São Paulo,SP,2017,IDH,Educação,Total,826
-1022,35,São Paulo,SP,2017,IDH,Longevidade,Total,889
-1023,35,São Paulo,SP,2017,IDH,Renda,Total,781
+1021,35,São Paulo,SP,2017,IDH,Education,Total,826
+1022,35,São Paulo,SP,2017,IDH,Life expectancy,Total,889
+1023,35,São Paulo,SP,2017,IDH,Gross national income (GNI) per capita,Total,781
 1024,35,São Paulo,SP,2017,IDH,Total,Total,831
-1025,35,São Paulo,SP,2018,IDH,Educação,Total,829
-1026,35,São Paulo,SP,2018,IDH,Longevidade,Total,894
-1027,35,São Paulo,SP,2018,IDH,Renda,Total,791
+1025,35,São Paulo,SP,2018,IDH,Education,Total,829
+1026,35,São Paulo,SP,2018,IDH,Life expectancy,Total,894
+1027,35,São Paulo,SP,2018,IDH,Gross national income (GNI) per capita,Total,791
 1028,35,São Paulo,SP,2018,IDH,Total,Total,837
-1029,35,São Paulo,SP,2019,IDH,Educação,Total,849
-1030,35,São Paulo,SP,2019,IDH,Longevidade,Total,898
-1031,35,São Paulo,SP,2019,IDH,Renda,Total,791
+1029,35,São Paulo,SP,2019,IDH,Education,Total,849
+1030,35,São Paulo,SP,2019,IDH,Life expectancy,Total,898
+1031,35,São Paulo,SP,2019,IDH,Gross national income (GNI) per capita,Total,791
 1032,35,São Paulo,SP,2019,IDH,Total,Total,845
-1033,35,São Paulo,SP,2020,IDH,Educação,Total,847
-1034,35,São Paulo,SP,2020,IDH,Longevidade,Total,844
-1035,35,São Paulo,SP,2020,IDH,Renda,Total,781
+1033,35,São Paulo,SP,2020,IDH,Education,Total,847
+1034,35,São Paulo,SP,2020,IDH,Life expectancy,Total,844
+1035,35,São Paulo,SP,2020,IDH,Gross national income (GNI) per capita,Total,781
 1036,35,São Paulo,SP,2020,IDH,Total,Total,823
-1037,35,São Paulo,SP,2021,IDH,Educação,Total,839
-1038,35,São Paulo,SP,2021,IDH,Longevidade,Total,810
-1039,35,São Paulo,SP,2021,IDH,Renda,Total,771
+1037,35,São Paulo,SP,2021,IDH,Education,Total,839
+1038,35,São Paulo,SP,2021,IDH,Life expectancy,Total,810
+1039,35,São Paulo,SP,2021,IDH,Gross national income (GNI) per capita,Total,771
 1040,35,São Paulo,SP,2021,IDH,Total,Total,806
-1041,41,Paraná,PR,1991,IDH,Educação,Total,298
-1042,41,Paraná,PR,1991,IDH,Longevidade,Total,679
-1043,41,Paraná,PR,1991,IDH,Renda,Total,644
+1041,41,Paraná,PR,1991,IDH,Education,Total,298
+1042,41,Paraná,PR,1991,IDH,Life expectancy,Total,679
+1043,41,Paraná,PR,1991,IDH,Gross national income (GNI) per capita,Total,644
 1044,41,Paraná,PR,1991,IDH,Total,Total,507
-1045,41,Paraná,PR,2000,IDH,Educação,Total,522
-1046,41,Paraná,PR,2000,IDH,Longevidade,Total,747
-1047,41,Paraná,PR,2000,IDH,Renda,Total,704
+1045,41,Paraná,PR,2000,IDH,Education,Total,522
+1046,41,Paraná,PR,2000,IDH,Life expectancy,Total,747
+1047,41,Paraná,PR,2000,IDH,Gross national income (GNI) per capita,Total,704
 1048,41,Paraná,PR,2000,IDH,Total,Total,650
-1049,41,Paraná,PR,2010,IDH,Educação,Total,668
-1050,41,Paraná,PR,2010,IDH,Longevidade,Total,830
-1051,41,Paraná,PR,2010,IDH,Renda,Total,757
+1049,41,Paraná,PR,2010,IDH,Education,Total,668
+1050,41,Paraná,PR,2010,IDH,Life expectancy,Total,830
+1051,41,Paraná,PR,2010,IDH,Gross national income (GNI) per capita,Total,757
 1052,41,Paraná,PR,2010,IDH,Total,Total,749
-1053,41,Paraná,PR,2012,IDH,Educação,Total,718
-1054,41,Paraná,PR,2012,IDH,Longevidade,Total,846
-1055,41,Paraná,PR,2012,IDH,Renda,Total,757
+1053,41,Paraná,PR,2012,IDH,Education,Total,718
+1054,41,Paraná,PR,2012,IDH,Life expectancy,Total,846
+1055,41,Paraná,PR,2012,IDH,Gross national income (GNI) per capita,Total,757
 1056,41,Paraná,PR,2012,IDH,Total,Total,772
-1057,41,Paraná,PR,2013,IDH,Educação,Total,737
-1058,41,Paraná,PR,2013,IDH,Longevidade,Total,852
-1059,41,Paraná,PR,2013,IDH,Renda,Total,761
+1057,41,Paraná,PR,2013,IDH,Education,Total,737
+1058,41,Paraná,PR,2013,IDH,Life expectancy,Total,852
+1059,41,Paraná,PR,2013,IDH,Gross national income (GNI) per capita,Total,761
 1060,41,Paraná,PR,2013,IDH,Total,Total,782
-1061,41,Paraná,PR,2014,IDH,Educação,Total,747
-1062,41,Paraná,PR,2014,IDH,Longevidade,Total,857
-1063,41,Paraná,PR,2014,IDH,Renda,Total,765
+1061,41,Paraná,PR,2014,IDH,Education,Total,747
+1062,41,Paraná,PR,2014,IDH,Life expectancy,Total,857
+1063,41,Paraná,PR,2014,IDH,Gross national income (GNI) per capita,Total,765
 1064,41,Paraná,PR,2014,IDH,Total,Total,788
-1065,41,Paraná,PR,2015,IDH,Educação,Total,747
-1066,41,Paraná,PR,2015,IDH,Longevidade,Total,862
-1067,41,Paraná,PR,2015,IDH,Renda,Total,754
+1065,41,Paraná,PR,2015,IDH,Education,Total,747
+1066,41,Paraná,PR,2015,IDH,Life expectancy,Total,862
+1067,41,Paraná,PR,2015,IDH,Gross national income (GNI) per capita,Total,754
 1068,41,Paraná,PR,2015,IDH,Total,Total,786
-1069,41,Paraná,PR,2016,IDH,Educação,Total,773
-1070,41,Paraná,PR,2016,IDH,Longevidade,Total,867
-1071,41,Paraná,PR,2016,IDH,Renda,Total,756
+1069,41,Paraná,PR,2016,IDH,Education,Total,773
+1070,41,Paraná,PR,2016,IDH,Life expectancy,Total,867
+1071,41,Paraná,PR,2016,IDH,Gross national income (GNI) per capita,Total,756
 1072,41,Paraná,PR,2016,IDH,Total,Total,797
-1073,41,Paraná,PR,2017,IDH,Educação,Total,764
-1074,41,Paraná,PR,2017,IDH,Longevidade,Total,872
-1075,41,Paraná,PR,2017,IDH,Renda,Total,759
+1073,41,Paraná,PR,2017,IDH,Education,Total,764
+1074,41,Paraná,PR,2017,IDH,Life expectancy,Total,872
+1075,41,Paraná,PR,2017,IDH,Gross national income (GNI) per capita,Total,759
 1076,41,Paraná,PR,2017,IDH,Total,Total,797
-1077,41,Paraná,PR,2018,IDH,Educação,Total,777
-1078,41,Paraná,PR,2018,IDH,Longevidade,Total,877
-1079,41,Paraná,PR,2018,IDH,Renda,Total,766
+1077,41,Paraná,PR,2018,IDH,Education,Total,777
+1078,41,Paraná,PR,2018,IDH,Life expectancy,Total,877
+1079,41,Paraná,PR,2018,IDH,Gross national income (GNI) per capita,Total,766
 1080,41,Paraná,PR,2018,IDH,Total,Total,805
-1081,41,Paraná,PR,2019,IDH,Educação,Total,779
-1082,41,Paraná,PR,2019,IDH,Longevidade,Total,882
-1083,41,Paraná,PR,2019,IDH,Renda,Total,764
+1081,41,Paraná,PR,2019,IDH,Education,Total,779
+1082,41,Paraná,PR,2019,IDH,Life expectancy,Total,882
+1083,41,Paraná,PR,2019,IDH,Gross national income (GNI) per capita,Total,764
 1084,41,Paraná,PR,2019,IDH,Total,Total,807
-1085,41,Paraná,PR,2020,IDH,Educação,Total,791
-1086,41,Paraná,PR,2020,IDH,Longevidade,Total,820
-1087,41,Paraná,PR,2020,IDH,Renda,Total,751
+1085,41,Paraná,PR,2020,IDH,Education,Total,791
+1086,41,Paraná,PR,2020,IDH,Life expectancy,Total,820
+1087,41,Paraná,PR,2020,IDH,Gross national income (GNI) per capita,Total,751
 1088,41,Paraná,PR,2020,IDH,Total,Total,787
-1089,41,Paraná,PR,2021,IDH,Educação,Total,780
-1090,41,Paraná,PR,2021,IDH,Longevidade,Total,785
-1091,41,Paraná,PR,2021,IDH,Renda,Total,744
+1089,41,Paraná,PR,2021,IDH,Education,Total,780
+1090,41,Paraná,PR,2021,IDH,Life expectancy,Total,785
+1091,41,Paraná,PR,2021,IDH,Gross national income (GNI) per capita,Total,744
 1092,41,Paraná,PR,2021,IDH,Total,Total,769
-1093,42,Santa Catarina,SC,1991,IDH,Educação,Total,329
-1094,42,Santa Catarina,SC,1991,IDH,Longevidade,Total,753
-1095,42,Santa Catarina,SC,1991,IDH,Renda,Total,648
+1093,42,Santa Catarina,SC,1991,IDH,Education,Total,329
+1094,42,Santa Catarina,SC,1991,IDH,Life expectancy,Total,753
+1095,42,Santa Catarina,SC,1991,IDH,Gross national income (GNI) per capita,Total,648
 1096,42,Santa Catarina,SC,1991,IDH,Total,Total,543
-1097,42,Santa Catarina,SC,2000,IDH,Educação,Total,526
-1098,42,Santa Catarina,SC,2000,IDH,Longevidade,Total,812
-1099,42,Santa Catarina,SC,2000,IDH,Renda,Total,717
+1097,42,Santa Catarina,SC,2000,IDH,Education,Total,526
+1098,42,Santa Catarina,SC,2000,IDH,Life expectancy,Total,812
+1099,42,Santa Catarina,SC,2000,IDH,Gross national income (GNI) per capita,Total,717
 1100,42,Santa Catarina,SC,2000,IDH,Total,Total,674
-1101,42,Santa Catarina,SC,2010,IDH,Educação,Total,697
-1102,42,Santa Catarina,SC,2010,IDH,Longevidade,Total,860
-1103,42,Santa Catarina,SC,2010,IDH,Renda,Total,773
+1101,42,Santa Catarina,SC,2010,IDH,Education,Total,697
+1102,42,Santa Catarina,SC,2010,IDH,Life expectancy,Total,860
+1103,42,Santa Catarina,SC,2010,IDH,Gross national income (GNI) per capita,Total,773
 1104,42,Santa Catarina,SC,2010,IDH,Total,Total,774
-1105,42,Santa Catarina,SC,2012,IDH,Educação,Total,740
-1106,42,Santa Catarina,SC,2012,IDH,Longevidade,Total,878
-1107,42,Santa Catarina,SC,2012,IDH,Renda,Total,764
+1105,42,Santa Catarina,SC,2012,IDH,Education,Total,740
+1106,42,Santa Catarina,SC,2012,IDH,Life expectancy,Total,878
+1107,42,Santa Catarina,SC,2012,IDH,Gross national income (GNI) per capita,Total,764
 1108,42,Santa Catarina,SC,2012,IDH,Total,Total,792
-1109,42,Santa Catarina,SC,2013,IDH,Educação,Total,757
-1110,42,Santa Catarina,SC,2013,IDH,Longevidade,Total,885
-1111,42,Santa Catarina,SC,2013,IDH,Renda,Total,768
+1109,42,Santa Catarina,SC,2013,IDH,Education,Total,757
+1110,42,Santa Catarina,SC,2013,IDH,Life expectancy,Total,885
+1111,42,Santa Catarina,SC,2013,IDH,Gross national income (GNI) per capita,Total,768
 1112,42,Santa Catarina,SC,2013,IDH,Total,Total,801
-1113,42,Santa Catarina,SC,2014,IDH,Educação,Total,768
-1114,42,Santa Catarina,SC,2014,IDH,Longevidade,Total,890
-1115,42,Santa Catarina,SC,2014,IDH,Renda,Total,769
+1113,42,Santa Catarina,SC,2014,IDH,Education,Total,768
+1114,42,Santa Catarina,SC,2014,IDH,Life expectancy,Total,890
+1115,42,Santa Catarina,SC,2014,IDH,Gross national income (GNI) per capita,Total,769
 1116,42,Santa Catarina,SC,2014,IDH,Total,Total,807
-1117,42,Santa Catarina,SC,2015,IDH,Educação,Total,769
-1118,42,Santa Catarina,SC,2015,IDH,Longevidade,Total,896
-1119,42,Santa Catarina,SC,2015,IDH,Renda,Total,769
+1117,42,Santa Catarina,SC,2015,IDH,Education,Total,769
+1118,42,Santa Catarina,SC,2015,IDH,Life expectancy,Total,896
+1119,42,Santa Catarina,SC,2015,IDH,Gross national income (GNI) per capita,Total,769
 1120,42,Santa Catarina,SC,2015,IDH,Total,Total,809
-1121,42,Santa Catarina,SC,2016,IDH,Educação,Total,785
-1122,42,Santa Catarina,SC,2016,IDH,Longevidade,Total,902
-1123,42,Santa Catarina,SC,2016,IDH,Renda,Total,763
+1121,42,Santa Catarina,SC,2016,IDH,Education,Total,785
+1122,42,Santa Catarina,SC,2016,IDH,Life expectancy,Total,902
+1123,42,Santa Catarina,SC,2016,IDH,Gross national income (GNI) per capita,Total,763
 1124,42,Santa Catarina,SC,2016,IDH,Total,Total,814
-1125,42,Santa Catarina,SC,2017,IDH,Educação,Total,778
-1126,42,Santa Catarina,SC,2017,IDH,Longevidade,Total,907
-1127,42,Santa Catarina,SC,2017,IDH,Renda,Total,772
+1125,42,Santa Catarina,SC,2017,IDH,Education,Total,778
+1126,42,Santa Catarina,SC,2017,IDH,Life expectancy,Total,907
+1127,42,Santa Catarina,SC,2017,IDH,Gross national income (GNI) per capita,Total,772
 1128,42,Santa Catarina,SC,2017,IDH,Total,Total,817
-1129,42,Santa Catarina,SC,2018,IDH,Educação,Total,780
-1130,42,Santa Catarina,SC,2018,IDH,Longevidade,Total,912
-1131,42,Santa Catarina,SC,2018,IDH,Renda,Total,772
+1129,42,Santa Catarina,SC,2018,IDH,Education,Total,780
+1130,42,Santa Catarina,SC,2018,IDH,Life expectancy,Total,912
+1131,42,Santa Catarina,SC,2018,IDH,Gross national income (GNI) per capita,Total,772
 1132,42,Santa Catarina,SC,2018,IDH,Total,Total,819
-1133,42,Santa Catarina,SC,2019,IDH,Educação,Total,794
-1134,42,Santa Catarina,SC,2019,IDH,Longevidade,Total,916
-1135,42,Santa Catarina,SC,2019,IDH,Renda,Total,776
+1133,42,Santa Catarina,SC,2019,IDH,Education,Total,794
+1134,42,Santa Catarina,SC,2019,IDH,Life expectancy,Total,916
+1135,42,Santa Catarina,SC,2019,IDH,Gross national income (GNI) per capita,Total,776
 1136,42,Santa Catarina,SC,2019,IDH,Total,Total,826
-1137,42,Santa Catarina,SC,2020,IDH,Educação,Total,790
-1138,42,Santa Catarina,SC,2020,IDH,Longevidade,Total,858
-1139,42,Santa Catarina,SC,2020,IDH,Renda,Total,763
+1137,42,Santa Catarina,SC,2020,IDH,Education,Total,790
+1138,42,Santa Catarina,SC,2020,IDH,Life expectancy,Total,858
+1139,42,Santa Catarina,SC,2020,IDH,Gross national income (GNI) per capita,Total,763
 1140,42,Santa Catarina,SC,2020,IDH,Total,Total,803
-1141,42,Santa Catarina,SC,2021,IDH,Educação,Total,790
-1142,42,Santa Catarina,SC,2021,IDH,Longevidade,Total,827
-1143,42,Santa Catarina,SC,2021,IDH,Renda,Total,759
+1141,42,Santa Catarina,SC,2021,IDH,Education,Total,790
+1142,42,Santa Catarina,SC,2021,IDH,Life expectancy,Total,827
+1143,42,Santa Catarina,SC,2021,IDH,Gross national income (GNI) per capita,Total,759
 1144,42,Santa Catarina,SC,2021,IDH,Total,Total,792
-1145,43,Rio Grande do Sul,RS,1991,IDH,Educação,Total,328
-1146,43,Rio Grande do Sul,RS,1991,IDH,Longevidade,Total,729
-1147,43,Rio Grande do Sul,RS,1991,IDH,Renda,Total,667
+1145,43,Rio Grande do Sul,RS,1991,IDH,Education,Total,328
+1146,43,Rio Grande do Sul,RS,1991,IDH,Life expectancy,Total,729
+1147,43,Rio Grande do Sul,RS,1991,IDH,Gross national income (GNI) per capita,Total,667
 1148,43,Rio Grande do Sul,RS,1991,IDH,Total,Total,542
-1149,43,Rio Grande do Sul,RS,2000,IDH,Educação,Total,505
-1150,43,Rio Grande do Sul,RS,2000,IDH,Longevidade,Total,804
-1151,43,Rio Grande do Sul,RS,2000,IDH,Renda,Total,720
+1149,43,Rio Grande do Sul,RS,2000,IDH,Education,Total,505
+1150,43,Rio Grande do Sul,RS,2000,IDH,Life expectancy,Total,804
+1151,43,Rio Grande do Sul,RS,2000,IDH,Gross national income (GNI) per capita,Total,720
 1152,43,Rio Grande do Sul,RS,2000,IDH,Total,Total,664
-1153,43,Rio Grande do Sul,RS,2010,IDH,Educação,Total,642
-1154,43,Rio Grande do Sul,RS,2010,IDH,Longevidade,Total,840
-1155,43,Rio Grande do Sul,RS,2010,IDH,Renda,Total,769
+1153,43,Rio Grande do Sul,RS,2010,IDH,Education,Total,642
+1154,43,Rio Grande do Sul,RS,2010,IDH,Life expectancy,Total,840
+1155,43,Rio Grande do Sul,RS,2010,IDH,Gross national income (GNI) per capita,Total,769
 1156,43,Rio Grande do Sul,RS,2010,IDH,Total,Total,746
-1157,43,Rio Grande do Sul,RS,2012,IDH,Educação,Total,674
-1158,43,Rio Grande do Sul,RS,2012,IDH,Longevidade,Total,860
-1159,43,Rio Grande do Sul,RS,2012,IDH,Renda,Total,767
+1157,43,Rio Grande do Sul,RS,2012,IDH,Education,Total,674
+1158,43,Rio Grande do Sul,RS,2012,IDH,Life expectancy,Total,860
+1159,43,Rio Grande do Sul,RS,2012,IDH,Gross national income (GNI) per capita,Total,767
 1160,43,Rio Grande do Sul,RS,2012,IDH,Total,Total,763
-1161,43,Rio Grande do Sul,RS,2013,IDH,Educação,Total,691
-1162,43,Rio Grande do Sul,RS,2013,IDH,Longevidade,Total,865
-1163,43,Rio Grande do Sul,RS,2013,IDH,Renda,Total,773
+1161,43,Rio Grande do Sul,RS,2013,IDH,Education,Total,691
+1162,43,Rio Grande do Sul,RS,2013,IDH,Life expectancy,Total,865
+1163,43,Rio Grande do Sul,RS,2013,IDH,Gross national income (GNI) per capita,Total,773
 1164,43,Rio Grande do Sul,RS,2013,IDH,Total,Total,773
-1165,43,Rio Grande do Sul,RS,2014,IDH,Educação,Total,699
-1166,43,Rio Grande do Sul,RS,2014,IDH,Longevidade,Total,870
-1167,43,Rio Grande do Sul,RS,2014,IDH,Renda,Total,777
+1165,43,Rio Grande do Sul,RS,2014,IDH,Education,Total,699
+1166,43,Rio Grande do Sul,RS,2014,IDH,Life expectancy,Total,870
+1167,43,Rio Grande do Sul,RS,2014,IDH,Gross national income (GNI) per capita,Total,777
 1168,43,Rio Grande do Sul,RS,2014,IDH,Total,Total,779
-1169,43,Rio Grande do Sul,RS,2015,IDH,Educação,Total,717
-1170,43,Rio Grande do Sul,RS,2015,IDH,Longevidade,Total,875
-1171,43,Rio Grande do Sul,RS,2015,IDH,Renda,Total,776
+1169,43,Rio Grande do Sul,RS,2015,IDH,Education,Total,717
+1170,43,Rio Grande do Sul,RS,2015,IDH,Life expectancy,Total,875
+1171,43,Rio Grande do Sul,RS,2015,IDH,Gross national income (GNI) per capita,Total,776
 1172,43,Rio Grande do Sul,RS,2015,IDH,Total,Total,787
-1173,43,Rio Grande do Sul,RS,2016,IDH,Educação,Total,722
-1174,43,Rio Grande do Sul,RS,2016,IDH,Longevidade,Total,880
-1175,43,Rio Grande do Sul,RS,2016,IDH,Renda,Total,772
+1173,43,Rio Grande do Sul,RS,2016,IDH,Education,Total,722
+1174,43,Rio Grande do Sul,RS,2016,IDH,Life expectancy,Total,880
+1175,43,Rio Grande do Sul,RS,2016,IDH,Gross national income (GNI) per capita,Total,772
 1176,43,Rio Grande do Sul,RS,2016,IDH,Total,Total,789
-1177,43,Rio Grande do Sul,RS,2017,IDH,Educação,Total,727
-1178,43,Rio Grande do Sul,RS,2017,IDH,Longevidade,Total,884
-1179,43,Rio Grande do Sul,RS,2017,IDH,Renda,Total,776
+1177,43,Rio Grande do Sul,RS,2017,IDH,Education,Total,727
+1178,43,Rio Grande do Sul,RS,2017,IDH,Life expectancy,Total,884
+1179,43,Rio Grande do Sul,RS,2017,IDH,Gross national income (GNI) per capita,Total,776
 1180,43,Rio Grande do Sul,RS,2017,IDH,Total,Total,793
-1181,43,Rio Grande do Sul,RS,2018,IDH,Educação,Total,736
-1182,43,Rio Grande do Sul,RS,2018,IDH,Longevidade,Total,888
-1183,43,Rio Grande do Sul,RS,2018,IDH,Renda,Total,775
+1181,43,Rio Grande do Sul,RS,2018,IDH,Education,Total,736
+1182,43,Rio Grande do Sul,RS,2018,IDH,Life expectancy,Total,888
+1183,43,Rio Grande do Sul,RS,2018,IDH,Gross national income (GNI) per capita,Total,775
 1184,43,Rio Grande do Sul,RS,2018,IDH,Total,Total,797
-1185,43,Rio Grande do Sul,RS,2019,IDH,Educação,Total,735
-1186,43,Rio Grande do Sul,RS,2019,IDH,Longevidade,Total,893
-1187,43,Rio Grande do Sul,RS,2019,IDH,Renda,Total,783
+1185,43,Rio Grande do Sul,RS,2019,IDH,Education,Total,735
+1186,43,Rio Grande do Sul,RS,2019,IDH,Life expectancy,Total,893
+1187,43,Rio Grande do Sul,RS,2019,IDH,Gross national income (GNI) per capita,Total,783
 1188,43,Rio Grande do Sul,RS,2019,IDH,Total,Total,801
-1189,43,Rio Grande do Sul,RS,2020,IDH,Educação,Total,739
-1190,43,Rio Grande do Sul,RS,2020,IDH,Longevidade,Total,831
-1191,43,Rio Grande do Sul,RS,2020,IDH,Renda,Total,774
+1189,43,Rio Grande do Sul,RS,2020,IDH,Education,Total,739
+1190,43,Rio Grande do Sul,RS,2020,IDH,Life expectancy,Total,831
+1191,43,Rio Grande do Sul,RS,2020,IDH,Gross national income (GNI) per capita,Total,774
 1192,43,Rio Grande do Sul,RS,2020,IDH,Total,Total,780
-1193,43,Rio Grande do Sul,RS,2021,IDH,Educação,Total,750
-1194,43,Rio Grande do Sul,RS,2021,IDH,Longevidade,Total,797
-1195,43,Rio Grande do Sul,RS,2021,IDH,Renda,Total,767
+1193,43,Rio Grande do Sul,RS,2021,IDH,Education,Total,750
+1194,43,Rio Grande do Sul,RS,2021,IDH,Life expectancy,Total,797
+1195,43,Rio Grande do Sul,RS,2021,IDH,Gross national income (GNI) per capita,Total,767
 1196,43,Rio Grande do Sul,RS,2021,IDH,Total,Total,771
-1197,50,Mato Grosso do Sul,MS,1991,IDH,Educação,Total,259
-1198,50,Mato Grosso do Sul,MS,1991,IDH,Longevidade,Total,699
-1199,50,Mato Grosso do Sul,MS,1991,IDH,Renda,Total,641
+1197,50,Mato Grosso do Sul,MS,1991,IDH,Education,Total,259
+1198,50,Mato Grosso do Sul,MS,1991,IDH,Life expectancy,Total,699
+1199,50,Mato Grosso do Sul,MS,1991,IDH,Gross national income (GNI) per capita,Total,641
 1200,50,Mato Grosso do Sul,MS,1991,IDH,Total,Total,488
-1201,50,Mato Grosso do Sul,MS,2000,IDH,Educação,Total,445
-1202,50,Mato Grosso do Sul,MS,2000,IDH,Longevidade,Total,752
-1203,50,Mato Grosso do Sul,MS,2000,IDH,Renda,Total,687
+1201,50,Mato Grosso do Sul,MS,2000,IDH,Education,Total,445
+1202,50,Mato Grosso do Sul,MS,2000,IDH,Life expectancy,Total,752
+1203,50,Mato Grosso do Sul,MS,2000,IDH,Gross national income (GNI) per capita,Total,687
 1204,50,Mato Grosso do Sul,MS,2000,IDH,Total,Total,613
-1205,50,Mato Grosso do Sul,MS,2010,IDH,Educação,Total,629
-1206,50,Mato Grosso do Sul,MS,2010,IDH,Longevidade,Total,833
-1207,50,Mato Grosso do Sul,MS,2010,IDH,Renda,Total,740
+1205,50,Mato Grosso do Sul,MS,2010,IDH,Education,Total,629
+1206,50,Mato Grosso do Sul,MS,2010,IDH,Life expectancy,Total,833
+1207,50,Mato Grosso do Sul,MS,2010,IDH,Gross national income (GNI) per capita,Total,740
 1208,50,Mato Grosso do Sul,MS,2010,IDH,Total,Total,729
-1209,50,Mato Grosso do Sul,MS,2012,IDH,Educação,Total,657
-1210,50,Mato Grosso do Sul,MS,2012,IDH,Longevidade,Total,823
-1211,50,Mato Grosso do Sul,MS,2012,IDH,Renda,Total,729
+1209,50,Mato Grosso do Sul,MS,2012,IDH,Education,Total,657
+1210,50,Mato Grosso do Sul,MS,2012,IDH,Life expectancy,Total,823
+1211,50,Mato Grosso do Sul,MS,2012,IDH,Gross national income (GNI) per capita,Total,729
 1212,50,Mato Grosso do Sul,MS,2012,IDH,Total,Total,733
-1213,50,Mato Grosso do Sul,MS,2013,IDH,Educação,Total,674
-1214,50,Mato Grosso do Sul,MS,2013,IDH,Longevidade,Total,828
-1215,50,Mato Grosso do Sul,MS,2013,IDH,Renda,Total,735
+1213,50,Mato Grosso do Sul,MS,2013,IDH,Education,Total,674
+1214,50,Mato Grosso do Sul,MS,2013,IDH,Life expectancy,Total,828
+1215,50,Mato Grosso do Sul,MS,2013,IDH,Gross national income (GNI) per capita,Total,735
 1216,50,Mato Grosso do Sul,MS,2013,IDH,Total,Total,743
-1217,50,Mato Grosso do Sul,MS,2014,IDH,Educação,Total,671
-1218,50,Mato Grosso do Sul,MS,2014,IDH,Longevidade,Total,832
-1219,50,Mato Grosso do Sul,MS,2014,IDH,Renda,Total,742
+1217,50,Mato Grosso do Sul,MS,2014,IDH,Education,Total,671
+1218,50,Mato Grosso do Sul,MS,2014,IDH,Life expectancy,Total,832
+1219,50,Mato Grosso do Sul,MS,2014,IDH,Gross national income (GNI) per capita,Total,742
 1220,50,Mato Grosso do Sul,MS,2014,IDH,Total,Total,745
-1221,50,Mato Grosso do Sul,MS,2015,IDH,Educação,Total,667
-1222,50,Mato Grosso do Sul,MS,2015,IDH,Longevidade,Total,837
-1223,50,Mato Grosso do Sul,MS,2015,IDH,Renda,Total,726
+1221,50,Mato Grosso do Sul,MS,2015,IDH,Education,Total,667
+1222,50,Mato Grosso do Sul,MS,2015,IDH,Life expectancy,Total,837
+1223,50,Mato Grosso do Sul,MS,2015,IDH,Gross national income (GNI) per capita,Total,726
 1224,50,Mato Grosso do Sul,MS,2015,IDH,Total,Total,740
-1225,50,Mato Grosso do Sul,MS,2016,IDH,Educação,Total,698
-1226,50,Mato Grosso do Sul,MS,2016,IDH,Longevidade,Total,842
-1227,50,Mato Grosso do Sul,MS,2016,IDH,Renda,Total,741
+1225,50,Mato Grosso do Sul,MS,2016,IDH,Education,Total,698
+1226,50,Mato Grosso do Sul,MS,2016,IDH,Life expectancy,Total,842
+1227,50,Mato Grosso do Sul,MS,2016,IDH,Gross national income (GNI) per capita,Total,741
 1228,50,Mato Grosso do Sul,MS,2016,IDH,Total,Total,758
-1229,50,Mato Grosso do Sul,MS,2017,IDH,Educação,Total,708
-1230,50,Mato Grosso do Sul,MS,2017,IDH,Longevidade,Total,846
-1231,50,Mato Grosso do Sul,MS,2017,IDH,Renda,Total,738
+1229,50,Mato Grosso do Sul,MS,2017,IDH,Education,Total,708
+1230,50,Mato Grosso do Sul,MS,2017,IDH,Life expectancy,Total,846
+1231,50,Mato Grosso do Sul,MS,2017,IDH,Gross national income (GNI) per capita,Total,738
 1232,50,Mato Grosso do Sul,MS,2017,IDH,Total,Total,762
-1233,50,Mato Grosso do Sul,MS,2018,IDH,Educação,Total,715
-1234,50,Mato Grosso do Sul,MS,2018,IDH,Longevidade,Total,850
-1235,50,Mato Grosso do Sul,MS,2018,IDH,Renda,Total,750
+1233,50,Mato Grosso do Sul,MS,2018,IDH,Education,Total,715
+1234,50,Mato Grosso do Sul,MS,2018,IDH,Life expectancy,Total,850
+1235,50,Mato Grosso do Sul,MS,2018,IDH,Gross national income (GNI) per capita,Total,750
 1236,50,Mato Grosso do Sul,MS,2018,IDH,Total,Total,770
-1237,50,Mato Grosso do Sul,MS,2019,IDH,Educação,Total,731
-1238,50,Mato Grosso do Sul,MS,2019,IDH,Longevidade,Total,854
-1239,50,Mato Grosso do Sul,MS,2019,IDH,Renda,Total,752
+1237,50,Mato Grosso do Sul,MS,2019,IDH,Education,Total,731
+1238,50,Mato Grosso do Sul,MS,2019,IDH,Life expectancy,Total,854
+1239,50,Mato Grosso do Sul,MS,2019,IDH,Gross national income (GNI) per capita,Total,752
 1240,50,Mato Grosso do Sul,MS,2019,IDH,Total,Total,777
-1241,50,Mato Grosso do Sul,MS,2020,IDH,Educação,Total,747
-1242,50,Mato Grosso do Sul,MS,2020,IDH,Longevidade,Total,789
-1243,50,Mato Grosso do Sul,MS,2020,IDH,Renda,Total,744
+1241,50,Mato Grosso do Sul,MS,2020,IDH,Education,Total,747
+1242,50,Mato Grosso do Sul,MS,2020,IDH,Life expectancy,Total,789
+1243,50,Mato Grosso do Sul,MS,2020,IDH,Gross national income (GNI) per capita,Total,744
 1244,50,Mato Grosso do Sul,MS,2020,IDH,Total,Total,760
-1245,50,Mato Grosso do Sul,MS,2021,IDH,Educação,Total,741
-1246,50,Mato Grosso do Sul,MS,2021,IDH,Longevidade,Total,751
-1247,50,Mato Grosso do Sul,MS,2021,IDH,Renda,Total,733
+1245,50,Mato Grosso do Sul,MS,2021,IDH,Education,Total,741
+1246,50,Mato Grosso do Sul,MS,2021,IDH,Life expectancy,Total,751
+1247,50,Mato Grosso do Sul,MS,2021,IDH,Gross national income (GNI) per capita,Total,733
 1248,50,Mato Grosso do Sul,MS,2021,IDH,Total,Total,742
-1249,51,Mato Grosso,MT,1991,IDH,Educação,Total,221
-1250,51,Mato Grosso,MT,1991,IDH,Longevidade,Total,654
-1251,51,Mato Grosso,MT,1991,IDH,Renda,Total,627
+1249,51,Mato Grosso,MT,1991,IDH,Education,Total,221
+1250,51,Mato Grosso,MT,1991,IDH,Life expectancy,Total,654
+1251,51,Mato Grosso,MT,1991,IDH,Gross national income (GNI) per capita,Total,627
 1252,51,Mato Grosso,MT,1991,IDH,Total,Total,449
-1253,51,Mato Grosso,MT,2000,IDH,Educação,Total,426
-1254,51,Mato Grosso,MT,2000,IDH,Longevidade,Total,740
-1255,51,Mato Grosso,MT,2000,IDH,Renda,Total,689
+1253,51,Mato Grosso,MT,2000,IDH,Education,Total,426
+1254,51,Mato Grosso,MT,2000,IDH,Life expectancy,Total,740
+1255,51,Mato Grosso,MT,2000,IDH,Gross national income (GNI) per capita,Total,689
 1256,51,Mato Grosso,MT,2000,IDH,Total,Total,601
-1257,51,Mato Grosso,MT,2010,IDH,Educação,Total,635
-1258,51,Mato Grosso,MT,2010,IDH,Longevidade,Total,821
-1259,51,Mato Grosso,MT,2010,IDH,Renda,Total,732
+1257,51,Mato Grosso,MT,2010,IDH,Education,Total,635
+1258,51,Mato Grosso,MT,2010,IDH,Life expectancy,Total,821
+1259,51,Mato Grosso,MT,2010,IDH,Gross national income (GNI) per capita,Total,732
 1260,51,Mato Grosso,MT,2010,IDH,Total,Total,725
-1261,51,Mato Grosso,MT,2012,IDH,Educação,Total,694
-1262,51,Mato Grosso,MT,2012,IDH,Longevidade,Total,803
-1263,51,Mato Grosso,MT,2012,IDH,Renda,Total,732
+1261,51,Mato Grosso,MT,2012,IDH,Education,Total,694
+1262,51,Mato Grosso,MT,2012,IDH,Life expectancy,Total,803
+1263,51,Mato Grosso,MT,2012,IDH,Gross national income (GNI) per capita,Total,732
 1264,51,Mato Grosso,MT,2012,IDH,Total,Total,742
-1265,51,Mato Grosso,MT,2013,IDH,Educação,Total,732
-1266,51,Mato Grosso,MT,2013,IDH,Longevidade,Total,807
-1267,51,Mato Grosso,MT,2013,IDH,Renda,Total,738
+1265,51,Mato Grosso,MT,2013,IDH,Education,Total,732
+1266,51,Mato Grosso,MT,2013,IDH,Life expectancy,Total,807
+1267,51,Mato Grosso,MT,2013,IDH,Gross national income (GNI) per capita,Total,738
 1268,51,Mato Grosso,MT,2013,IDH,Total,Total,758
-1269,51,Mato Grosso,MT,2014,IDH,Educação,Total,736
-1270,51,Mato Grosso,MT,2014,IDH,Longevidade,Total,812
-1271,51,Mato Grosso,MT,2014,IDH,Renda,Total,739
+1269,51,Mato Grosso,MT,2014,IDH,Education,Total,736
+1270,51,Mato Grosso,MT,2014,IDH,Life expectancy,Total,812
+1271,51,Mato Grosso,MT,2014,IDH,Gross national income (GNI) per capita,Total,739
 1272,51,Mato Grosso,MT,2014,IDH,Total,Total,762
-1273,51,Mato Grosso,MT,2015,IDH,Educação,Total,767
-1274,51,Mato Grosso,MT,2015,IDH,Longevidade,Total,816
-1275,51,Mato Grosso,MT,2015,IDH,Renda,Total,729
+1273,51,Mato Grosso,MT,2015,IDH,Education,Total,767
+1274,51,Mato Grosso,MT,2015,IDH,Life expectancy,Total,816
+1275,51,Mato Grosso,MT,2015,IDH,Gross national income (GNI) per capita,Total,729
 1276,51,Mato Grosso,MT,2015,IDH,Total,Total,770
-1277,51,Mato Grosso,MT,2016,IDH,Educação,Total,766
-1278,51,Mato Grosso,MT,2016,IDH,Longevidade,Total,820
-1279,51,Mato Grosso,MT,2016,IDH,Renda,Total,725
+1277,51,Mato Grosso,MT,2016,IDH,Education,Total,766
+1278,51,Mato Grosso,MT,2016,IDH,Life expectancy,Total,820
+1279,51,Mato Grosso,MT,2016,IDH,Gross national income (GNI) per capita,Total,725
 1280,51,Mato Grosso,MT,2016,IDH,Total,Total,769
-1281,51,Mato Grosso,MT,2017,IDH,Educação,Total,757
-1282,51,Mato Grosso,MT,2017,IDH,Longevidade,Total,824
-1283,51,Mato Grosso,MT,2017,IDH,Renda,Total,733
+1281,51,Mato Grosso,MT,2017,IDH,Education,Total,757
+1282,51,Mato Grosso,MT,2017,IDH,Life expectancy,Total,824
+1283,51,Mato Grosso,MT,2017,IDH,Gross national income (GNI) per capita,Total,733
 1284,51,Mato Grosso,MT,2017,IDH,Total,Total,770
-1285,51,Mato Grosso,MT,2018,IDH,Educação,Total,764
-1286,51,Mato Grosso,MT,2018,IDH,Longevidade,Total,828
-1287,51,Mato Grosso,MT,2018,IDH,Renda,Total,744
+1285,51,Mato Grosso,MT,2018,IDH,Education,Total,764
+1286,51,Mato Grosso,MT,2018,IDH,Life expectancy,Total,828
+1287,51,Mato Grosso,MT,2018,IDH,Gross national income (GNI) per capita,Total,744
 1288,51,Mato Grosso,MT,2018,IDH,Total,Total,778
-1289,51,Mato Grosso,MT,2019,IDH,Educação,Total,771
-1290,51,Mato Grosso,MT,2019,IDH,Longevidade,Total,832
-1291,51,Mato Grosso,MT,2019,IDH,Renda,Total,738
+1289,51,Mato Grosso,MT,2019,IDH,Education,Total,771
+1290,51,Mato Grosso,MT,2019,IDH,Life expectancy,Total,832
+1291,51,Mato Grosso,MT,2019,IDH,Gross national income (GNI) per capita,Total,738
 1292,51,Mato Grosso,MT,2019,IDH,Total,Total,779
-1293,51,Mato Grosso,MT,2020,IDH,Educação,Total,765
-1294,51,Mato Grosso,MT,2020,IDH,Longevidade,Total,769
-1295,51,Mato Grosso,MT,2020,IDH,Renda,Total,735
+1293,51,Mato Grosso,MT,2020,IDH,Education,Total,765
+1294,51,Mato Grosso,MT,2020,IDH,Life expectancy,Total,769
+1295,51,Mato Grosso,MT,2020,IDH,Gross national income (GNI) per capita,Total,735
 1296,51,Mato Grosso,MT,2020,IDH,Total,Total,756
-1297,51,Mato Grosso,MT,2021,IDH,Educação,Total,758
-1298,51,Mato Grosso,MT,2021,IDH,Longevidade,Total,730
-1299,51,Mato Grosso,MT,2021,IDH,Renda,Total,720
+1297,51,Mato Grosso,MT,2021,IDH,Education,Total,758
+1298,51,Mato Grosso,MT,2021,IDH,Life expectancy,Total,730
+1299,51,Mato Grosso,MT,2021,IDH,Gross national income (GNI) per capita,Total,720
 1300,51,Mato Grosso,MT,2021,IDH,Total,Total,736
-1301,52,Goiás,GO,1991,IDH,Educação,Total,273
-1302,52,Goiás,GO,1991,IDH,Longevidade,Total,668
-1303,52,Goiás,GO,1991,IDH,Renda,Total,633
+1301,52,Goiás,GO,1991,IDH,Education,Total,273
+1302,52,Goiás,GO,1991,IDH,Life expectancy,Total,668
+1303,52,Goiás,GO,1991,IDH,Gross national income (GNI) per capita,Total,633
 1304,52,Goiás,GO,1991,IDH,Total,Total,487
-1305,52,Goiás,GO,2000,IDH,Educação,Total,439
-1306,52,Goiás,GO,2000,IDH,Longevidade,Total,773
-1307,52,Goiás,GO,2000,IDH,Renda,Total,686
+1305,52,Goiás,GO,2000,IDH,Education,Total,439
+1306,52,Goiás,GO,2000,IDH,Life expectancy,Total,773
+1307,52,Goiás,GO,2000,IDH,Gross national income (GNI) per capita,Total,686
 1308,52,Goiás,GO,2000,IDH,Total,Total,615
-1309,52,Goiás,GO,2010,IDH,Educação,Total,646
-1310,52,Goiás,GO,2010,IDH,Longevidade,Total,827
-1311,52,Goiás,GO,2010,IDH,Renda,Total,742
+1309,52,Goiás,GO,2010,IDH,Education,Total,646
+1310,52,Goiás,GO,2010,IDH,Life expectancy,Total,827
+1311,52,Goiás,GO,2010,IDH,Gross national income (GNI) per capita,Total,742
 1312,52,Goiás,GO,2010,IDH,Total,Total,735
-1313,52,Goiás,GO,2012,IDH,Educação,Total,698
-1314,52,Goiás,GO,2012,IDH,Longevidade,Total,807
-1315,52,Goiás,GO,2012,IDH,Renda,Total,730
+1313,52,Goiás,GO,2012,IDH,Education,Total,698
+1314,52,Goiás,GO,2012,IDH,Life expectancy,Total,807
+1315,52,Goiás,GO,2012,IDH,Gross national income (GNI) per capita,Total,730
 1316,52,Goiás,GO,2012,IDH,Total,Total,744
-1317,52,Goiás,GO,2013,IDH,Educação,Total,710
-1318,52,Goiás,GO,2013,IDH,Longevidade,Total,810
-1319,52,Goiás,GO,2013,IDH,Renda,Total,740
+1317,52,Goiás,GO,2013,IDH,Education,Total,710
+1318,52,Goiás,GO,2013,IDH,Life expectancy,Total,810
+1319,52,Goiás,GO,2013,IDH,Gross national income (GNI) per capita,Total,740
 1320,52,Goiás,GO,2013,IDH,Total,Total,752
-1321,52,Goiás,GO,2014,IDH,Educação,Total,723
-1322,52,Goiás,GO,2014,IDH,Longevidade,Total,813
-1323,52,Goiás,GO,2014,IDH,Renda,Total,739
+1321,52,Goiás,GO,2014,IDH,Education,Total,723
+1322,52,Goiás,GO,2014,IDH,Life expectancy,Total,813
+1323,52,Goiás,GO,2014,IDH,Gross national income (GNI) per capita,Total,739
 1324,52,Goiás,GO,2014,IDH,Total,Total,757
-1325,52,Goiás,GO,2015,IDH,Educação,Total,722
-1326,52,Goiás,GO,2015,IDH,Longevidade,Total,815
-1327,52,Goiás,GO,2015,IDH,Renda,Total,731
+1325,52,Goiás,GO,2015,IDH,Education,Total,722
+1326,52,Goiás,GO,2015,IDH,Life expectancy,Total,815
+1327,52,Goiás,GO,2015,IDH,Gross national income (GNI) per capita,Total,731
 1328,52,Goiás,GO,2015,IDH,Total,Total,755
-1329,52,Goiás,GO,2016,IDH,Educação,Total,754
-1330,52,Goiás,GO,2016,IDH,Longevidade,Total,818
-1331,52,Goiás,GO,2016,IDH,Renda,Total,724
+1329,52,Goiás,GO,2016,IDH,Education,Total,754
+1330,52,Goiás,GO,2016,IDH,Life expectancy,Total,818
+1331,52,Goiás,GO,2016,IDH,Gross national income (GNI) per capita,Total,724
 1332,52,Goiás,GO,2016,IDH,Total,Total,764
-1333,52,Goiás,GO,2017,IDH,Educação,Total,743
-1334,52,Goiás,GO,2017,IDH,Longevidade,Total,821
-1335,52,Goiás,GO,2017,IDH,Renda,Total,735
+1333,52,Goiás,GO,2017,IDH,Education,Total,743
+1334,52,Goiás,GO,2017,IDH,Life expectancy,Total,821
+1335,52,Goiás,GO,2017,IDH,Gross national income (GNI) per capita,Total,735
 1336,52,Goiás,GO,2017,IDH,Total,Total,765
-1337,52,Goiás,GO,2018,IDH,Educação,Total,757
-1338,52,Goiás,GO,2018,IDH,Longevidade,Total,824
-1339,52,Goiás,GO,2018,IDH,Renda,Total,735
+1337,52,Goiás,GO,2018,IDH,Education,Total,757
+1338,52,Goiás,GO,2018,IDH,Life expectancy,Total,824
+1339,52,Goiás,GO,2018,IDH,Gross national income (GNI) per capita,Total,735
 1340,52,Goiás,GO,2018,IDH,Total,Total,771
-1341,52,Goiás,GO,2019,IDH,Educação,Total,770
-1342,52,Goiás,GO,2019,IDH,Longevidade,Total,827
-1343,52,Goiás,GO,2019,IDH,Renda,Total,729
+1341,52,Goiás,GO,2019,IDH,Education,Total,770
+1342,52,Goiás,GO,2019,IDH,Life expectancy,Total,827
+1343,52,Goiás,GO,2019,IDH,Gross national income (GNI) per capita,Total,729
 1344,52,Goiás,GO,2019,IDH,Total,Total,774
-1345,52,Goiás,GO,2020,IDH,Educação,Total,790
-1346,52,Goiás,GO,2020,IDH,Longevidade,Total,763
-1347,52,Goiás,GO,2020,IDH,Renda,Total,722
+1345,52,Goiás,GO,2020,IDH,Education,Total,790
+1346,52,Goiás,GO,2020,IDH,Life expectancy,Total,763
+1347,52,Goiás,GO,2020,IDH,Gross national income (GNI) per capita,Total,722
 1348,52,Goiás,GO,2020,IDH,Total,Total,758
-1349,52,Goiás,GO,2021,IDH,Educação,Total,778
-1350,52,Goiás,GO,2021,IDH,Longevidade,Total,721
-1351,52,Goiás,GO,2021,IDH,Renda,Total,714
+1349,52,Goiás,GO,2021,IDH,Education,Total,778
+1350,52,Goiás,GO,2021,IDH,Life expectancy,Total,721
+1351,52,Goiás,GO,2021,IDH,Gross national income (GNI) per capita,Total,714
 1352,52,Goiás,GO,2021,IDH,Total,Total,737
-1353,53,Distrito Federal,DF,1991,IDH,Educação,Total,419
-1354,53,Distrito Federal,DF,1991,IDH,Longevidade,Total,731
-1355,53,Distrito Federal,DF,1991,IDH,Renda,Total,762
+1353,53,Distrito Federal,DF,1991,IDH,Education,Total,419
+1354,53,Distrito Federal,DF,1991,IDH,Life expectancy,Total,731
+1355,53,Distrito Federal,DF,1991,IDH,Gross national income (GNI) per capita,Total,762
 1356,53,Distrito Federal,DF,1991,IDH,Total,Total,616
-1357,53,Distrito Federal,DF,2000,IDH,Educação,Total,582
-1358,53,Distrito Federal,DF,2000,IDH,Longevidade,Total,814
-1359,53,Distrito Federal,DF,2000,IDH,Renda,Total,805
+1357,53,Distrito Federal,DF,2000,IDH,Education,Total,582
+1358,53,Distrito Federal,DF,2000,IDH,Life expectancy,Total,814
+1359,53,Distrito Federal,DF,2000,IDH,Gross national income (GNI) per capita,Total,805
 1360,53,Distrito Federal,DF,2000,IDH,Total,Total,725
-1361,53,Distrito Federal,DF,2010,IDH,Educação,Total,742
-1362,53,Distrito Federal,DF,2010,IDH,Longevidade,Total,873
-1363,53,Distrito Federal,DF,2010,IDH,Renda,Total,863
+1361,53,Distrito Federal,DF,2010,IDH,Education,Total,742
+1362,53,Distrito Federal,DF,2010,IDH,Life expectancy,Total,873
+1363,53,Distrito Federal,DF,2010,IDH,Gross national income (GNI) per capita,Total,863
 1364,53,Distrito Federal,DF,2010,IDH,Total,Total,824
-1365,53,Distrito Federal,DF,2012,IDH,Educação,Total,768
-1366,53,Distrito Federal,DF,2012,IDH,Longevidade,Total,865
-1367,53,Distrito Federal,DF,2012,IDH,Renda,Total,846
+1365,53,Distrito Federal,DF,2012,IDH,Education,Total,768
+1366,53,Distrito Federal,DF,2012,IDH,Life expectancy,Total,865
+1367,53,Distrito Federal,DF,2012,IDH,Gross national income (GNI) per capita,Total,846
 1368,53,Distrito Federal,DF,2012,IDH,Total,Total,825
-1369,53,Distrito Federal,DF,2013,IDH,Educação,Total,794
-1370,53,Distrito Federal,DF,2013,IDH,Longevidade,Total,870
-1371,53,Distrito Federal,DF,2013,IDH,Renda,Total,848
+1369,53,Distrito Federal,DF,2013,IDH,Education,Total,794
+1370,53,Distrito Federal,DF,2013,IDH,Life expectancy,Total,870
+1371,53,Distrito Federal,DF,2013,IDH,Gross national income (GNI) per capita,Total,848
 1372,53,Distrito Federal,DF,2013,IDH,Total,Total,837
-1373,53,Distrito Federal,DF,2014,IDH,Educação,Total,791
-1374,53,Distrito Federal,DF,2014,IDH,Longevidade,Total,875
-1375,53,Distrito Federal,DF,2014,IDH,Renda,Total,845
+1373,53,Distrito Federal,DF,2014,IDH,Education,Total,791
+1374,53,Distrito Federal,DF,2014,IDH,Life expectancy,Total,875
+1375,53,Distrito Federal,DF,2014,IDH,Gross national income (GNI) per capita,Total,845
 1376,53,Distrito Federal,DF,2014,IDH,Total,Total,836
-1377,53,Distrito Federal,DF,2015,IDH,Educação,Total,789
-1378,53,Distrito Federal,DF,2015,IDH,Longevidade,Total,879
-1379,53,Distrito Federal,DF,2015,IDH,Renda,Total,847
+1377,53,Distrito Federal,DF,2015,IDH,Education,Total,789
+1378,53,Distrito Federal,DF,2015,IDH,Life expectancy,Total,879
+1379,53,Distrito Federal,DF,2015,IDH,Gross national income (GNI) per capita,Total,847
 1380,53,Distrito Federal,DF,2015,IDH,Total,Total,837
-1381,53,Distrito Federal,DF,2016,IDH,Educação,Total,822
-1382,53,Distrito Federal,DF,2016,IDH,Longevidade,Total,884
-1383,53,Distrito Federal,DF,2016,IDH,Renda,Total,836
+1381,53,Distrito Federal,DF,2016,IDH,Education,Total,822
+1382,53,Distrito Federal,DF,2016,IDH,Life expectancy,Total,884
+1383,53,Distrito Federal,DF,2016,IDH,Gross national income (GNI) per capita,Total,836
 1384,53,Distrito Federal,DF,2016,IDH,Total,Total,847
-1385,53,Distrito Federal,DF,2017,IDH,Educação,Total,797
-1386,53,Distrito Federal,DF,2017,IDH,Longevidade,Total,888
-1387,53,Distrito Federal,DF,2017,IDH,Renda,Total,842
+1385,53,Distrito Federal,DF,2017,IDH,Education,Total,797
+1386,53,Distrito Federal,DF,2017,IDH,Life expectancy,Total,888
+1387,53,Distrito Federal,DF,2017,IDH,Gross national income (GNI) per capita,Total,842
 1388,53,Distrito Federal,DF,2017,IDH,Total,Total,842
-1389,53,Distrito Federal,DF,2018,IDH,Educação,Total,808
-1390,53,Distrito Federal,DF,2018,IDH,Longevidade,Total,892
-1391,53,Distrito Federal,DF,2018,IDH,Renda,Total,836
+1389,53,Distrito Federal,DF,2018,IDH,Education,Total,808
+1390,53,Distrito Federal,DF,2018,IDH,Life expectancy,Total,892
+1391,53,Distrito Federal,DF,2018,IDH,Gross national income (GNI) per capita,Total,836
 1392,53,Distrito Federal,DF,2018,IDH,Total,Total,845
-1393,53,Distrito Federal,DF,2019,IDH,Educação,Total,842
-1394,53,Distrito Federal,DF,2019,IDH,Longevidade,Total,896
-1395,53,Distrito Federal,DF,2019,IDH,Renda,Total,841
+1393,53,Distrito Federal,DF,2019,IDH,Education,Total,842
+1394,53,Distrito Federal,DF,2019,IDH,Life expectancy,Total,896
+1395,53,Distrito Federal,DF,2019,IDH,Gross national income (GNI) per capita,Total,841
 1396,53,Distrito Federal,DF,2019,IDH,Total,Total,859
-1397,53,Distrito Federal,DF,2020,IDH,Educação,Total,825
-1398,53,Distrito Federal,DF,2020,IDH,Longevidade,Total,836
-1399,53,Distrito Federal,DF,2020,IDH,Renda,Total,827
+1397,53,Distrito Federal,DF,2020,IDH,Education,Total,825
+1398,53,Distrito Federal,DF,2020,IDH,Life expectancy,Total,836
+1399,53,Distrito Federal,DF,2020,IDH,Gross national income (GNI) per capita,Total,827
 1400,53,Distrito Federal,DF,2020,IDH,Total,Total,829
-1401,53,Distrito Federal,DF,2021,IDH,Educação,Total,817
-1402,53,Distrito Federal,DF,2021,IDH,Longevidade,Total,803
-1403,53,Distrito Federal,DF,2021,IDH,Renda,Total,821
+1401,53,Distrito Federal,DF,2021,IDH,Education,Total,817
+1402,53,Distrito Federal,DF,2021,IDH,Life expectancy,Total,803
+1403,53,Distrito Federal,DF,2021,IDH,Gross national income (GNI) per capita,Total,821
 1404,53,Distrito Federal,DF,2021,IDH,Total,Total,814

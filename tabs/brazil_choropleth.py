@@ -22,20 +22,20 @@ def get_data():
 
 @st.cache_data
 def plot(df):
-    min = df.valor.min()
+    min = df.value.min()
     min = min - (min % 100)
 
-    max = df.valor.max()
+    max = df.value.max()
     max = max + 100 - (max % 100)
 
     fig = px.choropleth(df,
                         geojson=get_geojson(),
-                        locations='sigla',
-                        color='valor',
+                        locations='acronym',
+                        color='value',
                         range_color=(min, max),
                         color_continuous_scale='Blues',
-                        hover_name='no_uf',
-                        hover_data=['valor'])
+                        hover_name='state_name',
+                        hover_data=['value'])
 
     fig.update_layout(
         margin={"r": 0, "t": 0, "l": 0, "b": 0},
@@ -43,7 +43,7 @@ def plot(df):
             lataxis={'range': [-60, 10]},
             lonaxis={'range': [-100, -30]}
         ),
-        height=650
+        height=600
     )
 
     fig.update_geos(fitbounds="geojson", visible=False)
@@ -54,14 +54,13 @@ def plot(df):
 def main(tab: DeltaGenerator, df: pd.DataFrame):
 
     col1, col2 = tab.columns([1, 3])
-    year = col1.select_slider('Year', df.ano.unique())
-    category = col1.selectbox('Category', df.idh_categoria.unique())
+    year = col1.select_slider('Year', df.year.unique())
+    category = col1.selectbox('Category', df.category.unique())
 
-    df = df[(df.ano == year) & (df.idh_categoria == category)]
+    df = df[(df.year == year) & (df.category == category)]
 
     fig = plot(df)
 
-    col2.header(f'HDI {year}: {category}')
     col2.plotly_chart(fig, use_container_width=True)
 
     tab.write(df)
